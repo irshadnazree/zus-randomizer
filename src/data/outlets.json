@@ -1,0 +1,4810 @@
+[
+  {
+    "name": "ZUS Coffee - 68 Degree Avenue, Johor",
+    "address": "No 15 (Ground Floor), Jalan Suria 2, Pusat Komersial Suria, 81550 Gelang Patah, Johor",
+    "city": "Gelang Patah",
+    "state": "Johor",
+    "lat": 1.4556134,
+    "lng": 103.5990026
+  },
+  {
+    "name": "ZUS Coffee - Adda Height",
+    "address": "No.20 (GF) Jalan Adda 7, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.548137,
+    "lng": 103.7433006
+  },
+  {
+    "name": "ZUS Coffee - AEON BiG Batu Pahat",
+    "address": "Lot F1.20 (Ground Floor), AEON BiG Batu Pahat, 1B, Jalan Persiaran Flora Utama, Taman Flora Utama, 83000 Batu Pahat, Johor",
+    "city": "Batu Pahat",
+    "state": "Johor",
+    "lat": 1.8657385,
+    "lng": 102.9488445
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Bukit Indah",
+    "address": "AEON Mall Bukit Indah. G07A, Ground Floor, Grand Mezzanine, 8, Jalan Indah 15/2, Taman Bukit Indah, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.481769,
+    "lng": 103.6558436
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Tebrau City",
+    "address": "FK2, First Floor, Aeon Tebrau City Shopping Centre, 3, Persiaran Desa Tebrau, Taman Desa Tebrau, 81100 Johor Bahru",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5490981,
+    "lng": 103.7964063
+  },
+  {
+    "name": "ZUS Coffee - Angsana Johor Bahru",
+    "address": "Lot 1.22, First Floor, Angsana Johor Bahru Mall, Skudai Lbh, Pusat Bandar Tampoi, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4949266,
+    "lng": 103.7057484
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Uda",
+    "address": "No. 11G, Jalan Padi Emas 1/4, Bandar Baru Uda, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4925637,
+    "lng": 103.7089951
+  },
+  {
+    "name": "ZUS Coffee - Bandar Dato Onn, Johor Bahru",
+    "address": "No 22(GF) Jalan Perjiranan 4/1, Bandar Dato Onn, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5623622,
+    "lng": 103.7346034
+  },
+  {
+    "name": "ZUS Coffee - Bandar Indahpura Kulai",
+    "address": "No 221 (Ground Floor) Jalan Kiambang 14, Pusat Komersial Indah, Bandar Indahpura, 81000 Kulai, Johor",
+    "city": "Kulai",
+    "state": "Johor",
+    "lat": 1.64384,
+    "lng": 103.6036421
+  },
+  {
+    "name": "ZUS Coffee - Bandar Seri Alam",
+    "address": "No 5 (Ground floor), Jalan Suria 3, Bandar Seri Alam, 81750 Masai, Johor",
+    "city": "Masai",
+    "state": "Johor",
+    "lat": 1.4967033,
+    "lng": 103.8719281
+  },
+  {
+    "name": "ZUS Coffee - Bandar Universiti Pagoh",
+    "address": "No. 17-01 (Ground Floor), Jalan Sarjana 8, Pusat Perniagaan Presint Sarjana, Bandar Universiti Pagoh, 84600 Pagoh, Muar, Johor Darul Ta?zim",
+    "city": "Pagoh",
+    "state": "Johor",
+    "lat": 2.1526528,
+    "lng": 102.7303306
+  },
+  {
+    "name": "ZUS Coffee - Batu Pahat",
+    "address": "17, Jalan Rotan Utama, Taman Sri Jaya 83000 Batu Pahat Johor",
+    "city": "Batu Pahat",
+    "state": "Johor",
+    "lat": 1.8631462,
+    "lng": 102.9538257
+  },
+  {
+    "name": "ZUS Coffee - Batu Pahat Mall",
+    "address": "G-42, Ground Floor, Batu Pahat Mall, Jln Kluang, 83000 Batu Pahat, Johor",
+    "city": "Batu Pahat",
+    "state": "Johor",
+    "lat": 1.8638461,
+    "lng": 102.9620841
+  },
+  {
+    "name": "ZUS Coffee - Bukit Dahlia, Pasir Gudang",
+    "address": "No. 8 (Ground Floor), Jalan Sejambak 14, Taman Bukit Dahlia, 81700 Pasir Gudang, Johor",
+    "city": "Pasir Gudang",
+    "state": "Johor",
+    "lat": 1.4781107,
+    "lng": 103.8959895
+  },
+  {
+    "name": "ZUS Coffee - Bukit Tiram",
+    "address": "No. 13G, Jalan Ledang 25, Taman Bukit Tiram, 81800 Ulu Tiram, Johor",
+    "city": "Ulu Tiram",
+    "state": "Johor",
+    "lat": 1.6023164,
+    "lng": 103.8135757
+  },
+  {
+    "name": "ZUS Coffee - Desa Cemerlang",
+    "address": "No.49, Jalan Tanjong 2, Taman Desa Cemerlang, 81800 Ulu Tiram, Johor",
+    "city": "Ulu Tiram",
+    "state": "Johor",
+    "lat": 1.5611853,
+    "lng": 103.8089838
+  },
+  {
+    "name": "Zus Coffee - DT Shell Pulai Perdana",
+    "address": "PTD 105042, Jalan Skudai-Pontian, Kangkar Pulai, 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5672482,
+    "lng": 103.595622
+  },
+  {
+    "name": "ZUS Coffee - Eco Palladium, JB",
+    "address": "A-01-01, Pusat Perdagangan Ekoflora, Jalan Ekoflora 7/2, 81100 Johor Bahru",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5879509,
+    "lng": 103.7591954
+  },
+  {
+    "name": "ZUS Coffee - Galleria @ Kotaraya",
+    "address": "LG 12, 13 & 14, Lower Ground Floor, Galleria @ Kotaraya, Jalan Trus, UTC, 80000 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4590711,
+    "lng": 103.7627054
+  },
+  {
+    "name": "ZUS Coffee - Jalan Kebun Teh, Johor",
+    "address": "No.4G, Jalan Kebun Teh 2, Taman Kebun Teh, 80250 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4849923,
+    "lng": 103.7534602
+  },
+  {
+    "name": "ZUS Coffee - Jalan Kenanga Bandar Indahpura, Kulai",
+    "address": "No 184(GF) Jalan Kenanga 29/4, Bandar Indahpura, 81000 Kulai, Johor",
+    "city": "Kulai",
+    "state": "Johor",
+    "lat": 1.6420816,
+    "lng": 103.6186672
+  },
+  {
+    "name": "ZUS Coffee - Jalan Lembah 16, Bandar Seri Alam",
+    "address": "No. 20(GF) Jalan Lembah 16, Bandar Seri Alam, 81750 Masai, Johor",
+    "city": "Masai",
+    "state": "Johor",
+    "lat": 1.5118515,
+    "lng": 103.8667897
+  },
+  {
+    "name": "ZUS Coffee - Jalan Molek",
+    "address": "No 55 (Ground Floor, Jalan Molek 1/29, Taman Molek, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5251841,
+    "lng": 103.7871295
+  },
+  {
+    "name": "ZUS Coffee - Jalan Sia Her Yam, Segamat",
+    "address": "No 126(GF) Jalan Sia Her Yam, 85000 Segamat, Johor",
+    "city": "Segamat",
+    "state": "Johor",
+    "lat": 2.5045457,
+    "lng": 102.8230958
+  },
+  {
+    "name": "ZUS Coffee - Jalan Tampoi Susur",
+    "address": "No 37(GF) Jalan Tampoi Susur 1, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5201517,
+    "lng": 103.7512749
+  },
+  {
+    "name": "ZUS Coffee - Johor Bukit Gambir Tangkak",
+    "address": "No. 16 (Ground Floor), Jalan Gambir 5A, Bandar Baru Bukit Gambir, 84800 Tangkak, Johor",
+    "city": "Tangkak",
+    "state": "Johor",
+    "lat": 2.2112737,
+    "lng": 102.6518968
+  },
+  {
+    "name": "ZUS Coffee - Johor Eco Botanic",
+    "address": "No. 50 G, Jalan Eko Botani 3/2, Taman Eko Botani, 79100 Iskandar Puteri, Johor",
+    "city": "Iskandar Puteri",
+    "state": "Johor",
+    "lat": 1.4399093,
+    "lng": 103.6193305
+  },
+  {
+    "name": "ZUS Coffee - Johor Premium Outlet (Food Court)",
+    "address": "No. 28, Johor Premium Outlet, Jalan Premium Outlets, Bandar Indahpura, 81000 Kulai, Johor",
+    "city": "Kulai",
+    "state": "Johor",
+    "lat": 1.6028339,
+    "lng": 103.6215955
+  },
+  {
+    "name": "ZUS Coffee - Kelapa Sawit, Kulai",
+    "address": "No 18(GF) Jalan Impiana 1, Taman Impiana, Kelapa Sawit, 81030 Kulai, Johor",
+    "city": "Kulai",
+    "state": "Johor",
+    "lat": 1.6743721,
+    "lng": 103.5330195
+  },
+  {
+    "name": "ZUS Coffee - Kluang Mall",
+    "address": "Lot 1K-08a, First Floor, Kluang Mall, Jln Rambutan, Taman Suria, 86000 Kluang, Johor",
+    "city": "Kluang",
+    "state": "Johor",
+    "lat": 2.0400598,
+    "lng": 103.3205589
+  },
+  {
+    "name": "ZUS Coffee - Kluang Versi Boulevard",
+    "address": "11, Ground Floor, Jalan Duku 86000 Kluang, Johor",
+    "city": "Kluang",
+    "state": "Johor",
+    "lat": 2.0372444,
+    "lng": 103.3197048
+  },
+  {
+    "name": "ZUS Coffee - Kota Masai Johor",
+    "address": "3, Jalan Ekoperniagaan 9, Taman Kota Masai 81700 Pasir Gudang, Johor",
+    "city": "Pasir Gudang",
+    "state": "Johor",
+    "lat": 1.4858205,
+    "lng": 103.9367501
+  },
+  {
+    "name": "ZUS Coffee - Kota Tinggi",
+    "address": "No. 36G, Jalan Jaffar, 81900 Kota Tinggi, Johor",
+    "city": "Kota Tinggi",
+    "state": "Johor",
+    "lat": 1.729428,
+    "lng": 103.9002738
+  },
+  {
+    "name": "ZUS Coffee - KSL City Mall",
+    "address": "GF-S04b, KSL City Mall, 33, Jalan Seladang, Taman Abad, 80250 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4858456,
+    "lng": 103.762422
+  },
+  {
+    "name": "ZUS Coffee - Labis",
+    "address": "No 114, Jalan Segamat, Taman Bintang Jaya, 85300 Labis, Johor",
+    "city": "Labis",
+    "state": "Johor",
+    "lat": 2.3985281,
+    "lng": 103.018659
+  },
+  {
+    "name": "ZUS Coffee - Larkin Jaya, JB",
+    "address": "No 7(GF) Jalan Jalan Geroda 2/1, Larkin Jaya, 80350 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.4952895,
+    "lng": 103.7413724
+  },
+  {
+    "name": "ZUS Coffee - Lotus’s Kluang",
+    "address": "G7. Lotus?s Kluang, H.S(D) 63272, PTD 78094, Mukim Kluang, Daerah Kluang, 86000 Johor",
+    "city": "Kluang",
+    "state": "Johor",
+    "lat": 2.0187883,
+    "lng": 103.2903329
+  },
+  {
+    "name": "ZUS Coffee - Mersing",
+    "address": "No. 16G, Jalan Abu Bakar, Mersing 86800, Johor",
+    "city": "Mersing",
+    "state": "Johor",
+    "lat": 2.4313135,
+    "lng": 103.8370557
+  },
+  {
+    "name": "ZUS Coffee - Mount Austin",
+    "address": "65, Jalan Mutiara Emas 2A, Taman Mount Austin, 81100 Johor Bahru",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5533285,
+    "lng": 103.7850643
+  },
+  {
+    "name": "ZUS Coffee - Muar Bakri",
+    "address": "29-27 (BHU) Jalan Pesta ? Taman Kampung Kenangan Tun Dr Ismail 84000 Muar Johor",
+    "city": "Muar",
+    "state": "Johor",
+    "lat": 2.0489639,
+    "lng": 102.584049
+  },
+  {
+    "name": "ZUS Coffee - Nusa Bestari",
+    "address": "2 (Ground floor), Jalan Bestari 6/2, Taman Nusa Bestari, 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.4818407,
+    "lng": 103.6658061
+  },
+  {
+    "name": "ZUS Coffee - Paradigm Mall JB",
+    "address": "Lot 4FK-35, Paradigm Mall, Jalan Skudai Lbh, 81200, Johor",
+    "city": null,
+    "state": "Johor",
+    "lat": 1.5157433,
+    "lng": 103.6856795
+  },
+  {
+    "name": "ZUS Coffee - Paradigm Mall Johor Bahru",
+    "address": "Lot 4FK-35, Paradigm Mall, Jalan Skudai Lbh, 81200 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5159357,
+    "lng": 103.6854083
+  },
+  {
+    "name": "ZUS Coffee - Parit Raja",
+    "address": "No 20 (Ground Floor), Jalan Universiti 1, Taman Universiti, 86400 Parit Raja, Johor Darul Takzim",
+    "city": "Parit Raja",
+    "state": "Johor",
+    "lat": 1.8486209,
+    "lng": 103.0742132
+  },
+  {
+    "name": "ZUS Coffee - Pekan Nanas",
+    "address": "101, Ground Floor, Jalan Industri 8, Taman Perindustrian Pekan Nanas 81500 Johor",
+    "city": null,
+    "state": "Johor",
+    "lat": 1.4956966,
+    "lng": 103.52565
+  },
+  {
+    "name": "ZUS Coffee - Permas Jaya",
+    "address": "No 28 (Ground Floor), Jln Permas 10, Bandar Baru Permas Jaya, 81750 Masai, Johor",
+    "city": "Masai",
+    "state": "Johor",
+    "lat": 1.4963103,
+    "lng": 103.8154933
+  },
+  {
+    "name": "ZUS Coffee - Pontian Kota Emas",
+    "address": "70-G, Jalan Emas 2, Pusat Perniagaan Kota Emas 82000 Pontian, Johor",
+    "city": "Pontian",
+    "state": "Johor",
+    "lat": 1.4789434,
+    "lng": 103.3995686
+  },
+  {
+    "name": "ZUS Coffee - Pusat Perniagaan Mas Jaya, Muar",
+    "address": "No 1201-5 Jalan Perniagaan Jaya 5, Pusat Perniagaan Mas Jaya, 84000 Muar, Johor",
+    "city": "Muar",
+    "state": "Johor",
+    "lat": 2.068437,
+    "lng": 102.5779131
+  },
+  {
+    "name": "ZUS Coffee - Segamat Central",
+    "address": "Lot G-11, Jalan Kolam Air, 85000 Segamat, Johor Darul Takzim",
+    "city": "Segamat",
+    "state": "Johor",
+    "lat": 2.5122414,
+    "lng": 102.8124877
+  },
+  {
+    "name": "ZUS Coffee - Segamat Genuang",
+    "address": "26G, Jalan Genuang Perdana, Bandar Segamat Baru, 85000 Segamat, Johor",
+    "city": "Segamat",
+    "state": "Johor",
+    "lat": 2.4901251,
+    "lng": 102.8462961
+  },
+  {
+    "name": "ZUS Coffee - Senai International Airport",
+    "address": "Lot S5 (GF) Aeromall Johor Bahru Senai International Airport, 81250 Senai, Johor",
+    "city": "Senai",
+    "state": "Johor",
+    "lat": 1.6357915,
+    "lng": 103.6658649
+  },
+  {
+    "name": "ZUS Coffee - Setia Tropika",
+    "address": "No. 45, Jalan Setia Tropika 1/15, Taman Setia Tropika, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5461291,
+    "lng": 103.7128021
+  },
+  {
+    "name": "ZUS Coffee - Sungai Rengit, Pengerang, Johor",
+    "address": "88-01, Jalan Hee Seng, Sungai Rengit, 81620 Pengerang, Johor",
+    "city": "Pengerang",
+    "state": "Johor",
+    "lat": 1.3506332,
+    "lng": 104.2237701
+  },
+  {
+    "name": "ZUS Coffee - Sunway Boulevard 88, Iskandar Johor",
+    "address": "Lot 36-01, Sunway Boulevard 88, Laman Niaga Sunway, Persiaran Medini 3, Sunway City Iskandar Puteri, 79250 Iskandar Puteri, Johor Darul Takzim",
+    "city": "Iskandar Puteri",
+    "state": "Johor",
+    "lat": 1.3944681,
+    "lng": 103.634817
+  },
+  {
+    "name": "ZUS Coffee - Sutera Mall",
+    "address": "L2-550k, Sutera Mall, Jalan Sutera Tanjung 8/4, 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5173584,
+    "lng": 103.671199
+  },
+  {
+    "name": "ZUS Coffee - Taman Bukit Perdana 2, Batu Pahat",
+    "address": "No 2-13 (GF) Jalan Susur Perdana Tengah, Taman Bukit Perdana 2, 83000 Batu Pahat, Johor",
+    "city": "Batu Pahat",
+    "state": "Johor",
+    "lat": 1.8432013,
+    "lng": 102.9538963
+  },
+  {
+    "name": "ZUS Coffee - Taman Cahaya Kota Puteri, Masai",
+    "address": "No 03(GF) Jalan Kota 1, Taman Cahaya Kota Puteri, 81750 Masai, Johor",
+    "city": "Masai",
+    "state": "Johor",
+    "lat": 1.4910979,
+    "lng": 103.8429534
+  },
+  {
+    "name": "ZUS Coffee - Taman Damansara Aliff",
+    "address": "No. 41(GF) Jalan Aliff 6, Taman Damansara Aliff, 81200 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5109247,
+    "lng": 103.7182742
+  },
+  {
+    "name": "ZUS Coffee - Taman Mutiara Mas, Skudai",
+    "address": "No 18(GF) Jalan Mutiara 1/1, Taman Mutiara Mas, 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5153544,
+    "lng": 103.6325187
+  },
+  {
+    "name": "ZUS Coffee - Taman Pulai Mutiara, JB",
+    "address": "No 21(GF) Jalan Pulai Mutiara 9/6, Taman Pulai Mutiara, 81300 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5325669,
+    "lng": 103.582054
+  },
+  {
+    "name": "ZUS Coffee - Taman Sutera Utama, Skudai",
+    "address": "No 67GF) Jalan Sutera Tanjung 8/3, Taman Sutera Utama, 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5154008,
+    "lng": 103.6690803
+  },
+  {
+    "name": "ZUS Coffee - Taman Tasik Indah, Kluang",
+    "address": "No 57 (GF) Jalan Tasik Indah 1/1, Taman Tasik Indah, 86000 Kluang, Johor",
+    "city": "Kluang",
+    "state": "Johor",
+    "lat": 1.9955083,
+    "lng": 103.2956406
+  },
+  {
+    "name": "ZUS Coffee - Taman Universiti",
+    "address": "8, Jalan Pendidikan 8, Taman Universiti 81300 Skudai, Johor",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5439547,
+    "lng": 103.6304088
+  },
+  {
+    "name": "ZUS Coffee - Tangkak Johor",
+    "address": "No. 131 (Ground Floor), Jalan Muar, 84900 Tangkak Johor",
+    "city": "Tangkak",
+    "state": "Johor",
+    "lat": 2.2658436,
+    "lng": 102.538554
+  },
+  {
+    "name": "ZUS Coffee - The Artiz, Johor Bahru",
+    "address": "No.6(GF), Jalan Setia 3/12, Taman Setia Indah, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5766939,
+    "lng": 103.7583431
+  },
+  {
+    "name": "ZUS Coffee - The Mall Mid Valley Southkey",
+    "address": "Lot LGK-16, Mid Valley Southkey, No. 1 Persiaran Southkey 1, 80150 Johor Bahru",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5017024,
+    "lng": 103.7761915
+  },
+  {
+    "name": "ZUS Coffee - Tmn Scientex Utama, Senai",
+    "address": "No 504(GF) Persiaran Scientex Utama 1, Taman Scientex Utama, 81400 Senai, Johor",
+    "city": "Senai",
+    "state": "Johor",
+    "lat": 1.5845417,
+    "lng": 103.6491148
+  },
+  {
+    "name": "ZUS Coffee - Toppen Shopping Centre",
+    "address": "Lot L1.K03A Toppen Shopping Centre, Taman Desa Tebrau, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.5527214,
+    "lng": 103.7980322
+  },
+  {
+    "name": "ZUS Coffee - Universiti Teknologi Malaysia (Arked Meranti)",
+    "address": "Lot G-15, Arked Meranti, Universiti Teknologi Malaysia, Skudai, Johor Darul Takzim",
+    "city": "Skudai",
+    "state": "Johor",
+    "lat": 1.5597731,
+    "lng": 103.6337336
+  },
+  {
+    "name": "ZUS Coffee - Watsons TD Sentral, Taman Daya",
+    "address": "Ground Floor, No. 6C, Jalan Sagu 18, Taman Daya, 81100 Johor Bahru, Johor",
+    "city": "Johor Bahru",
+    "state": "Johor",
+    "lat": 1.546319,
+    "lng": 103.7649506
+  },
+  {
+    "name": "ZUS Coffee - Wetex Parade",
+    "address": "Lot G13 & G13A, Wetex Parade, No. 69, Jalan Ali, 84000 Muar, Johor",
+    "city": "Muar",
+    "state": "Johor",
+    "lat": 2.0448178,
+    "lng": 102.566361
+  },
+  {
+    "name": "ZUS Coffee - Yong Peng",
+    "address": "No.4 (Ground floor), Jalan Cahaya Baru, Taman Bandar Cahaya Baru, 83700 Yong Peng, Johor",
+    "city": "Yong Peng",
+    "state": "Johor",
+    "lat": 2.0100608,
+    "lng": 103.0693172
+  },
+  {
+    "name": "ZUS Coffee - Aman Central",
+    "address": "LG-K28 & K29. Aman Central, 1, Darul Aman Hwy, Kampung Lubok Peringgi, 05100 Alor Setar, Kedah",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1250479,
+    "lng": 100.3664892
+  },
+  {
+    "name": "ZUS Coffee - Amanjaya Mall",
+    "address": "Lot K31 & K32, Lower Ground Floor, Kompleks, Amanjaya, No.1, Jalan Jati 1, 08000 Sungai Petani, Kedah",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.673324,
+    "lng": 100.5084839
+  },
+  {
+    "name": "ZUS Coffee - Ampang Business Centre",
+    "address": "Lot TG-1, PT 111, Kompleks Perniagaan Ampang, Lebuhraya Sultanah Bahiyah, 05050 Alor Setar, Kedah",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1118715,
+    "lng": 100.3509391
+  },
+  {
+    "name": "ZUS Coffee - C-Mart BDI Jitra",
+    "address": "46, C-Mart BDI Jitra, 1, Jalan Industri Darul Aman, Kawasan Perusahaan Bandar, 06000 Jitra, Kedah",
+    "city": "Jitra",
+    "state": "Kedah",
+    "lat": 6.2529043,
+    "lng": 100.4289848
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Cindai Jaya, SP",
+    "address": "No 10, Jalan Cindai Jaya 1A, Taman Cindai Jaya, 08000 Sungai Petani, Kedah Darul Aman",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.6258275,
+    "lng": 100.5283475
+  },
+  {
+    "name": "ZUS Coffee - Central Square",
+    "address": "Lot TR-05 & 06, Centra Square Shopping Centre, 23, Jalan Kampung Baru, 08000 Sungai Petani, Kedah",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.600962,
+    "lng": 100.4718638
+  },
+  {
+    "name": "ZUS Coffee - Changlun",
+    "address": "No 11 (Ground Floor), Lebuhraya Bukit Kayu Hitam, Pekan Changlun 2, 06010 Changlun, Kedah Darul Aman",
+    "city": "Changlun",
+    "state": "Kedah",
+    "lat": 6.4348904,
+    "lng": 100.4295488
+  },
+  {
+    "name": "ZUS Coffee - Guar Chempedak",
+    "address": "No 9, Kompleks Perniagaan Guar Utama, 08800 Guar Chempedak",
+    "city": "Guar Chempedak",
+    "state": "Kedah",
+    "lat": 5.8596393,
+    "lng": 100.4559986
+  },
+  {
+    "name": "ZUS Coffee - Jalan Bakar Arang, SG Petani",
+    "address": "B8 (Ground Floor), Jalan Bakar Arang, 08000 Sungai Petani, Kedah",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.6260206,
+    "lng": 100.479763
+  },
+  {
+    "name": "ZUS Coffee - Jalan Langgar, Alor Setar",
+    "address": "No.58(GF), Jalan Langgar 05460 Alor Setar Kedah",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1163536,
+    "lng": 100.368114
+  },
+  {
+    "name": "ZUS Coffee - Jalan Tunku Putra, Kulim",
+    "address": "No.174(GF), Jalan Tunku Putra, 09000 Kulim Kedah",
+    "city": "Kulim",
+    "state": "Kedah",
+    "lat": 5.372377,
+    "lng": 100.5549955
+  },
+  {
+    "name": "ZUS Coffee - Jetty Point Complex",
+    "address": "Lot Zone 2N Lot 9, Kompleks Jetty Point, Persiaran Putera, Kuah, 07000, Langkawi, Kedah",
+    "city": "Langkawi",
+    "state": "Kedah",
+    "lat": 6.306308,
+    "lng": 99.8517338
+  },
+  {
+    "name": "ZUS Coffee - Jitra",
+    "address": "Lot 1521-A1, Pantai Halban, Bandar Darulaman Jaya, 06000 Jitra, Kedah Darul Aman",
+    "city": "Jitra",
+    "state": "Kedah",
+    "lat": 6.2452226,
+    "lng": 100.4195187
+  },
+  {
+    "name": "ZUS Coffee - Kuala Ketil",
+    "address": "No 154 (Ground Floor), Persiaran KKCC 3, Kuala Ketil Commercial Centre, 09100 Kuala Ketil, Kedah Darul Aman",
+    "city": "Kuala Ketil",
+    "state": "Kedah",
+    "lat": 5.6067753,
+    "lng": 100.6410949
+  },
+  {
+    "name": "ZUS Coffee - Kuala Nerang",
+    "address": "No. 18, Kompleks Kuala Nerang, Jalan Kuala Nerang, Pekan Baru, 06300 Kuala Nerang, Kedah",
+    "city": "Kuala Nerang",
+    "state": "Kedah",
+    "lat": 6.3131541,
+    "lng": 100.5298527
+  },
+  {
+    "name": "ZUS Coffee - Kulim Central",
+    "address": "Lot GF-14, Kulim Central, Jalan Klc 1, Kampung Keladi, 09000 Kulim, Kedah",
+    "city": "Kulim",
+    "state": "Kedah",
+    "lat": 5.3855815,
+    "lng": 100.5465746
+  },
+  {
+    "name": "ZUS Coffee - Lagenda Heights",
+    "address": "No 190, Ground Floor, Jalan Legenda 7, Lagenda Heights, 08000 Sungai Petani, Kedah Darul Aman",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.6626313,
+    "lng": 100.5026822
+  },
+  {
+    "name": "ZUS Coffee - Langkawi Cenang Plaza",
+    "address": "Pantai Cenang, Lot 2606, Cenang Plaza Beach Hotel, Jalan Pantai Cenang, Mukim Kedawang, 07000 Langkawi, Kedah Darul Aman",
+    "city": "Langkawi",
+    "state": "Kedah",
+    "lat": 6.2905234,
+    "lng": 99.7273515
+  },
+  {
+    "name": "ZUS Coffee - Langkawi International Airport (Food Garden)",
+    "address": "Lot FG 05, Langkawi International Airport Food Garden, Level 1, Arrival Hall (Landside), 07100 Langkawi, Kedah",
+    "city": "Langkawi",
+    "state": "Kedah",
+    "lat": 6.3420675,
+    "lng": 99.7308146
+  },
+  {
+    "name": "ZUS Coffee - Langkawi MAHA Tower",
+    "address": "Unit L1A-01, MAHA Tower Langkawi, Kuah, 07000 Langkawi, Kedah",
+    "city": "Langkawi",
+    "state": "Kedah",
+    "lat": 6.3200968,
+    "lng": 99.845845
+  },
+  {
+    "name": "ZUS Coffee - Medan Putra, Alor Setar",
+    "address": "No 210-A (Ground Floor), Medan Putra Seberang, Jalan Putra, 05150 Alor Setar, Kedah Darul Aman",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1004402,
+    "lng": 100.3663033
+  },
+  {
+    "name": "ZUS Coffee - Pekan Baru Baling",
+    "address": "No.102(GF),Persisiran Kota 4/5, Kota Baling Jaya, 09100 Baling Kedah",
+    "city": "Baling",
+    "state": "Kedah",
+    "lat": 5.6056026,
+    "lng": 100.8526328
+  },
+  {
+    "name": "ZUS Coffee - Pekan Simpang Kuala, Alor Setar",
+    "address": "No 224-A (Ground Floor) Jln PSK 6, Pekan Simpang Kuala, 05400 Alor Setar, Kedah",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1004521,
+    "lng": 100.3663039
+  },
+  {
+    "name": "ZUS Coffee - Riverfront City, Sungai Petani",
+    "address": "No. 191, Jalan Mawar 3/2, Taman Pekan Baru, 08000 Sungai Petani, Kedah",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.641054,
+    "lng": 100.482193
+  },
+  {
+    "name": "ZUS Coffee - Serai Wangi Mall",
+    "address": "Lot 53, No.2500, Lorong Serai Wangi 4/10, Taman Serai Wangi III & IV, 09400, Padang Serai, Kedah Darul Aman",
+    "city": "Padang Serai",
+    "state": "Kedah",
+    "lat": 5.523598,
+    "lng": 100.5446095
+  },
+  {
+    "name": "ZUS Coffee - Simpang Empat Perdana, Kedah",
+    "address": "B-1(Ground Floor), Susuran Lada 1, Simpang 4, Taman Simpang Perdana, 06650 Alor Setar, Kedah",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.0221361,
+    "lng": 100.390932
+  },
+  {
+    "name": "ZUS Coffee - Taman Jerai Maju, Gurun",
+    "address": "No.14 (GF), Jalan Jerai Maju 2, Taman Jerai Maju 08300 Gurun, Kedah",
+    "city": "Gurun",
+    "state": "Kedah",
+    "lat": 5.8170738,
+    "lng": 100.4827687
+  },
+  {
+    "name": "ZUS Coffee - Taman Sejati, Sungai Petani",
+    "address": "No.25 (GF),Jalan Permatang Gedong Taman Sejati Indah 08000 Sungai Petani Kedah",
+    "city": "Sungai Petani",
+    "state": "Kedah",
+    "lat": 5.6123143,
+    "lng": 100.4826775
+  },
+  {
+    "name": "ZUS Coffee DT - SHELL Hutan Kampung, Alor Setar",
+    "address": "HSM 20792, PT 9103, HUTAN KAMPUNG, BANDAR ALOR SETAR, 05150 KOTA SETAR, KEDAH",
+    "city": "Alor Setar",
+    "state": "Kedah",
+    "lat": 6.1537884,
+    "lng": 100.3996157
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Kota Bharu",
+    "address": "S47 & S48B, Second Floor, AEON Mall Kota Bharu, Lembah Sireh, 15050 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1100856,
+    "lng": 102.2307488
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Jelawat, Bachok",
+    "address": "PT 4478 (GF), Bandar Baru Jelawat, Mukim Rusa, 16070 Jelawat, Bachok, Kelantan",
+    "city": "Jelawat",
+    "state": "Kelantan",
+    "lat": 6.0139152,
+    "lng": 102.3853824
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Pasir Puteh, Kelantan",
+    "address": "PT3032 (GF), Kg Bonggol Kerian, Bandar Baru Pasir Puteh 16800 Pasir Puteh, Kelantan",
+    "city": "Pasir Puteh",
+    "state": "Kelantan",
+    "lat": 5.8283272,
+    "lng": 102.4024782
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Tumpat",
+    "address": "PT3817 (GF), Jalan Bandar Tumpat 16200 Tumpat, Kelantan",
+    "city": "Tumpat",
+    "state": "Kelantan",
+    "lat": 6.1925911,
+    "lng": 102.1639388
+  },
+  {
+    "name": "ZUS Coffee - Bandar Tanah Merah",
+    "address": "Pt 461-G Jalan Tasek 17500 Tanah Merah, Kelantan",
+    "city": "Tanah Merah",
+    "state": "Kelantan",
+    "lat": 5.8084988,
+    "lng": 102.1491418
+  },
+  {
+    "name": "ZUS Coffee - Bandar Tasek Raja",
+    "address": "Lot 579 (GF) Bandar Tasek Raja 17000 Pasir Mas,Kelantan",
+    "city": "Pasir Mas",
+    "state": "Kelantan",
+    "lat": 6.0309886,
+    "lng": 102.130773
+  },
+  {
+    "name": "ZUS Coffee - Berek 12, Kota Bharu",
+    "address": "PT 2300-A (GF), Jalan Abdul Kadir Adabi, Desa Pondok Indah 15200 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1249379,
+    "lng": 102.2556365
+  },
+  {
+    "name": "ZUS Coffee - G-Orange Mall Gua Musang",
+    "address": "GFC-09 & GFC-10, Ground Floor, Jalan Cengal, Bandar Utama, 18300, Kelantan",
+    "city": null,
+    "state": "Kelantan",
+    "lat": 4.8890514,
+    "lng": 101.9755815
+  },
+  {
+    "name": "ZUS Coffee - H Elite Design Hotel, Tunjong",
+    "address": "AG-G-02 & AG-G-03, Alwaqf @ Tunjong, Jalan Kuala Krai, 16010 Kota Bahru, Kelantan Darul Naim",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.069916,
+    "lng": 102.2383612
+  },
+  {
+    "name": "ZUS Coffee - Jalan Sultan Yahya Petra, Lundang, KB",
+    "address": "Lot 2128(GF), Jalan Sultan Yahya Petra, 15200 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1026293,
+    "lng": 102.2632537
+  },
+  {
+    "name": "ZUS Coffee - Jalan Temenggong",
+    "address": "No. 365-I,Tingkat Bawah,Jalan Temenggong,15000,Kota Bharu,Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1303878,
+    "lng": 102.2376248
+  },
+  {
+    "name": "ZUS Coffee - KB Mall",
+    "address": "GK-33, 33A, 41 & 42, Ground Floor, KB Mall, 1, Jalan Hamzah, Seksyen 16, 15050 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1177385,
+    "lng": 102.2410789
+  },
+  {
+    "name": "ZUS Coffee - Kuala Krai",
+    "address": "No 12, Ground Floor, Jalan LF 1, Laman Firdaus, Bandar Baru Kuala Krai 18000 Kuala Krai, Kelantan",
+    "city": "Kuala Krai",
+    "state": "Kelantan",
+    "lat": 5.5395003,
+    "lng": 102.2056227
+  },
+  {
+    "name": "ZUS Coffee - Lembah Sireh, Kota Bharu",
+    "address": "PT384 (GF), Lembah Sireh, 15050 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1147094,
+    "lng": 102.2308493
+  },
+  {
+    "name": "ZUS Coffee - MYDIN Tunjong",
+    "address": "Lot GB-12 & GB-13, Ground Floor Level, Mydin Tunjong, Lot PT 666, Jalan Kuala Krai, Bandar Baru Tunjong, 16010 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.0497791,
+    "lng": 102.2381819
+  },
+  {
+    "name": "ZUS Coffee - Pengkalan Chepa, Kelantan",
+    "address": "PT1230 (GF), Jalan Pengkalan Chepa, Taman Bendahara 16100 Kota Bharu, Kelantan",
+    "city": "Kota Bharu",
+    "state": "Kelantan",
+    "lat": 6.1640554,
+    "lng": 102.2822287
+  },
+  {
+    "name": "Ready-To Zus - Holiday Inn Express Hotel KL",
+    "address": "Lot G01, Ground Floor, 84, Jalan Raja Chulan, Kuala Lumpur, 50200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1507827,
+    "lng": 101.7086975
+  },
+  {
+    "name": "ZUS Coffee - AEON BiG Wangsa Maju",
+    "address": "Lot F1.11 (First Floor), AEON BiG Wangsa Maju, 6, Jalan 8/27A, Section 5, Wangsa Maju, 53300, Kuala Lumpur, Wilayah Persekutuan",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1962007,
+    "lng": 101.7427716
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Metro Prima Kepong",
+    "address": "LOT KF2. 1, Jalan Metro Prima, Taman Kepong, 52100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2132147,
+    "lng": 101.6390662
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Taman Maluri",
+    "address": "Lot KF2. Jalan Jejaka, Maluri, 55100 Cheras, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Cheras",
+    "state": "Kuala Lumpur",
+    "lat": 3.1274954,
+    "lng": 101.7322755
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Wangsa Maju Alpha Angle",
+    "address": "Lot F37. Jalan R1, Seksyen 1, Bandar Baru Wangsa Maju 53300 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.203764,
+    "lng": 101.7367351
+  },
+  {
+    "name": "ZUS Coffee - Avenue K",
+    "address": "Lot C-6, Level Concourse, Avenue K, 156 Jalan Ampang, 50450 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1594766,
+    "lng": 101.7135149
+  },
+  {
+    "name": "ZUS Coffee - Bandar Damai Perdana, Cheras",
+    "address": "No 19G (Ground floor), Jalan Damai Perdana 1/9b, Bandar Damai Perdana, 56000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0457374,
+    "lng": 101.7396419
+  },
+  {
+    "name": "ZUS Coffee - Bandar Menjalara",
+    "address": "37, Jalan 3/62a, Bandar Menjalara, 52200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1950509,
+    "lng": 101.6298663
+  },
+  {
+    "name": "ZUS Coffee - Bandar Sri Permaisuri",
+    "address": "11G, Jalan Dwitasik 1, Bandar Sri Permaisuri, 56000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0991787,
+    "lng": 101.7122799
+  },
+  {
+    "name": "ZUS Coffee - Bangsar Trade Centre",
+    "address": "Lot E-1-2(A), Ground Floor, Tower E, Bangsar Trade Centre. Off Jalan Pantai Baru, 59200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1152004,
+    "lng": 101.6674785
+  },
+  {
+    "name": "ZUS Coffee - Berjaya Times Square",
+    "address": "Berjaya Times Square, Lot LG-18C-03A, 1, Jln Imbi, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1421984,
+    "lng": 101.7105512
+  },
+  {
+    "name": "ZUS Coffee - BHP Jalan Maarof",
+    "address": "78, Jalan Ma’arof, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.133879,
+    "lng": 101.6722086
+  },
+  {
+    "name": "ZUS Coffee - BHPetrol Karak Highway",
+    "address": "Lot 1173, Stesen Minyak BP Lebuhraya Karak Kuala Lumpur, Daerah Gombak, 53000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2534382,
+    "lng": 101.7275596
+  },
+  {
+    "name": "ZUS Coffee - Binjai 8 Premium Soho",
+    "address": "G04, Pangsapuri Servis (Suite) Binjai 8 No, 2, Lorong Binjai, 50450 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ZUS Coffee - Bintang Fairlane Residence",
+    "address": "B?0?1 (Ground Floor), Block B, Retail 1, Bintang Fairlane, NO. 23, Jalan Padang Walter Grenier 55100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1450559,
+    "lng": 101.7125486
+  },
+  {
+    "name": "ZUS Coffee - Bloomsvale Shopping Gallery",
+    "address": "G-018, Level Ground Floor, Bloomsvale Shopping Gallery, 137, Jalan Puchong, 58200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0753986,
+    "lng": 101.6607076
+  },
+  {
+    "name": "ZUS Coffee - Cheras Business Centre",
+    "address": "No 6 Jalan 5/101C, Cheras Business Centre, 56100 Cheras, Kuala Lumpur",
+    "city": "Cheras",
+    "state": "Kuala Lumpur",
+    "lat": 3.1008414,
+    "lng": 101.7405807
+  },
+  {
+    "name": "ZUS Coffee - Cheras Leisure Mall",
+    "address": "Lot L1-24, Leisure Mall, Jalan Manis 6, Taman Bukit Segar, 56100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0899397,
+    "lng": 101.7418844
+  },
+  {
+    "name": "ZUS Coffee - Cubic Botanical, Pantai Dalam",
+    "address": "No. R2-1 (Lower Ground Floor), Residensi Rimba Pantai Dalam, No. 6, Jalan Pantai Sentral 3, Pantai Dalam, 59200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0931139,
+    "lng": 101.6666624
+  },
+  {
+    "name": "ZUS Coffee - Danau Kota",
+    "address": "Lot 1-3, Danau Kota Kormesial, No. 1, Jalan 6A/6, Jalan Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2089064,
+    "lng": 101.7188491
+  },
+  {
+    "name": "ZUS Coffee - Datum Jelatek Mall",
+    "address": "L1-K-09 & 07 (level 1), Datum Jelatek Mall, Jalan Enggang, Taman Keramat, 54200 Kuala Lumpur, Selangor",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.167585,
+    "lng": 101.7362397
+  },
+  {
+    "name": "ZUS Coffee - Desa Aman Puri, Kepong",
+    "address": "No. 3-15A (GF), Jalan Desa 2/2, Desa Aman Puri, 52100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2095224,
+    "lng": 101.6153886
+  },
+  {
+    "name": "ZUS Coffee - Desa Pandan, Ampang",
+    "address": "No 35 (Ground Floor), Jalan 3/76D, Desa Pandan, 55100, Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1473656,
+    "lng": 101.7385179
+  },
+  {
+    "name": "ZUS Coffee - Desa Petaling",
+    "address": "29, Jalan 3/125D, Desa Petaling 57100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0829182,
+    "lng": 101.7050156
+  },
+  {
+    "name": "ZUS Coffee - Eco Sky",
+    "address": "G-30, Eco Sky, No. 972, Batu 6 1/2, Jalan Ipoh, 68100, Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2191098,
+    "lng": 101.6715892
+  },
+  {
+    "name": "ZUS Coffee - Ekocheras Mall",
+    "address": "S-63A, 2nd Floor, EkoCheras Mall, No 693, Batu 5, Jalan Cheras, 56000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0929546,
+    "lng": 101.7389635
+  },
+  {
+    "name": "ZUS Coffee - Fortune Centra, Kepong",
+    "address": "G-16, Fortune Centra, 2, Jalan Metro Perdana Timur 6, Taman Usahawan Kepong, 52100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2156834,
+    "lng": 101.6448181
+  },
+  {
+    "name": "ZUS Coffee - Found8 KL Sentral",
+    "address": "5, Jalan Stesen Sentral, East Wing, Level 3 Kuala Lumpur Sentral 50470 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1353772,
+    "lng": 101.6859243
+  },
+  {
+    "name": "ZUS Coffee - Ground Floor, Menara IQ",
+    "address": "Unit 001, Ground Floor, Menara IQ, TRX 55188 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1408209,
+    "lng": 101.7189889
+  },
+  {
+    "name": "ZUS Coffee - Jakel Mall, Kuala Lumpur",
+    "address": "Lot SC.02 & SC.03, Jakel Mall, Lot 159, Jakel Square Off, Jalan Munshi Abdullah, City Centre, 50100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1535044,
+    "lng": 101.6988728
+  },
+  {
+    "name": "ZUS Coffee - Jalil Link 1, Bukit Jalil",
+    "address": "No.20(GF), Jalan Jalil Jaya 2, Jalil Link, Bukit Jalil 57000 WP Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0590534,
+    "lng": 101.6737089
+  },
+  {
+    "name": "ZUS Coffee - Kenanga Wholesale City, Jalan Gelugor",
+    "address": "G-92 (GF 012.2) & G-93 (GF 012.1), Ground Floor, Kompleks Kenanga Wholesale City, No. 2, Jalan Gelugor, 55200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1361024,
+    "lng": 101.7084307
+  },
+  {
+    "name": "ZUS Coffee - KL East Mall",
+    "address": "Lot G2K-03A, KL East Mall, Jalan Lingkaran Tengah 2, Taman Sri Melati, 53100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.225351,
+    "lng": 101.7299309
+  },
+  {
+    "name": "ZUS Coffee - KL Eco City Mall",
+    "address": "G-12, Ground Floor, KL Eco City Mall, INC, 3, Jalan Bangsar, KL Eco City, 59200 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1199348,
+    "lng": 101.6742815
+  },
+  {
+    "name": "ZUS Coffee - KL Gateway",
+    "address": "Lot G.15 & G.16. KL Gateway Mall. 2, Jalan Kerinchi, Kampung Kerinchi, 59200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1141124,
+    "lng": 101.6632718
+  },
+  {
+    "name": "ZUS Coffee - KL Traders Square",
+    "address": "51-G, KLTS, NO. 99, JALAN GOMBAK, SETAPAK, 53000, KUALA LUMPUR",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2032226,
+    "lng": 101.7036084
+  },
+  {
+    "name": "ZUS Coffee - Kuchai Entrepreneurs Park",
+    "address": "No. 29 (Ground Floor), Jalan 1/116 B, Off, Jalan Kuchai Lama, Kuchai Entrepreneurs Park, 58200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.088799,
+    "lng": 101.6893582
+  },
+  {
+    "name": "ZUS Coffee - Lakefields Trillium",
+    "address": "58-G, Jalan Tasik Utama 5 Medan Niaga Tasik Damai, Sungai Besi, 57000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0620666,
+    "lng": 101.7104625
+  },
+  {
+    "name": "ZUS Coffee - LSH33, Sentul",
+    "address": "G-11, Ground Floor, Laman Seri Harmoni (LSH33), No. 3, Jalan Batu Muda Tambahan 3, Sentul, 51100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.209601,
+    "lng": 101.6921613
+  },
+  {
+    "name": "ZUS Coffee - M Vertica, Cheras",
+    "address": "No Lot G-10(GF) M Vertica Retail Shop, 555 Jalan Cheras, Taman Pertama, 56000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1197509,
+    "lng": 101.7280779
+  },
+  {
+    "name": "ZUS Coffee - M3 Shopping Mall",
+    "address": "GK-10a & GK-10b, Jln Madrasah, Taman Melati, 53100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2192648,
+    "lng": 101.7202875
+  },
+  {
+    "name": "ZUS Coffee - Majestic Maxim Residensi Tmn Bkt Cheras",
+    "address": "No.LG-03, Residensi Majestic Maxim, 45, Jalan 9, Taman Bukit Cheras, 56000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0765181,
+    "lng": 101.7421833
+  },
+  {
+    "name": "ZUS Coffee - Masjid Jamek",
+    "address": "No. 45-1 & 45-2, Ground Floor, Leboh Ampang, Kuala Lumpur City Centre, 50100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1485279,
+    "lng": 101.6970357
+  },
+  {
+    "name": "ZUS Coffee - Melawati Mall",
+    "address": "Lot L1-K1, Melawati Mall, Jalan Bandar 12, Taman Melawati, 53100 Kuala Lumpur, Selangor",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2111139,
+    "lng": 101.7489516
+  },
+  {
+    "name": "ZUS Coffee - Menara Technip Energies",
+    "address": "Menara Technip Energies, 38, Jalan Inai, Imbi, 55100 Kuala Lumpur, Federal Territory of Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1452556,
+    "lng": 101.7206348
+  },
+  {
+    "name": "ZUS Coffee - Menara TH Perdana",
+    "address": "Unit L02,Tingkat Bawah, Jln Sultan Ismail, Chow Kit, 50250 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ZUS Coffee - Menara UOA Bangsar",
+    "address": "Lot LGF-8, Lower Ground Floor, 5, Jalan Bangsar Utama 1, Bangsar, 59000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1280989,
+    "lng": 101.6786783
+  },
+  {
+    "name": "ZUS Coffee - Menara Worldwide",
+    "address": "Ground Floor, Menara Worldwide, 198, Jln Bukit Bintang, Kuala Lumpur, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1478537,
+    "lng": 101.7182687
+  },
+  {
+    "name": "ZUS Coffee - Micasa Shoppes, Jalan Tun Razak",
+    "address": "Lot G.11 & Mezzanine, Micasa Shoppes, 368A, Jln Tun Razak, Taman U Thant, 55000 Kuala Lumpur, Wilayah Persekutuan",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1568425,
+    "lng": 101.7221359
+  },
+  {
+    "name": "ZUS Coffee - Mid Valley Megamall",
+    "address": "SK-10, Second Floor, Mid Valley Megamall, Lingkaran Syed Putra, Midvalley City, 59200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1178235,
+    "lng": 101.6768193
+  },
+  {
+    "name": "ZUS Coffee - Mytown Cheras",
+    "address": "Mytown Shopping Mall, LOT G-K-015 & 016, Ground Floor, No.6, Jalan Cochrane, Seksyen 90, 55100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1348704,
+    "lng": 101.7232797
+  },
+  {
+    "name": "ZUS Coffee - Nu Sentral Mall",
+    "address": "Lot CC.04A. 201, Jalan Tun Sambanthan, Brickfields, 50470 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1330712,
+    "lng": 101.6870347
+  },
+  {
+    "name": "ZUS Coffee - OUG Parklane",
+    "address": "A1-0-12 (Ground Floor), OUG Parklane, Jalan 1/152, Taman OUG Parklane, 58200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0680263,
+    "lng": 101.6565977
+  },
+  {
+    "name": "ZUS Coffee - Pandan Indah",
+    "address": "No. 15G (Ground Floor), Jalan Perubatan 2, Pandan Indah, 55100, Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1286909,
+    "lng": 101.751141
+  },
+  {
+    "name": "ZUS Coffee - Pavilion Bukit Jalil",
+    "address": "Lot P.1.05.00 Pavilion Bukit Jalil, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0514833,
+    "lng": 101.6704858
+  },
+  {
+    "name": "ZUS Coffee - Pavilion Damansara Heights",
+    "address": "Lot 2.13.01. Level 2. No. 3, Jalan Damanlela, Pavilion Damansara Heights 50490 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1450898,
+    "lng": 101.6623139
+  },
+  {
+    "name": "ZUS Coffee - Pearl Point Shopping Mall",
+    "address": "LOT F-25. Menara Pearl Point 2 No. 2A, Jalan Sepadu, Off, Jln Klang Lama, 58200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0855848,
+    "lng": 101.6736371
+  },
+  {
+    "name": "ZUS Coffee - Pertama Complex, Kuala Lumpur",
+    "address": "Kiosk No. 3, Kompleks Pertama, Jalan Tuanku Abdul Rahman, 50100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1574179,
+    "lng": 101.6955075
+  },
+  {
+    "name": "ZUS Coffee - Pinnacle Sri Petaling Mall",
+    "address": "G-K-01, Ground Floor, Pinnacle Sri Petaling Mall, Jalan Radin Anum 1, Bandar Baru Sri Petaling, 57000 Kuala Lumpur, Malaysia",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0678244,
+    "lng": 101.6943052
+  },
+  {
+    "name": "ZUS Coffee - Plaza Damas",
+    "address": "60, Jalan Sri Hartamas 1, Taman Sri Hartamas, 50480 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.164064,
+    "lng": 101.6566921
+  },
+  {
+    "name": "ZUS Coffee - Plaza Low yat",
+    "address": "Plaza Low Yat, Lot LG-04 & 05, Lower Ground Floor, 7, Jalan Bintang, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1440808,
+    "lng": 101.709854
+  },
+  {
+    "name": "ZUS Coffee - Publika",
+    "address": "Lot K1, G3, Publika Shopping Gallery, No. 1, Jalan Dutamas 1, Solaris Dutamas, 50480 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1711896,
+    "lng": 101.6659172
+  },
+  {
+    "name": "ZUS Coffee - Quill City Mall",
+    "address": "LG-23A. 1018, Jln Sultan Ismail, Bandar Wawasan, 54200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1598185,
+    "lng": 101.7005383
+  },
+  {
+    "name": "ZUS Coffee - SAMA Square",
+    "address": "G-02 & 02(E), Ground Floor, Same Square, Jalan 1/23c, Kampung Baru Air Panas, 53200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1943125,
+    "lng": 101.7203722
+  },
+  {
+    "name": "ZUS Coffee - Sapura Lot 91 KLCC",
+    "address": "Lot C-17, Level Concourse, Permata Sapura, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1568055,
+    "lng": 101.7132345
+  },
+  {
+    "name": "ZUS Coffee - Semua House",
+    "address": "GF.04, Ground Floor, Semua House, Jalan Bunus 6, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1547039,
+    "lng": 101.6973632
+  },
+  {
+    "name": "ZUS Coffee - Sentul Point",
+    "address": "BC-G-08 Sentul Point Suite Apartments, Jalan Sentul Pasar, Sentul, 51000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2019769,
+    "lng": 101.6884325
+  },
+  {
+    "name": "ZUS Coffee - Setapak Central Mall",
+    "address": "GK-08, Ground Floor, 67, Jln Taman Ibu Kota, Taman Danau Kota, 53300 Kuala Lumpur, Wilayah Persekutuan",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.2053642,
+    "lng": 101.7200682
+  },
+  {
+    "name": "ZUS Coffee - Setiawangsa",
+    "address": "No 30-G (G-Floor), Jalan Setiawangsa 10 (10/55A), Taman Setiawangsa, 54200, WP Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1780253,
+    "lng": 101.742
+  },
+  {
+    "name": "ZUS Coffee - Solaris Mont Kiara",
+    "address": "Lot K-OG-14, Soho KL Mont Kiara, No. 2, Jalan Solaris, Solaris Mont Kiara, 50480, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1713833,
+    "lng": 101.6539037
+  },
+  {
+    "name": "ZUS Coffee - Sri Petaling",
+    "address": "Lot 36-J, Jalan Radin Anum, Sri Petaling, 57000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0700512,
+    "lng": 101.6903272
+  },
+  {
+    "name": "ZUS Coffee - Sri Rampai, Setapak",
+    "address": "No.39 (Ground Floor), Jalan 45/26 Taman Sri Rampai, 53300 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1949184,
+    "lng": 101.7324842
+  },
+  {
+    "name": "ZUS Coffee - Sungei Wang Plaza",
+    "address": "Lot PK-5, Sungei Wang Plaza, Jalan Sultan Ismail, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1451191,
+    "lng": 101.7114765
+  },
+  {
+    "name": "ZUS Coffee - Sunway Velocity Mall",
+    "address": "Lot 1-22, First Floor, Lingkaran SV2, Sunway Velocity Mall, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1278714,
+    "lng": 101.7248356
+  },
+  {
+    "name": "ZUS Coffee - Sunway Velocity Two",
+    "address": "Lot VS1-G-01, Sunway Velocity Two, Jalan Peel, Seksyen 90, 55100 Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1281751,
+    "lng": 101.7251284
+  },
+  {
+    "name": "ZUS Coffee - Suria KLCC",
+    "address": "Lot No. OS301, Level 3, Suria KLCC, Persiaran Petronas, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.158154,
+    "lng": 101.7120899
+  },
+  {
+    "name": "ZUS Coffee - Taman Bukit Anggerik",
+    "address": "No.14 (Ground Floor), Jalan 34/154, Taman Bukit Anggerik, 56000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0579504,
+    "lng": 101.7483344
+  },
+  {
+    "name": "ZUS Coffee - Taman Desa",
+    "address": "No 11-0-10, Jalan 4/109F Danau Business Centre, Taman Danau Desa, 58100 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.100021,
+    "lng": 101.6874628
+  },
+  {
+    "name": "ZUS Coffee - Taman Desa Setapak",
+    "address": "No.37 (Ground Floor), Jalan 1/27B, Desa Setapak, 53300, Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1000208,
+    "lng": 101.6874339
+  },
+  {
+    "name": "ZUS Coffee - The Exchange TRX",
+    "address": "Lot C.98.0, The Exchange TRX, Persiaran TRX, Tun Razak Exchange, 55188 Kuala Lumpur, Wilayah Persekutuan",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1420218,
+    "lng": 101.7176747
+  },
+  {
+    "name": "ZUS Coffee - The FLO Bandar Sri Damansara",
+    "address": "GF-3, The Flo, Persiaran Perdana, Bandar Sri Damansara, 52200 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1976399,
+    "lng": 101.6119319
+  },
+  {
+    "name": "ZUS Coffee - The Park Sky Residence, Bukit Jalil",
+    "address": "22, The Park Sky Residence @ Bukit Jalil City, Persiaran Jalil Utama, Bukit Jalil, 57000 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.0522692,
+    "lng": 101.6729611
+  },
+  {
+    "name": "ZUS Coffee - Tower 8, Horizon 2, Bangsar South",
+    "address": "Office 2, Ground Floor, Tower 8, Bangsar South City, Jalan Kerinchi, Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1104542,
+    "lng": 101.6657394
+  },
+  {
+    "name": "ZUS Coffee - UCSI University KL",
+    "address": "Lot 6, Block G, Ground Floor, UCSI University, No. 1, Jalan Menara Gading, UCSI Heights (Taman Connaught), 56000 Cheras, Kuala Lumpur",
+    "city": "Cheras",
+    "state": "Kuala Lumpur",
+    "lat": 3.0799456,
+    "lng": 101.7334423
+  },
+  {
+    "name": "ZUS Coffee - University of Malaya",
+    "address": "Locker Room (Ground Floor), Bangunan Perpustakaan Utama, University of Malaya, Lembah Pantai, 50603 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1204906,
+    "lng": 101.6544121
+  },
+  {
+    "name": "ZUS Coffee - Wangsa Walk Mall",
+    "address": "GL-03A & FL-03A and GL-05 & FL-05, BL-03A & BL-05, Wangsa Walk Mall, Wangsa Permai, 53300 Wilayah Persekutuan Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.198408,
+    "lng": 101.7419051
+  },
+  {
+    "name": "ZUS Coffee - Wisma TH Plaza Sentral",
+    "address": "L-01B, Jalan Stesen Sentral 5, Kuala Lumpur Sentral, 50470 Kuala Lumpur",
+    "city": "Kuala Lumpur",
+    "state": "Kuala Lumpur",
+    "lat": 3.1356693,
+    "lng": 101.686099
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Ayer Keroh Melaka",
+    "address": "G-37, Ground Floor, Aeon Mall Melaka Ayer Keroh, alan Tun Abdul Razak, 75450 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2672598,
+    "lng": 102.3096687
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Bandaraya Melaka",
+    "address": "Lot G-09, Ground Floor, AEON Mall Bandaraya Melaka Shopping Centre, 2, Jalan Lagenda 2, Taman 1 Lagenda, 75400 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2154804,
+    "lng": 102.2453694
+  },
+  {
+    "name": "ZUS Coffee - Alor Gajah",
+    "address": "KM 12-1 (Ground Floor), Jalan Perniagaan Jelatang 1, Pusat Perniagaan Jelatang, 78000 Alor Gajah, Melaka",
+    "city": "Alor Gajah",
+    "state": "Melaka",
+    "lat": 2.3842974,
+    "lng": 102.2165775
+  },
+  {
+    "name": "ZUS Coffee - Bandar Utama Cheng",
+    "address": "No 17 (Ground Floor), Jalan Inang 1, Taman Paya Rumput Utama, 76450 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2809838,
+    "lng": 102.2181162
+  },
+  {
+    "name": "ZUS Coffee - Batu Berendam, Melaka",
+    "address": "No 42, Ground Floor, Jalan Mutiara Melaka 2, Taman Mutiara Melaka, Batu Berendam, 75350 Hang Tuah Jaya, Melaka",
+    "city": "Hang Tuah Jaya",
+    "state": "Melaka",
+    "lat": 2.239959,
+    "lng": 102.2599852
+  },
+  {
+    "name": "ZUS Coffee - Bukit Baru",
+    "address": "Pusat Niaga, No 4 (Ground Floor) Jalan PNBBU 3, Bukit Baru, Bukit Baru Utama, 75150 Bukit Baru, Melaka",
+    "city": "Bukit Baru",
+    "state": "Melaka",
+    "lat": 2.2159054,
+    "lng": 102.270956
+  },
+  {
+    "name": "ZUS Coffee - Bukit Rambai, Melaka",
+    "address": "No 47, Jalan Rambai Jaya 29, Taman Rambai Jaya 75260 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2638153,
+    "lng": 102.1891375
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Lebuh SPA",
+    "address": "Lot 11723, Jalan Pe 1, Taman Paya Emas, 76450 Melaka, Malaysia",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2853127,
+    "lng": 102.2043805
+  },
+  {
+    "name": "ZUS Coffee - Dataran Pahlawan",
+    "address": "B-001(B) Dataran Pahlawan Melaka Megamall, Jln Merdeka, Bandar Hilir, 75000, Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.1908449,
+    "lng": 102.2493316
+  },
+  {
+    "name": "ZUS Coffee - ElementX @ Hatten City",
+    "address": "G13, Ground Floor, ElementX @ Hatten City, Jalan Melaka Raya, 23, Taman Melaka Raya, 75000 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.1820387,
+    "lng": 102.261806
+  },
+  {
+    "name": "ZUS Coffee - Freeport A’Famosa",
+    "address": "Freeport A’Famosa Outlet, Lot 28, Jalan Kemus, Simpang Ampat, 78000 Alor Gajah, Melaka",
+    "city": "Alor Gajah",
+    "state": "Melaka",
+    "lat": 2.4442661,
+    "lng": 102.2061759
+  },
+  {
+    "name": "ZUS Coffee - Jasin Bestari",
+    "address": "Ground Floor, JC 548, Jln Bestari 5, Bandar Jasin Bestari, 77200 Bemban, Melaka",
+    "city": "Bemban",
+    "state": "Melaka",
+    "lat": 2.2773305,
+    "lng": 102.3923445
+  },
+  {
+    "name": "ZUS Coffee - Jonker Street",
+    "address": "No 38, Jalan Hang Jebat, 75200, Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.1958304,
+    "lng": 102.2475785
+  },
+  {
+    "name": "ZUS Coffee - Kipmall Melaka",
+    "address": "Lot PA-FB01, Kipmall Melaka, 3, Jalan Perindustrian Bachang Baru 3, Taman Bachang Barum, Batu Berendam, 75350 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2338374,
+    "lng": 102.2498678
+  },
+  {
+    "name": "ZUS Coffee - Klebang, Melaka",
+    "address": "40, Ground Floor, Jalan Nirwana 2, Taman Nirwana, Batang Tiga, 76400, Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2211617,
+    "lng": 102.1839544
+  },
+  {
+    "name": "ZUS Coffee - Kuala Sungai Baru",
+    "address": "SI 15, Ground Floor, Jalan Sungai Baru Ilir Jaya Utama, Taman Sungai Baru Ilir Jaya, 78300 Masjid Tanah, Melaka",
+    "city": "Masjid Tanah",
+    "state": "Melaka",
+    "lat": 2.3664014,
+    "lng": 102.0511817
+  },
+  {
+    "name": "ZUS Coffee - Mahkota Parade",
+    "address": "Lot KF10D, First Floor, Mahkota Parade, 1, Jln Merdeka, 75000 Malacca",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.1882873,
+    "lng": 102.2492708
+  },
+  {
+    "name": "ZUS Coffee - Masjid Tanah",
+    "address": "SU 1443 (Ground Floor), Jalan Masjid Tanah Ria Utama, Taman Masjid Tanah Ria, 78300 Masjid Tanah, Melaka",
+    "city": "Masjid Tanah",
+    "state": "Melaka",
+    "lat": 2.3515477,
+    "lng": 102.1146617
+  },
+  {
+    "name": "ZUS Coffee - Melaka Kota Laksamana",
+    "address": "59, Jalan KLJ 6, Taman Kota Laksamana Jaya, 75200 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.1996228,
+    "lng": 102.2338266
+  },
+  {
+    "name": "ZUS Coffee - Melaka Taman Merdeka",
+    "address": "No 39 (Ground Floor), Jalan Merdeka 1, Taman Merdeka, Hang Tuah Jaya, 75350 Batu Berendam, Melaka",
+    "city": "Batu Berendam",
+    "state": "Melaka",
+    "lat": 2.2642491,
+    "lng": 102.242947
+  },
+  {
+    "name": "ZUS Coffee - Merlimau",
+    "address": "JC 23, Ground Floor, Jalan BMU 1, Bandar Baru Merlimau Utara, 77300, Merlimau, Melaka",
+    "city": "Merlimau",
+    "state": "Melaka",
+    "lat": 2.1668852,
+    "lng": 102.4314607
+  },
+  {
+    "name": "ZUS Coffee - MITC Melaka",
+    "address": "No.41, Ground Floor, Jalan Komersial, Taman Kota Fesyen MITC, 75450, Ayer Keroh, Melaka",
+    "city": "Ayer Keroh",
+    "state": "Melaka",
+    "lat": 2.2684132,
+    "lng": 102.2922889
+  },
+  {
+    "name": "ZUS Coffee - MMU Melaka (Plaza Siswa Building)",
+    "address": "Lot MXMR0011, Ground Floor, Plaza Siswa Building, Multimedia University, Jalan Ayer Keroh Lama, 75450 Bukit Beruang, Melaka",
+    "city": "Bukit Beruang",
+    "state": "Melaka",
+    "lat": 2.2508424,
+    "lng": 102.2765105
+  },
+  {
+    "name": "ZUS Coffee - One Krubong",
+    "address": "NO. 67 (GROUND FLOOR), JALAN SATU KRUBONG, TAMAN SATU KRUBONG, 75260 MELAKA",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.301758,
+    "lng": 102.2513948
+  },
+  {
+    "name": "ZUS Coffee - Plaza Pandan Malim",
+    "address": "15, Jalan PPM 8, Plaza Pandan Malim, 75250 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.228497,
+    "lng": 102.2266754
+  },
+  {
+    "name": "ZUS Coffee - Pusat Perniagaan Jasin",
+    "address": "JC2353 (Ground Floor) Jalan PPJ 2, Pusat Perniagaan Jasin, 77000 Jasin Melaka",
+    "city": "Jasin",
+    "state": "Melaka",
+    "lat": 2.3115151,
+    "lng": 102.428352
+  },
+  {
+    "name": "ZUS Coffee - Sungai Udang",
+    "address": "No 24 (Ground Floor), Jalan Kerambit 4, Bandar Baru Sungai Udang, 76300 Sungai Udang, Melaka",
+    "city": "Sungai Udang",
+    "state": "Melaka",
+    "lat": 2.2912364,
+    "lng": 102.1409696
+  },
+  {
+    "name": "ZUS Coffee - Taman Tangga Batu Perdana, Melaka",
+    "address": "35 (Ground Floor), Jalan Seri Buana 2, Taman Tangga Batu Perdana, 76400 Melaka",
+    "city": "Melaka",
+    "state": "Melaka",
+    "lat": 2.2513713,
+    "lng": 102.1571307
+  },
+  {
+    "name": "ZUS Coffee - Universiti Teknikal Malaysia Melaka (UTeM)",
+    "address": "Kafeteria Eksekutif, Universiti Teknikal Malaysia Melaka, Hang Tuah Jaya, 76100 Durian Tunggal, Melaka, Malaysia",
+    "city": "Durian Tunggal",
+    "state": "Melaka",
+    "lat": 2.3137974,
+    "lng": 102.3211155
+  },
+  {
+    "name": "ZUS Coffee -??Ayer Keroh Heights, Melaka",
+    "address": "No.25, GF, Jalan Komersial TAKH 2, Taman Ayer Keroh Heights, Ayer Keroh, 75450 Hang Tuah Jaya Melaka",
+    "city": "Hang Tuah Jaya",
+    "state": "Melaka",
+    "lat": 2.2532453,
+    "lng": 102.2904054
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Nilai",
+    "address": "KS05, Second Floor, Aeon Mall Nilai, 2, Persiaran Pusat Bandar, Putra Point, 71800 Nilai, Negeri Sembilan",
+    "city": "Nilai",
+    "state": "Negeri Sembilan",
+    "lat": 2.8181299,
+    "lng": 101.7906505
+  },
+  {
+    "name": "ZUS Coffee - Bandar Ainsdale Sales Gallery",
+    "address": "TCS Office, 1, Persiaran Ainsdale 1/1, Bandar Ainsdale, 70300 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7258336,
+    "lng": 101.8899429
+  },
+  {
+    "name": "ZUS Coffee - Bandar Enstek",
+    "address": "No 31 (Ground Floor), 1A, Jalan Timur 6, Timur@Enstek, 71760 Bandar Baru Enstek, Negeri Sembilan",
+    "city": "Bandar Baru Enstek",
+    "state": "Negeri Sembilan",
+    "lat": 2.7475278,
+    "lng": 101.7645574
+  },
+  {
+    "name": "ZUS Coffee - Bandar Prima Senawang",
+    "address": "No. 91-G, Jalan BPS5, Bandar Prima Senawang, 70450 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7025645,
+    "lng": 101.9798529
+  },
+  {
+    "name": "ZUS Coffee - BHPetrol Nilai Layby Southbound",
+    "address": "Lot 50084, Kawasan Rehat&Rawat Nilai (Arah Selatan) KM286.6, Lebuhraya Kuala Lumpur - Seremban, 71800 Nilai, Negeri Sembilan",
+    "city": "Nilai",
+    "state": "Negeri Sembilan",
+    "lat": 2.8582946,
+    "lng": 101.7881115
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Temiang",
+    "address": "Lot 40766, Persiaran Sri Pulai 2, 70400 Seremban, Negeri Sembilan Darul Khusus",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7481033,
+    "lng": 101.9430693
+  },
+  {
+    "name": "ZUS Coffee - Centrio Square, Seremban 2",
+    "address": "Pusat Dagangan, 126-G, Jln S2 B21, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.6923368,
+    "lng": 101.9031306
+  },
+  {
+    "name": "ZUS Coffee - Gemas",
+    "address": "PT 4633-G, Ground Floor, Jalan Pekan Gemas, Pekan Gemas, 73400 Gemas, Negeri Sembilan",
+    "city": "Gemas",
+    "state": "Negeri Sembilan",
+    "lat": 2.5807541,
+    "lng": 102.612178
+  },
+  {
+    "name": "ZUS Coffee - Jalan Dato Sheikh Ahmad, Seremban",
+    "address": "No.13 (Ground Floor), Jalan Dato Sheikh Ahmad, 70000 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.724342,
+    "lng": 101.9393755
+  },
+  {
+    "name": "ZUS Coffee - Jalan Gurney, Bahau",
+    "address": "No. 133 (Ground Floor), Jalan Gurney, 72100 Bahau, Negeri Sembilan",
+    "city": "Bahau",
+    "state": "Negeri Sembilan",
+    "lat": 3.1679673,
+    "lng": 101.7211992
+  },
+  {
+    "name": "ZUS Coffee - Kipmall Lavender Height Senawang",
+    "address": "S07, Ground Floor, Kipmall Lavender Height Senawang, Taman Seri Paroi, 70400 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7146051,
+    "lng": 102.0024852
+  },
+  {
+    "name": "ZUS Coffee - Lotus’s Nilai",
+    "address": "Lot G 41. 1, Jalan BBN 1/3, Putra Point, 71800 Nilai, Negeri Sembilan",
+    "city": "Nilai",
+    "state": "Negeri Sembilan",
+    "lat": 2.8159718,
+    "lng": 101.7904683
+  },
+  {
+    "name": "ZUS Coffee - Lukut, Port Dickson",
+    "address": "No. 56 (Ground Floor), Taman Aman, 71010 Port Dickson, Negeri Sembilan",
+    "city": "Port Dickson",
+    "state": "Negeri Sembilan",
+    "lat": 2.5675949,
+    "lng": 101.8282467
+  },
+  {
+    "name": "ZUS Coffee - Mesamall Nilai",
+    "address": "Persiaran Ilmu, Bandar Baru Nilai, 71800 Nilai, Negeri Sembilan",
+    "city": "Nilai",
+    "state": "Negeri Sembilan",
+    "lat": 2.8251267,
+    "lng": 101.7774246
+  },
+  {
+    "name": "ZUS Coffee - Mydin Senawang",
+    "address": "GPL-12 (Ground Floor, GPL-11, 110, Jalan BPS 7, Bandar Prima Senawang GPL-09,GPL-10, 70450 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7009656,
+    "lng": 101.9798667
+  },
+  {
+    "name": "ZUS Coffee - Palm Mall Seremban",
+    "address": "UG-29, Palm Mall, Jalan Sungai Ujong, 70200 Seremban, Negeri Sembilan Darul Khursus",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7194128,
+    "lng": 101.9229712
+  },
+  {
+    "name": "ZUS Coffee - PD Waterfront",
+    "address": "Kedai 2 (Glass House), PD Waterfront, 1-02-1, Persiaran Waterfront, 1st Mile, 71000 Port Dickson, Negeri Sembilan",
+    "city": "Port Dickson",
+    "state": "Negeri Sembilan",
+    "lat": 2.5219036,
+    "lng": 101.8027087
+  },
+  {
+    "name": "ZUS Coffee - Pekan Mantin, Negeri Sembilan",
+    "address": "No 8A-2 (Ground Floor), Jalan Besar, Pekan Mantin, 71700 Mantin, Negeri Sembilan",
+    "city": "Mantin",
+    "state": "Negeri Sembilan",
+    "lat": 2.8235236,
+    "lng": 101.8923889
+  },
+  {
+    "name": "ZUS Coffee - Pusat Bandar Putra Nilai",
+    "address": "PT 12172 (Ground Floor), Jalan BBN 1/1F, Putra Nilai, 71800 Nilai, Negeri Sembilan",
+    "city": "Nilai",
+    "state": "Negeri Sembilan",
+    "lat": 2.8143405,
+    "lng": 101.7971551
+  },
+  {
+    "name": "ZUS Coffee - Pusat Komersial Rasah Prima",
+    "address": "No.43G, Jalan Rasah Prima 3, Pusat Komersial Rasah Prima, 70300 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.6887465,
+    "lng": 101.9333009
+  },
+  {
+    "name": "ZUS Coffee - Seremban Prima Mall",
+    "address": "Lot G11, Ground Floor, Jalan Dato Bandar Tunggal, 70000 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7250222,
+    "lng": 101.9388397
+  },
+  {
+    "name": "ZUS Coffee - SHELL S2 Height",
+    "address": "PT37328, Jalan Rimbun Indah 2, Seremban 2, 70300 Seremban, Negeri Sembilan",
+    "city": "Seremban",
+    "state": "Negeri Sembilan",
+    "lat": 2.7123275,
+    "lng": 101.8898168
+  },
+  {
+    "name": "ZUS Coffee - Sunggala Gateway",
+    "address": "No 7-G (Ground Floor), Jalan PDS 2, PD Sunggala Gateway, Teluk Kemang, 71050 Port Dickson, Negeri Sembilan",
+    "city": "Port Dickson",
+    "state": "Negeri Sembilan",
+    "lat": 2.4739596,
+    "lng": 101.8570488
+  },
+  {
+    "name": "ZUS Coffee - Taman Seri Rembau",
+    "address": "376-G, Jalan Dato Lela Maharaja, Taman Seri Rembau, 71300 Rembau, Negeri Sembilan",
+    "city": "Rembau",
+    "state": "Negeri Sembilan",
+    "lat": 2.591046,
+    "lng": 102.0995776
+  },
+  {
+    "name": "ZUS Coffee - Tampin",
+    "address": "No 14 (Ground Floor), Jalan Besar, 73000 Tampin, Negeri Sembilan",
+    "city": "Tampin",
+    "state": "Negeri Sembilan",
+    "lat": 2.4687427,
+    "lng": 102.2316421
+  },
+  {
+    "name": "ZUS Coffee TR - Seremban RSA SouthBound (SB)",
+    "address": "Unit 3 (Food Truck), Seremban RSA Southbound, North-South Expy, 71900 Negeri Sembilan",
+    "city": null,
+    "state": "Negeri Sembilan",
+    "lat": 2.7647788,
+    "lng": 101.829615
+  },
+  {
+    "name": "ZUS Coffee - Balok Kuantan",
+    "address": "A23 (Ground Floor), Lorong Balok Darat 13, 26100 Kuantan, Pahang Darul Makmur",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.9344297,
+    "lng": 103.3666616
+  },
+  {
+    "name": "Zus Coffee - Bandar Baru Jerantut",
+    "address": "TT6, Tingkat 1, Jalan Dulang 1, Bandar Baru, 27000 Jerantut, Pahang",
+    "city": "Jerantut",
+    "state": "Pahang",
+    "lat": 3.938761,
+    "lng": 102.361721
+  },
+  {
+    "name": "ZUS Coffee - Bandar Mentakab",
+    "address": "No.131 (Ground Floor) Jalan Melati 28400 Mentakab, Pahang",
+    "city": "Mentakab",
+    "state": "Pahang",
+    "lat": 3.4892158,
+    "lng": 102.3120305
+  },
+  {
+    "name": "ZUS Coffee - Bentong",
+    "address": "29, Jalan Loke Yew, 28700 Bentong, Pahang",
+    "city": "Bentong",
+    "state": "Pahang",
+    "lat": 3.5245905,
+    "lng": 101.9079271
+  },
+  {
+    "name": "ZUS Coffee - Bukit Setongkol, Kuantan",
+    "address": "No.A11 (GF), Lorong Cenderawasih 1, Taman Tunas Makmur, Bukit Setongkol, 25200 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.8035474,
+    "lng": 103.3016813
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Simpang Gambang",
+    "address": "Lot 10759, Batu 18, Jalan Gambang, 26300 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.7139973,
+    "lng": 103.130871
+  },
+  {
+    "name": "ZUS Coffee - Cameron Centrum",
+    "address": "A-G-11, Presint 1 Cameron Centrum, 39100 Brinchang, Pahang",
+    "city": "Brinchang",
+    "state": "Pahang",
+    "lat": 4.4950737,
+    "lng": 101.3896926
+  },
+  {
+    "name": "ZUS Coffee - East Coast Mall",
+    "address": "L2-39. East Coast Mall. Jalan Putra Square 6, Putra Square, 25200 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.8183411,
+    "lng": 103.3262872
+  },
+  {
+    "name": "ZUS Coffee - Genting 1 (First World)",
+    "address": "Lot No.T2A-K03, Level 2, First World Plaza, Genting Highlands Resort, 69000 Genting Highlands, Pahang",
+    "city": "Genting Highlands",
+    "state": "Pahang",
+    "lat": 3.3970414,
+    "lng": 101.7865654
+  },
+  {
+    "name": "ZUS Coffee - Genting Xintiandi Sales Gallery",
+    "address": "Genting Xintiandi Sales Gallery, Lot 10363, Genting Permai, 69000 Genting Highlands, Pahang",
+    "city": "Genting Highlands",
+    "state": "Pahang",
+    "lat": 3.3875691,
+    "lng": 101.7714107
+  },
+  {
+    "name": "ZUS Coffee - Indera Mahkota 7, Kuantan",
+    "address": "B4-G, Jalan IM 7/5, Bandar Indera Mahkota, 25200 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.8346565,
+    "lng": 103.3005343
+  },
+  {
+    "name": "ZUS Coffee - Jengka",
+    "address": "K-08 (Ground Floor), Lorong TARBP 6, Tun Abdul Razak Business Park, 26400 Bandar Pusat Jengka, Pahang Darul Makmur",
+    "city": "Bandar Pusat Jengka",
+    "state": "Pahang",
+    "lat": 3.7571151,
+    "lng": 102.5415764
+  },
+  {
+    "name": "ZUS Coffee - JLN Beserah, Kuantan",
+    "address": "B-298 (Ground Floor), Jalan Beserah, 25300 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.8270771,
+    "lng": 103.3385783
+  },
+  {
+    "name": "ZUS Coffee - Kuala Lipis PP Barry",
+    "address": "No 13 (Ground & Mezzanine Floor), Jalan Pusat Perniagaan Barry, Pusat Perniagaan Barry @ Kuala Lipis, 27200 Kuala Lipis, Pahang Darul Makmur",
+    "city": "Kuala Lipis",
+    "state": "Pahang",
+    "lat": 4.1889518,
+    "lng": 102.0494547
+  },
+  {
+    "name": "ZUS Coffee - Muadzam Shah",
+    "address": "No. 25-G, Jalan Pms 3 1/1, Taman Perindustrian Muadzam Shah 3, 26700 Muadzam Shah, Pahang Darul Makmur",
+    "city": "Muadzam Shah",
+    "state": "Pahang",
+    "lat": 3.0693732,
+    "lng": 103.0682628
+  },
+  {
+    "name": "ZUS Coffee - Petron Kuantan Bypass",
+    "address": "No 01(GF) Lot 122773, Pandan Sejahtera 3, Jalan Kuantan Bypass, 25150 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.7800147,
+    "lng": 103.2289257
+  },
+  {
+    "name": "ZUS Coffee - Raub",
+    "address": "No 28 (Ground Floor), Pusat Perniagaan Raub, 27600 Raub, Pahang",
+    "city": "Raub",
+    "state": "Pahang",
+    "lat": 3.7904478,
+    "lng": 101.8560938
+  },
+  {
+    "name": "ZUS Coffee - SkyAvenue",
+    "address": "Lot No.T2A-39A & 40 of Level T2A, SkyAvenue, Genting Highlands Resort, 69000 Genting Highlands, Pahang",
+    "city": "Genting Highlands",
+    "state": "Pahang",
+    "lat": 3.4250431,
+    "lng": 101.7963938
+  },
+  {
+    "name": "ZUS Coffee - Taman Tas, Kuantan",
+    "address": "B4 (Ground Floor), Lorong Pandan Damai 2/4, Taman Pandan Damai, 25150 Kuantan, Pahang Darul Makmur",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.7712518,
+    "lng": 103.2322675
+  },
+  {
+    "name": "ZUS Coffee - Temerloh",
+    "address": "No 53 (Ground Floor, Jln Ahmad Shah 1, Pusat Komersil, 28000 Temerloh, Pahang",
+    "city": "Temerloh",
+    "state": "Pahang",
+    "lat": 3.4486265,
+    "lng": 102.4161783
+  },
+  {
+    "name": "ZUS Coffee - Timur Bay Beach Resort, Kuantan",
+    "address": "TR-16, Timur Bay @ Balok, Jalan Kuantan - Kemaman, 26100 Kuantan, Pahang",
+    "city": "Kuantan",
+    "state": "Pahang",
+    "lat": 3.9011794,
+    "lng": 103.3643896
+  },
+  {
+    "name": "ZUS Coffee - Triang Sentral",
+    "address": "No. 32(GF), Jalan Sentral Triang 6, Triang Sentral, 28300 Triang, Pahang",
+    "city": "Triang",
+    "state": "Pahang",
+    "lat": 3.2618531,
+    "lng": 102.436404
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Ipoh Klebang",
+    "address": "G21, Ground Floor, AEON Mall Ipoh Klebang, Laluan Klebang Restu 40, 31200 Chemor, Perak",
+    "city": "Chemor",
+    "state": "Perak",
+    "lat": 4.6773225,
+    "lng": 101.1229943
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Ipoh Station 18",
+    "address": "Lot KS2. No.2, Susunan Stesen 18, Station 18, 31650 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5436839,
+    "lng": 101.0714925
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Kinta City",
+    "address": "Lot F65, Jalan Sultan Azlan Shah, Bandar Baru Medan Ipoh, 31400 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6134754,
+    "lng": 101.1188931
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Seri Manjung",
+    "address": "Lot G039 & G40, Pusat Perniagaan, Jalan Manjung Point 3, 32040 Seri Manjung, Perak",
+    "city": "Seri Manjung",
+    "state": "Perak",
+    "lat": 4.2071695,
+    "lng": 100.6657647
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Teluk Intan",
+    "address": "7, Ground Floor, Jalan Intan 1, Bandar Baru Teluk Intan, 36000 Teluk Intan, Perak",
+    "city": "Teluk Intan",
+    "state": "Perak",
+    "lat": 4.0194085,
+    "lng": 101.0226444
+  },
+  {
+    "name": "ZUS Coffee - Batu Gajah Perdana",
+    "address": "No 1 (Ground Floor), Persiaran BG Perdana 1, Pusat Komersial BG Perdana, 31000 Batu Gajah, Perak",
+    "city": "Batu Gajah",
+    "state": "Perak",
+    "lat": 4.4954982,
+    "lng": 101.0197051
+  },
+  {
+    "name": "ZUS Coffee - Bidor, Perak",
+    "address": "No.8 (Ground Floor), PT 2324, Jalan Persatuan, 35500 Bidor, Perak",
+    "city": "Bidor",
+    "state": "Perak",
+    "lat": 4.1133646,
+    "lng": 101.2872988
+  },
+  {
+    "name": "ZUS Coffee - Caltex Selama",
+    "address": "Lot 5863, Jalan Sir Chulan, 34100, Selama, Perak",
+    "city": "Selama",
+    "state": "Perak",
+    "lat": 5.2212473,
+    "lng": 100.6852178
+  },
+  {
+    "name": "ZUS Coffee - Canning II Ipoh",
+    "address": "No. 29 (GF), Hala Pusat Perdagangan Canning 1, Pusat Perdagangan Canning II, 30350 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6010526,
+    "lng": 101.1136978
+  },
+  {
+    "name": "ZUS Coffee - Chemor, Perak",
+    "address": "No. 20 ( Ground Floor ), Jalan Hume, Chemor, 31200 Chemor Perak",
+    "city": "Chemor",
+    "state": "Perak",
+    "lat": 4.7181253,
+    "lng": 101.1205737
+  },
+  {
+    "name": "ZUS Coffee - Greentown Business Centre",
+    "address": "No.21 (Ground Floor), Persiaran Greentown 8, Pusat Perdagangan Greentown, 30450 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5997565,
+    "lng": 101.0957454
+  },
+  {
+    "name": "ZUS Coffee - Gunung Rapat, Ipoh",
+    "address": "No.46 (Ground Floor), Jalan Besar Gunung Rapat, Kampung Baru Gunung Rapat, 31350 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5720477,
+    "lng": 101.1141926
+  },
+  {
+    "name": "ZUS Coffee - Hutan Melintang, Perak",
+    "address": "No.8 (Ground Floor), Lorong Lagenda 8 (BDI38/50), Medaniaga Lagenda, 36400 Hutan Melintang, Perak Darul Ridzuan",
+    "city": "Hutan Melintang",
+    "state": "Perak",
+    "lat": 3.8855218,
+    "lng": 100.9355147
+  },
+  {
+    "name": "ZUS Coffee - Ipoh Bond Square",
+    "address": "11, Ground Floor, Jalan Niaga Simee 1, Pusat Perniagaan Simee (Bond Square), 31400 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6184865,
+    "lng": 101.1162324
+  },
+  {
+    "name": "ZUS Coffee - Ipoh Parade",
+    "address": "Unit G03, Ipoh Parade Mall, 105, Jalan Sultan Abdul Jalil, Pusat Perdagangan Greentown, 30450 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.597172,
+    "lng": 101.090072
+  },
+  {
+    "name": "ZUS Coffee - Ipoh Pengkalan Station 18",
+    "address": "34, Jalan Pengkalan Putra 1, Pusat Perniagaan Pengkalan Putra, 31650 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5522461,
+    "lng": 101.0750381
+  },
+  {
+    "name": "ZUS Coffee - Ipoh Southgate",
+    "address": "No 13 (Ground Floor), Jalan Pulai Hartamas 1, Medan Pulai Hartamas, 31300 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5493718,
+    "lng": 101.1174737
+  },
+  {
+    "name": "ZUS Coffee - Ipoh Sunway City",
+    "address": "No.4 (Ground Floor), Jalan Darul Johan Batu 5, Sunway City, 31400 Tambun, Perak",
+    "city": "Tambun",
+    "state": "Perak",
+    "lat": 4.6202751,
+    "lng": 101.1470589
+  },
+  {
+    "name": "ZUS Coffee - Jalan Raja Omar, Sitiawan",
+    "address": "No.51C (Ground Floor), Jalan Raja Omar, 32000, Sitiawan Perak",
+    "city": "Sitiawan",
+    "state": "Perak",
+    "lat": 4.2145529,
+    "lng": 100.6961747
+  },
+  {
+    "name": "ZUS Coffee - Kampar",
+    "address": "2234, Ground Floor, Jalan Batu Sinar, Taman Bandar Baru, 31900 Kampar, Perak",
+    "city": "Kampar",
+    "state": "Perak",
+    "lat": 4.3260607,
+    "lng": 101.1454886
+  },
+  {
+    "name": "ZUS Coffee - Kuala Kangsar",
+    "address": "No 4D (Ground Floor), Jalan Raja Chulan, 33000 Kuala Kangsar, Perak",
+    "city": "Kuala Kangsar",
+    "state": "Perak",
+    "lat": 4.7767372,
+    "lng": 100.9413213
+  },
+  {
+    "name": "ZUS Coffee - Medan Saujana Kamunting, Taiping",
+    "address": "51, Jalan Medan Saujana, Medan Saujana, 34600 Kamunting, Perak",
+    "city": "Kamunting",
+    "state": "Perak",
+    "lat": 4.8745766,
+    "lng": 100.7278077
+  },
+  {
+    "name": "ZUS Coffee - Meru Raya",
+    "address": "No 14 (Ground Floor), Jalan Meru Bestari B2, Medan Meru Bestari, 30020 Ipoh, Perak Darul Ridzuan",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6723656,
+    "lng": 101.0747511
+  },
+  {
+    "name": "ZUS Coffee - MYDIN Parit Buntar",
+    "address": "Lot G-09 (Ground Floor), Mydin Mall Parit Buntar, Kerian Sentral Mall, Lot 23252, Jalan Sekolah, 34200 Parit Buntar, Perak",
+    "city": "Parit Buntar",
+    "state": "Perak",
+    "lat": 5.1285183,
+    "lng": 100.4825518
+  },
+  {
+    "name": "ZUS Coffee - Pantai Remis",
+    "address": "No. 40 (Ground Floor), Jalan Sungai Batu, Kampung Mangsa Ribut, 34900 Pantai Remis, Perak",
+    "city": "Pantai Remis",
+    "state": "Perak",
+    "lat": 4.4465479,
+    "lng": 100.6266033
+  },
+  {
+    "name": "ZUS Coffee - Parit Buntar",
+    "address": "No. 38, Ground Floor, Jalan Wawasan 4, Taman Wawasan Jaya, 34200 Parit Buntar, Perak",
+    "city": "Parit Buntar",
+    "state": "Perak",
+    "lat": 5.11301,
+    "lng": 100.4812982
+  },
+  {
+    "name": "ZUS Coffee - Pejabat Pos Besar Ipoh",
+    "address": "Pejabat Pos Besar Ipoh. JKR 5120, Jalan Kelab, 30670 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6012645,
+    "lng": 101.076264
+  },
+  {
+    "name": "ZUS Coffee - Pekan Ayer Tawar",
+    "address": "No.35 (GF), Jalan Besar, 32400, Ayer Tawar, Perak",
+    "city": "Ayer Tawar",
+    "state": "Perak",
+    "lat": 4.2407417,
+    "lng": 100.6808414
+  },
+  {
+    "name": "ZUS Coffee - Pekan Gerik, Perak",
+    "address": "No.14 (Ground Floor), Jalan Bija Di Raja, Pekan Gerik, 33300 Perak",
+    "city": "Pekan Gerik",
+    "state": "Perak",
+    "lat": 5.4314175,
+    "lng": 101.1290597
+  },
+  {
+    "name": "ZUS Coffee - Pekan Langkap, Perak",
+    "address": "No.35 (Ground Floor), Jalan Lorong 1, Perumahan Awam Langkap II, 36700 Langkap, Perak",
+    "city": "Langkap",
+    "state": "Perak",
+    "lat": 4.078661,
+    "lng": 101.1513
+  },
+  {
+    "name": "ZUS Coffee - Pekan Sungkai",
+    "address": "18G, Jalan Sentral Sungkai 1, Taman Sungkai Perdana, 35600 Sungkai, Perak",
+    "city": "Sungkai",
+    "state": "Perak",
+    "lat": 4.0068197,
+    "lng": 101.3053826
+  },
+  {
+    "name": "ZUS Coffee - Pekan Tapah",
+    "address": "No.53A Jalan Besar, 35000 Tapah, Perak",
+    "city": "Tapah",
+    "state": "Perak",
+    "lat": 4.1965957,
+    "lng": 101.2625313
+  },
+  {
+    "name": "ZUS Coffee - Seri Iskandar",
+    "address": "No 25 (Ground Floor), Persiaran SIBC 2, Business Centre, 31620 Seri Iskandar, Perak",
+    "city": "Seri Iskandar",
+    "state": "Perak",
+    "lat": 4.357955,
+    "lng": 100.9684549
+  },
+  {
+    "name": "ZUS Coffee - Seri Manjung, Sitiawan",
+    "address": "29, Jalan PPMP 3/1, 32040 Seri Manjung, Perak",
+    "city": "Seri Manjung",
+    "state": "Perak",
+    "lat": 4.2166387,
+    "lng": 100.6691019
+  },
+  {
+    "name": "ZUS Coffee - Silibin",
+    "address": "1, Jalan Pusat Perniagaan Pertama, Pusat Perniagaan Pertama, 30100, Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.6083702,
+    "lng": 101.0606882
+  },
+  {
+    "name": "ZUS Coffee - Silverlakes Village",
+    "address": "N3-41. North Village. Silverlakes Village Outlet Kinta Valley, 31000 Batu Gajah, Perak",
+    "city": "Batu Gajah",
+    "state": "Perak",
+    "lat": 4.3894289,
+    "lng": 101.0662348
+  },
+  {
+    "name": "ZUS Coffee - Simpang Pulai, Perak",
+    "address": "No.83 (Ground Floor), Jalan Pusat Perniagaan Pulai 1, Pusat Perniagaan Pulai, 31300 Kampung Kepayang, Perak",
+    "city": "Kampung Kepayang",
+    "state": "Perak",
+    "lat": 4.5277776,
+    "lng": 101.1268823
+  },
+  {
+    "name": "ZUS Coffee - Slim River",
+    "address": "No 90-A, Jalan Perdana 5, Pusat Perniagaan Slim Perdana, 35800 Slim River, Perak Darul Ridzuan",
+    "city": "Slim River",
+    "state": "Perak",
+    "lat": 3.8426664,
+    "lng": 101.3937513
+  },
+  {
+    "name": "ZUS Coffee - Sungai Siput",
+    "address": "No 12, Ground Floor, Persiaran Pesona 1, Medan Pesona, 31100 Sungai Siput, Perak Darul Ridzuan",
+    "city": "Sungai Siput",
+    "state": "Perak",
+    "lat": 4.8167203,
+    "lng": 101.0776372
+  },
+  {
+    "name": "ZUS Coffee - Taiping Mall",
+    "address": "Lot G-02, Ground Floor, Taiping Mall, Jalan Tupai, 34000 Taiping Perak Darul Ridzuan",
+    "city": "Taiping",
+    "state": "Perak",
+    "lat": 4.8499974,
+    "lng": 100.7429479
+  },
+  {
+    "name": "ZUS Coffee - Taiping Pekeliling",
+    "address": "No. 8 & 10, Off, Jalan Pekeliling, Taman Tasik Commercial Centre, 34000 Taiping, Perak",
+    "city": "Taiping",
+    "state": "Perak",
+    "lat": 4.8528203,
+    "lng": 100.7457325
+  },
+  {
+    "name": "ZUS Coffee - Taiping Sentral Mall",
+    "address": "GPS-06, Ground Floor, Taiping Sentral Mall, 36, Jalan Istana Larut, 34000 Taiping, Perak",
+    "city": "Taiping",
+    "state": "Perak",
+    "lat": 4.8658711,
+    "lng": 100.7311884
+  },
+  {
+    "name": "ZUS Coffee - Taman Lumut Indah 2",
+    "address": "No. 10 (Ground Floor), Jalan Lumut Indah 2/1, Taman Lumut Indah 2, 32200 Lumut, Perak",
+    "city": "Lumut",
+    "state": "Perak",
+    "lat": 4.2087924,
+    "lng": 100.6387087
+  },
+  {
+    "name": "ZUS Coffee - Taman Tasek Jaya, Ipoh",
+    "address": "No. 761 (Ground Floor), Jalan Kuala Kangsar, Taman Tasek Jaya, 31400 Ipoh Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.652598,
+    "lng": 101.1063363
+  },
+  {
+    "name": "ZUS Coffee - Tanjung Malim",
+    "address": "No 24A (Ground Floor, Jalan Taman Sri Indah, Taman Sri Indah Utama, 35900 Tanjong Malim, Perak",
+    "city": "Tanjong Malim",
+    "state": "Perak",
+    "lat": 3.691283,
+    "lng": 101.5243252
+  },
+  {
+    "name": "ZUS Coffee - Universiti Tunku Abdul Rahman, Kampar (Student Pavilion I)",
+    "address": "C109 & C110 (Upper Ground Floor), Student Pavilion I Universiti Tunku Abdul Rahman (Kampar Campus)",
+    "city": null,
+    "state": "Perak",
+    "lat": 4.3084915,
+    "lng": 101.1536512
+  },
+  {
+    "name": "ZUS Coffee DT - Botani Village, Perak",
+    "address": "FF02, Pusat Komersial Botani Village Medan Botani, 10, Medan Botani 1A, Bandar Seri Botani, 31350 Ipoh, Perak",
+    "city": "Ipoh",
+    "state": "Perak",
+    "lat": 4.5243471,
+    "lng": 101.1030734
+  },
+  {
+    "name": "ZUS Coffee - Arau",
+    "address": "Lot 3A, Jalan Satu, Kompleks Tok Arau, Arau, 02600 Kangar, Perlis",
+    "city": "Kangar",
+    "state": "Perlis",
+    "lat": 6.4284712,
+    "lng": 100.2725874
+  },
+  {
+    "name": "ZUS Coffee - Jetty Kuala Perlis",
+    "address": "No.49(GF), Persiaran Putra Timur 1, 02000 Kuala Perlis, Perlis",
+    "city": "Kuala Perlis",
+    "state": "Perlis",
+    "lat": 6.3978485,
+    "lng": 100.12836
+  },
+  {
+    "name": "ZUS Coffee - Kangar Jaya",
+    "address": "No 21 (Ground Floor), Jalan Kangar Jaya 14, Jalan Tuanku Syed Putra, Kangar Jaya, 01000 Kangar, Perlis",
+    "city": "Kangar",
+    "state": "Perlis",
+    "lat": 6.4055485,
+    "lng": 100.17938
+  },
+  {
+    "name": "ZUS Coffee - Pengkalan Asam, Kangar",
+    "address": "Lot No. 318, Ground Floor, Jalan Kangar-Alor Setar, Taman Mutiara, 01000 Kangar, Perlis",
+    "city": "Kangar",
+    "state": "Perlis",
+    "lat": 6.4340397,
+    "lng": 100.1877699
+  },
+  {
+    "name": "ZUS Coffee - Aeon Mall Bukit Mertajam",
+    "address": "KG02, Lower Ground Floor, Aeon Mall Bukit Mertajam, Lot No. 30908, Jalan Rozhan, Alma, 14000 Bukit Mertajam, Pulau Pinang",
+    "city": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "lat": 5.3202158,
+    "lng": 100.4779502
+  },
+  {
+    "name": "ZUS Coffee - Alma @ Bukit Mertajam, Penang",
+    "address": "No 13 (Ground Floor), Persiaran Seri Impian, Pusat Perniagaan Mahkota Impian, 14000 Bukit Mertajam, Pulau Pinang",
+    "city": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "lat": 5.3187184,
+    "lng": 100.4767468
+  },
+  {
+    "name": "ZUS Coffee - Bagan Ajam, Butterworth",
+    "address": "No.97 Ground Floor, Jalan Merbau, Pusat Perniagaan Oren, 13000 Butterworth, Pulau Pinang",
+    "city": "Butterworth",
+    "state": "Pulau Pinang",
+    "lat": 5.4387122,
+    "lng": 100.3829481
+  },
+  {
+    "name": "ZUS Coffee - Bandar Perda, Bukit Mertajam",
+    "address": "469, Jln. Permatang Rawa, Bandar Perda, 14000 Bukit Mertajam, Pulau Pinang",
+    "city": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "lat": 5.3660959,
+    "lng": 100.4370419
+  },
+  {
+    "name": "ZUS Coffee - Bayan Lepas",
+    "address": "01-03, Golden Triangle 2 Commercial Square, Jalan Dato Ismail Hashim, 11900 Bayan Lepas",
+    "city": "Bayan Lepas",
+    "state": "Pulau Pinang",
+    "lat": 5.3296931,
+    "lng": 100.2753757
+  },
+  {
+    "name": "ZUS Coffee - Beacon Executive Suites, Penang",
+    "address": "142-01-01, Beacon Executive Suites, Jalan Sungai Pinang, 10150 Georgetown, Pulau Pinang",
+    "city": "George Town",
+    "state": "Pulau Pinang",
+    "lat": 5.4093986,
+    "lng": 100.3168012
+  },
+  {
+    "name": "ZUS Coffee - Botanica Balik Pulau",
+    "address": "No 138 (Ground Floor), Jalan Sungai Air Putih, 11000 Balik Pulau, Pulau Pinang",
+    "city": "Balik Pulau",
+    "state": "Pulau Pinang",
+    "lat": 5.3706764,
+    "lng": 100.2169418
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Bandar Putra Bertam",
+    "address": "2278 (Lot 9588), Jalan Tun Hamdan Sheikh Tahir, Bandar Putra Bertam, 13200 Kepala Batas, Pulau Pinang",
+    "city": "Kepala Batas",
+    "state": "Pulau Pinang",
+    "lat": 5.5198288,
+    "lng": 100.484461
+  },
+  {
+    "name": "ZUS Coffee - Design Village Outlet Mall",
+    "address": "G-57, Design Village Outlet Mall, 733, Jalan Cassia Barat 2, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2441918,
+    "lng": 100.4373106
+  },
+  {
+    "name": "ZUS Coffee - Eco Borealis",
+    "address": "No 29-G, Jalan Borealis 3, Pusat Komersial Borealis, Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2365132,
+    "lng": 100.4432396
+  },
+  {
+    "name": "ZUS Coffee - Ferringhi Walk",
+    "address": "72C-G-7,Jalan Batu Ferringhi, 11100 Batu Ferringhi, Penang",
+    "city": "Batu Ferringhi",
+    "state": "Pulau Pinang",
+    "lat": 5.4750544,
+    "lng": 100.24941
+  },
+  {
+    "name": "ZUS Coffee - Gurney Paragon Mall Penang",
+    "address": "163-D, Lot LG-03, Lower Ground Floor Gurney Paragon Mall, Persiaran Gurney, 10250 George Town, Pulau Pinang",
+    "city": "George Town",
+    "state": "Pulau Pinang",
+    "lat": 5.4351948,
+    "lng": 100.3104677
+  },
+  {
+    "name": "ZUS Coffee - Iconic Point Simpang Ampat",
+    "address": "No 29-G (Ground Floor), Jalan Iconic Point, Iconic Point Business Park, 14100 Simpang Ampat, Pulau Pinang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2838146,
+    "lng": 100.4750919
+  },
+  {
+    "name": "ZUS Coffee - IKEA Batu Kawan Link Building (Klippa)",
+    "address": "LG.07, Lower Ground Floor, IKEA Batu Kawan Link Building, 752, Persiaran Cassia Selatan, 8, Lebuhraya Bandar Cassia, 14110 Simpang Ampat, Penang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2340905,
+    "lng": 100.4398
+  },
+  {
+    "name": "ZUS Coffee - Jalan Balik Pulau, Penang",
+    "address": "47, Mukim 6, Balik Pulau VLGE Area, 11000 Balik Pulau Penang",
+    "city": "Balik Pulau",
+    "state": "Pulau Pinang",
+    "lat": 5.3511509,
+    "lng": 100.2352936
+  },
+  {
+    "name": "ZUS Coffee - Jelutong",
+    "address": "No 11-G, Vantage Point, Jalan Lenggong, 11600 Jelutong, Pulau Pinang",
+    "city": "Jelutong",
+    "state": "Pulau Pinang",
+    "lat": 5.3959667,
+    "lng": 100.3167181
+  },
+  {
+    "name": "ZUS Coffee - Karpal Singh Drive, Penang",
+    "address": "Lot 9, Maritime, Karpal Singh Dr, 11600 Jelutong, Penang",
+    "city": "Jelutong",
+    "state": "Pulau Pinang",
+    "lat": 5.3980621,
+    "lng": 100.3298405
+  },
+  {
+    "name": "ZUS Coffee - Kepala Batas Pokok Sena",
+    "address": "No. 45, (Ground Floor), Persiaran Pokok Sena, Pusat Perniagaan Pokok Sena, 13220 Kepala Batas, Pulau Pinang",
+    "city": "Kepala Batas",
+    "state": "Pulau Pinang",
+    "lat": 5.4897039,
+    "lng": 100.4567627
+  },
+  {
+    "name": "ZUS Coffee - Klippa Shopping Centre",
+    "address": "8, LG.07, Lower Ground Floor IKEA Batu Kawan Link Building, 752, Persiaran Cassia Selatan, 8, Lebuhraya Bandar Cassia, 14110 Simpang Ampat, Pulau Pinang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2340905,
+    "lng": 100.4398
+  },
+  {
+    "name": "ZUS Coffee - Komtar Walk",
+    "address": "Lot No. 3 (Ground Floor), Komtar Walk, Jalan Dr Lim Chwee Leong, 10450 George Town, Pulau Pinang",
+    "city": "George Town",
+    "state": "Pulau Pinang",
+    "lat": 5.4152023,
+    "lng": 100.3309542
+  },
+  {
+    "name": "ZUS Coffee - Macalister, Georgetown",
+    "address": "109-B, Jalan Macalister, 10400 George Town, Pulau Pinang",
+    "city": "George Town",
+    "state": "Pulau Pinang",
+    "lat": 5.4168849,
+    "lng": 100.3225119
+  },
+  {
+    "name": "ZUS Coffee - Maju Utama, Penang",
+    "address": "No 3183 (Ground Floor), Jalan Maju, Pusat Perniagaan Maju Utama, 14000 Bukit Mertajam, Pulau Pinang",
+    "city": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "lat": 5.3520296,
+    "lng": 100.4709064
+  },
+  {
+    "name": "ZUS Coffee - MYDIN Bukit Mertajam",
+    "address": "Lot No.GFNB-11 (Ground Floor), MYDIN Bukit Mertajam, LOT-LOT 3424, 1619, 1611, 1511, 1186 & 850, Mukim 06, Jalan Baru, 13600 Seberang Perai Tengah, Pulau Pinang",
+    "city": "Seberang Perai Tengah",
+    "state": "Pulau Pinang",
+    "lat": 5.3682506,
+    "lng": 100.4145476
+  },
+  {
+    "name": "ZUS Coffee - Nibong Tebal C-Mart",
+    "address": "LOT 72A, 74A, 76A, NO. 3974, Jalan Industri Cenderawasih Kompleks Industri Cenderawasih, LOT 5631, MK 11, 14300 Nibong Tebal, Pulau Pinang",
+    "city": "Nibong Tebal",
+    "state": "Pulau Pinang",
+    "lat": 5.1783083,
+    "lng": 100.4814951
+  },
+  {
+    "name": "ZUS Coffee - Pearl City Mall",
+    "address": "G-15, Pearl City Mall, 8936, Jalan Tasek Mutiara 2, Bandar Tasek Mutiara, 14120 Simpang Ampat, Pulau Pinang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2769312,
+    "lng": 100.490603
+  },
+  {
+    "name": "ZUS Coffee - Penang Ayer Itam",
+    "address": "61-01, Jalan Pisang Embun, 11500 Ayer Itam, Penang",
+    "city": "Ayer Itam",
+    "state": "Pulau Pinang",
+    "lat": 5.3967684,
+    "lng": 100.2868063
+  },
+  {
+    "name": "ZUS Coffee - PKT Logistic Batu Kawan",
+    "address": "No 1, Logistic Boulevard, One Auto Hub, Batu Kawan Industrial Park, 14110 Bandar Cassia, Penang",
+    "city": "Bandar Cassia",
+    "state": "Pulau Pinang",
+    "lat": 5.2250359,
+    "lng": 100.4333958
+  },
+  {
+    "name": "ZUS Coffee - Plaza Gurney",
+    "address": "Lot 170-03-68, Gurney Plaza, Persiaran Gurney, 10250, Penang, Malaysia",
+    "city": null,
+    "state": "Pulau Pinang",
+    "lat": 5.4287817,
+    "lng": 100.3207271
+  },
+  {
+    "name": "ZUS Coffee - Queens Waterfront, Bayan Lepas",
+    "address": "1-G-26, Jalan Bayan Indah, Queens Waterfront Q1, 11900 Bayan Lepas, Penang",
+    "city": "Bayan Lepas",
+    "state": "Pulau Pinang",
+    "lat": 5.3326263,
+    "lng": 100.3097075
+  },
+  {
+    "name": "ZUS Coffee - Queensbay Mall",
+    "address": "Lot LG-17, Queensbay Mall, 100, Persiaran Bayan Indah, 11900 Bayan Lepas, Penang",
+    "city": "Bayan Lepas",
+    "state": "Pulau Pinang",
+    "lat": 5.3330488,
+    "lng": 100.3065283
+  },
+  {
+    "name": "ZUS Coffee - Raja Uda Butterworth, Penang",
+    "address": "No 17 (Ground Floor), Pusat Perniagaan Raja Uda, Jalan Raja Uda, Kampung Paya, 12300 Butterworth, Pulau Pinang",
+    "city": "Butterworth",
+    "state": "Pulau Pinang",
+    "lat": 5.4149836,
+    "lng": 100.3789191
+  },
+  {
+    "name": "ZUS Coffee - Seberang Perai",
+    "address": "Unit B1-G-12, Elevate 1, Lorong Pauh Jaya 1/3, Taman Pauh Jaya, 13500 Permatang Pauh, Seberang Perai Tengah",
+    "city": "Permatang Pauh",
+    "state": "Pulau Pinang",
+    "lat": 5.3698461,
+    "lng": 100.4161562
+  },
+  {
+    "name": "ZUS Coffee - Straits City, Penang",
+    "address": "GF-3C, Ground Floor, 4823-4824, 2F, Jalan Pantai, Taman Selat, 12000 Butterworth, Pulau Pinang",
+    "city": "Butterworth",
+    "state": "Pulau Pinang",
+    "lat": 5.4042332,
+    "lng": 100.3685363
+  },
+  {
+    "name": "ZUS Coffee - Sungai 2, Butterworth",
+    "address": "Lot 12, Ground & 1st Floor, Pusat Perniagaan, Lorong Perniagaan, 13800 Sungai Dua, Penang",
+    "city": "Sungai Dua",
+    "state": "Pulau Pinang",
+    "lat": 5.4451472,
+    "lng": 100.4299701
+  },
+  {
+    "name": "ZUS Coffee - Sunway Carnival Mall",
+    "address": "1F-K17, Sunway Carnival Mall, 3068, Jalan Todak, Pusat Bandar Seberang Jaya, 13700 Seberang Jaya, Pulau Pinang",
+    "city": "Seberang Jaya",
+    "state": "Pulau Pinang",
+    "lat": 5.398531,
+    "lng": 100.3980387
+  },
+  {
+    "name": "ZUS Coffee - Taman Ara Jaya",
+    "address": "21, Jalan Ara Jaya, Taman Ara Jaya, 13310 Tasek Gelugor, Pulau Pinang",
+    "city": "Tasek Gelugor",
+    "state": "Pulau Pinang",
+    "lat": 5.4380561,
+    "lng": 100.5137564
+  },
+  {
+    "name": "ZUS Coffee - Taman Chai Leng",
+    "address": "No 48, Ground Floor, Lebuh Kurau 3, Taman Chai Leng, 13700 Perai, Pulau Pinang",
+    "city": "Perai",
+    "state": "Pulau Pinang",
+    "lat": 5.3857278,
+    "lng": 100.3917272
+  },
+  {
+    "name": "ZUS Coffee - Taman Machang Bubok",
+    "address": "No 235-G, Jalan Machang Bubok 1, Taman Machang Bubok, 14020 Bukit Mertajam, Pulau Pinang",
+    "city": "Bukit Mertajam",
+    "state": "Pulau Pinang",
+    "lat": 5.3322366,
+    "lng": 100.5037464
+  },
+  {
+    "name": "ZUS Coffee - Tanjung Tokong",
+    "address": "A-G-8, Vantage Desiran, Jalan Desiran Tanjung, 10470 Tanjung Tokong, Pulau Pinang",
+    "city": "Tanjung Tokong",
+    "state": "Pulau Pinang",
+    "lat": 5.4553703,
+    "lng": 100.3075748
+  },
+  {
+    "name": "ZUS Coffee - Tree Square, Tanjung Bungah",
+    "address": "No. 88-G-A05, Jalan Sungai Kelian, 11200 Tanjong Bungah, Penang",
+    "city": "Tanjong Bungah",
+    "state": "Pulau Pinang",
+    "lat": 5.4632774,
+    "lng": 100.2880142
+  },
+  {
+    "name": "ZUS Coffee - Universiti Sains Malaysia (Cabin In The Woods)",
+    "address": "Cabin B (Cabin By The Woods), Bangunan G28, Universiti Sains Malaysia, 11800 USM, Pulau Pinang",
+    "city": "Gelugor",
+    "state": "Pulau Pinang",
+    "lat": 5.3537477,
+    "lng": 100.3013622
+  },
+  {
+    "name": "ZUS Coffee DT - Metrioplace Batu Kawan",
+    "address": "1818-2-2, Jalan Perniagaan Vorteks, Pusat Perniagaan Vorteks, 14100 Simpang Ampat, Penang",
+    "city": "Simpang Ampat",
+    "state": "Pulau Pinang",
+    "lat": 5.2654661,
+    "lng": 100.4513614
+  },
+  {
+    "name": "ZUS Coffee - Alamanda Putrajaya",
+    "address": "Lot G22, Ground Floor. Jalan Alamanda, Presint 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.9424517,
+    "lng": 101.7106958
+  },
+  {
+    "name": "ZUS Coffee - IOI City Mall",
+    "address": "L1-K204, First Floor, IOI City Mall 2, Lebuh IRC, IOI Resort City, 62502 Putrajaya",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.9692076,
+    "lng": 101.7123883
+  },
+  {
+    "name": "ZUS Coffee - Ioi Conezion",
+    "address": "A-G-11, Connection Commercial, Persiaran IRC 3 IRC 3, IOI Resort City, 62502 Sepang, Wilayah Persekutuan Putrajaya",
+    "city": "Sepang",
+    "state": "Putrajaya",
+    "lat": 2.9654964,
+    "lng": 101.7215964
+  },
+  {
+    "name": "ZUS Coffee - Jabatan Peguam Negara, Putrajaya",
+    "address": "Bangunan Jabatan Peguam Negara AGC Persint 4, Lot 1, Level 1, Putrajaya 62100 Malaysia",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.9056487,
+    "lng": 101.6816023
+  },
+  {
+    "name": "ZUS Coffee - Putrajaya Presint 15",
+    "address": "No 43 (Ground Floor), Jalan Diplomatik, Presint Diplomatik, 62050 Putrajaya, Wilayah Persekutuan Putrajaya",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.9448469,
+    "lng": 101.7225685
+  },
+  {
+    "name": "ZUS Coffee - Selera Putra, Souq Putrajaya",
+    "address": "Lot G-005, Selera Putra, Souq Putrajaya, Presint 1, 62000 Putrajaya",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.9344772,
+    "lng": 101.6897945
+  },
+  {
+    "name": "ZUS Coffee - Suasana PjH Presint 2",
+    "address": "Unit A-G-R10 & A-G-R11, Block A, Suasana PjH, Jalan Tun Abdul Razak, Presint 2, 62100 Putrajaya",
+    "city": "Putrajaya",
+    "state": "Putrajaya",
+    "lat": 2.925546,
+    "lng": 101.6871191
+  },
+  {
+    "name": "ZUS Coffee - Aeropod Commercial Square",
+    "address": "No. B-1-3 (Ground Floor), Aeropod Commercial Square, Jalan Aeropod, Off Jalan Kepayan, Sabah",
+    "city": null,
+    "state": "Sabah",
+    "lat": 5.9369471,
+    "lng": 116.05542
+  },
+  {
+    "name": "ZUS Coffee - Benoni Commercial Centre",
+    "address": "Lot 90, Ground Floor, Benoni Commercial Centre, Jalan Papar Spur, 89600 Papar Sabah",
+    "city": "Papar",
+    "state": "Sabah",
+    "lat": 5.7020845,
+    "lng": 115.9345826
+  },
+  {
+    "name": "ZUS Coffee - Centrepoint Sabah Shopping Mall",
+    "address": "G75C, Centrepoint Sabah Shopping Mall, Lorong Centre Point, Pusat Bandar Kota Kinabalu, 88000 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9779224,
+    "lng": 116.0720685
+  },
+  {
+    "name": "ZUS Coffee - City Mall Kota Kinabalu",
+    "address": "M-0-77 (S05),?Ground?Floor, Jln Lintas, 88300 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9613652,
+    "lng": 116.0971908
+  },
+  {
+    "name": "ZUS Coffee - EG Mall Inanam",
+    "address": "Lot G6, K9 & K10, EG Mall Inanam, No 6, Lot 28, Taman Perindustrian Bukit Emas, Mile 7 1/2, Jalan Tuaran, 88400 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 6.0059942,
+    "lng": 116.1452371
+  },
+  {
+    "name": "ZUS Coffee - Garden City, Tawau",
+    "address": "Lot No B1.23.0 (Ground Floor), Block B, Garden City KM 5, Jalan Apas, 91000 Tawau, Sabah",
+    "city": "Tawau",
+    "state": "Sabah",
+    "lat": 4.2518857,
+    "lng": 117.8970205
+  },
+  {
+    "name": "ZUS Coffee - Imago Shopping Mall",
+    "address": "G-51. Imago Shopping Mall, KK Times Square, Phase 2, Off Coastal Highway, 88100 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9775971,
+    "lng": 116.0720548
+  },
+  {
+    "name": "ZUS Coffee - ITCC Penampang",
+    "address": "Lot G-16 (Ground Floor), ITCC Shopping Mall, Jalan Pintas Penampang, 89500 Penampang, Sabah",
+    "city": "Penampang",
+    "state": "Sabah",
+    "lat": 5.9102601,
+    "lng": 116.091039
+  },
+  {
+    "name": "ZUS Coffee - Karamunsing Shopping Complex",
+    "address": "Lot 1.93.95, Karamunsing Shopping Complex, Lot-LG91B, Lower Ground Floor, 88000 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9708107,
+    "lng": 116.0751329
+  },
+  {
+    "name": "ZUS Coffee - Kingfisher Plaza",
+    "address": "No. 9-0, Ground Floor, Block D, Lorong Plaza Kingfisher 4, Plaza Kingfisher, 88450 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 6.0161682,
+    "lng": 116.1224676
+  },
+  {
+    "name": "ZUS Coffee - Kota Marudu",
+    "address": "Lot 3, Ground Floor, Block A, Jalan Goshen, 89107, Kota Marudu, Sabah",
+    "city": "Kota Marudu",
+    "state": "Sabah",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "name": "ZUS Coffee - Kubota Sentral, Tawau",
+    "address": "LOT NO J4, MPT NO.47-0 (GROUND FLOOR), KUBOTA SENTRAL, JALAN CHONG THEIN VUN 91000 TAWAU, SABAH",
+    "city": "Tawau",
+    "state": "Sabah",
+    "lat": 4.2591585,
+    "lng": 117.9135765
+  },
+  {
+    "name": "ZUS Coffee - Lintas Plaza",
+    "address": "No 30-0 (Ground Floor), Phase 2C, Lorong Lintas Plaza, Lintas Plaza, 88300 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9463562,
+    "lng": 116.0894946
+  },
+  {
+    "name": "ZUS Coffee - Plaza 22, Papar",
+    "address": "No.51, Ground Floor, Block H, Plaza 22, Jln Pengalat Lok Kawi, 89600 Papar, Sabah",
+    "city": "Papar",
+    "state": "Sabah",
+    "lat": 5.7368114,
+    "lng": 115.9394045
+  },
+  {
+    "name": "ZUS Coffee - Plaza 333",
+    "address": "Lot 42-0 (Ground Floor), Block E, Lorong Plaza 333-6, Plaza 333, Kobusak Commercial Centre, 88500 Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9233477,
+    "lng": 116.0772323
+  },
+  {
+    "name": "ZUS Coffee - Plaza Shell, Kota Kinabalu",
+    "address": "Lot G.08, Ground Floor, Plaza Shell, 29, Jalan Tunku Abdul Rahman, 88000, Kota Kinabalu, Sabah",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9772231,
+    "lng": 116.0747608
+  },
+  {
+    "name": "ZUS Coffee - Solaris Tuaran",
+    "address": "Lot No. 48, Ground Floor, Block F, Solaris Tuaran 89200 Tuaran, Sabah",
+    "city": "Tuaran",
+    "state": "Sabah",
+    "lat": 6.1860828,
+    "lng": 116.2273057
+  },
+  {
+    "name": "ZUS Coffee - Suria Sabah Shopping Mall",
+    "address": "Kiosk-LG-K8, Lower Ground Floor, Jalan Tun Fuad Stephens, 88000 Kota Kinabalu, Sabah, Malaysia",
+    "city": "Kota Kinabalu",
+    "state": "Sabah",
+    "lat": 5.9869486,
+    "lng": 116.0772755
+  },
+  {
+    "name": "ZUS Coffee - T2@Apas, Tawau",
+    "address": "NO. 18, LOT 35,T2@APAS,JALAN T2-A, MILE 1,JALAN APAS 91000 TAWAU, SABAH",
+    "city": "Tawau",
+    "state": "Sabah",
+    "lat": 4.2521936,
+    "lng": 117.9118558
+  },
+  {
+    "name": "ZUS Coffee - Aeon Mall Kuching Central",
+    "address": "Lot KS4, Level 2, AEON Mall Kuching Central, Jln Tun Datuk Patinggi Haji Ahmad Zaidi Adruce, Min Chu Garden, 93200 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5280456,
+    "lng": 110.33724
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Samariang, Kuching",
+    "address": "Bandar Baru Samariang, Ground Floor, Sublot 34 (Survey Lot 7672), Salak Land District, Jalan Sultan Tengah, Petra Jaya, 93050 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.6337178,
+    "lng": 110.3393295
+  },
+  {
+    "name": "ZUS Coffee - Boulevard Commercial Centre Miri",
+    "address": "Lot 2514, ground floor & 1st floor, block 5, Miri concession land, 98000 Miri, Sarawak",
+    "city": "Miri",
+    "state": "Sarawak",
+    "lat": 4.4165625,
+    "lng": 114.0106875
+  },
+  {
+    "name": "ZUS Coffee - Boulevard Shopping Mall Bintulu",
+    "address": "G-12 & G-13, Ground Floor, Boulevard Shopping Mall, 714, Jalan Tun Razak, 97000 Bintulu, Sarawak",
+    "city": "Bintulu",
+    "state": "Sarawak",
+    "lat": 3.2008277,
+    "lng": 113.0480283
+  },
+  {
+    "name": "ZUS Coffee - Boulevard Shopping Mall Kuching",
+    "address": "G-B-17, Ground Floor, Mall 1, Boulevard Shopping Mall, Jalan Datuk Tawi Sli, Taman Seng Goon, 93250 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5095957,
+    "lng": 110.3359457
+  },
+  {
+    "name": "ZUS Coffee - Boulevard Shopping Mall Miri",
+    "address": "G-K01, Ground Floor, Boulevard Shopping Mall, Lot 2528, Boulevard Commercial Centre, 98000 Miri, Sarawak",
+    "city": "Miri",
+    "state": "Sarawak",
+    "lat": 4.41514,
+    "lng": 114.012903
+  },
+  {
+    "name": "ZUS Coffee - Eastern Mall Siburan",
+    "address": "Lot 1964C - Block C, Eastern Mall Siburan, 9C72+CW, 94200 Siburan, Sarawak",
+    "city": "Siburan",
+    "state": "Sarawak",
+    "lat": 1.3635625,
+    "lng": 110.4023125
+  },
+  {
+    "name": "ZUS Coffee - Emart Tabuan Jaya, Kuching",
+    "address": "Emart Tabuan Jaya, Lot G06 & G07, Ground Floor, Commercial Centre, No 1, Tabuan Tranquility, Jalan Canna, 93350 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5160698,
+    "lng": 110.3863016
+  },
+  {
+    "name": "ZUS Coffee - Galacity Kuching",
+    "address": "Sub Lot 80, Ground Floor, Galacity Kuching, alan Datuk Tawi Sli 3rd Exchange Commercial Centre, 93250 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5121159,
+    "lng": 110.3525815
+  },
+  {
+    "name": "ZUS Coffee - MetroMall @ Metrocity Square",
+    "address": "Sublot No. 8, Ground Floor, MetroMall @ Metrocity Square, Survey Lot 13767 Section 6, Kuching Town Land District Metrocity Sqaure Boutique Shops",
+    "city": null,
+    "state": "Sarawak",
+    "lat": 1.5690025,
+    "lng": 110.3076386
+  },
+  {
+    "name": "ZUS Coffee - Miri Times Square",
+    "address": "A-G-26, Miri Time Square, Jalan Bendahara, 98000 Miri, Sarawak",
+    "city": "Miri",
+    "state": "Sarawak",
+    "lat": 4.3931202,
+    "lng": 113.9861439
+  },
+  {
+    "name": "ZUS Coffee - Permyjaya, Miri",
+    "address": "Lot 7182, Ground Floor, Pusat Bandar, Bandar Baru Permyjaya Miri., Miri, 98000 Miri, Sarawak",
+    "city": "Miri",
+    "state": "Sarawak",
+    "lat": 4.4516473,
+    "lng": 114.0393244
+  },
+  {
+    "name": "ZUS Coffee - Pines Square, Kuching",
+    "address": "Pines Square Kuching, Ground Floor Plot 48, Lot 6728, Pines Square, Jalan Batu Kawa, 93250 Kuching",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5112573,
+    "lng": 110.3093886
+  },
+  {
+    "name": "ZUS Coffee - Plaza Merdeka Kuching",
+    "address": "No. G-01, Ground Floor, Plaza Merdeka Shopping Centre, 88 Pearl Street, 93000 Kuching, Sarawak, Malaysia",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.558561,
+    "lng": 110.3440205
+  },
+  {
+    "name": "ZUS Coffee - Saradise Kuching",
+    "address": "Ground Floor Lot 19717 Sl 39 Blk C1 Saradise Shophouses Jin Stutong 93350 Kuching Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5051329,
+    "lng": 110.3594197
+  },
+  {
+    "name": "ZUS Coffee - Sego Precinct 1",
+    "address": "Lot G1, Jalan Kulas, 93400 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5543568,
+    "lng": 110.3322731
+  },
+  {
+    "name": "ZUS Coffee - Sentosa Parade, Kuching",
+    "address": "Sentosa Parade, Ground Floor, Sublot No. 69 of Block B held under Parent Lot 329 and 332 of Block 46, 93250 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.4666172,
+    "lng": 110.327777
+  },
+  {
+    "name": "ZUS Coffee - Sibu Town Square",
+    "address": "Lot 789, Block 5, Ground Floor, Sibu Town District, 29 Jalan Lau King Howe, 96000, Sibu, Sarawak",
+    "city": "Sibu",
+    "state": "Sarawak",
+    "lat": 2.2915668,
+    "lng": 111.8207155
+  },
+  {
+    "name": "ZUS Coffee - The Hills Kuching",
+    "address": "Shop 22, Lower Ground Floor, The Hills, Interhill Place, 8, Jalan Bukit Mata Kuching, 93100 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5557,
+    "lng": 110.3511749
+  },
+  {
+    "name": "ZUS Coffee - The Northbank, Kuching",
+    "address": "Ground Floor, PL 18 / SL 4082, Lot 3146, Block?12, Muara Tebas Land District",
+    "city": null,
+    "state": "Sarawak",
+    "lat": 1.6464254,
+    "lng": 110.4795382
+  },
+  {
+    "name": "ZUS Coffee - The Spring Bintulu",
+    "address": "KG1, Ground Floor, The Spring Bintulu, Lot 4282, Jalan Tun Abdul Razak, 97000 Bintulu, Sarawak",
+    "city": "Bintulu",
+    "state": "Sarawak",
+    "lat": 3.1811505,
+    "lng": 113.0349248
+  },
+  {
+    "name": "ZUS Coffee - The Summer Shopping Mall",
+    "address": "Ground Floor, Island Kiosk, The Summer Shopping Mall, Lot 7455, Block 1, Jln Datuk Mohammad Musa, 94300 Kota Samarahan, Sarawak",
+    "city": "Kota Samarahan",
+    "state": "Sarawak",
+    "lat": 1.4547136,
+    "lng": 110.4593988
+  },
+  {
+    "name": "ZUS Coffee - Time Square Megamall Bintulu",
+    "address": "Lot No.47, Ground Floor, Time Square Megamall, 97000 Bintulu, Sarawak",
+    "city": "Bintulu",
+    "state": "Sarawak",
+    "lat": 3.1976558,
+    "lng": 113.0881291
+  },
+  {
+    "name": "ZUS Coffee - Uni-Avenue, Sibu",
+    "address": "Lot 11, Uni-Avenue, Jln Setia, 96000 Sibu, Sarawak",
+    "city": "Sibu",
+    "state": "Sarawak",
+    "lat": 2.3429927,
+    "lng": 111.840113
+  },
+  {
+    "name": "ZUS Coffee - Vivacity Megamall",
+    "address": "Lot L3-K006, Vivacity Megamall, Jalan Wan Alwi, 93350 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.5268545,
+    "lng": 110.3695884
+  },
+  {
+    "name": "ZUS Coffee DT - Jalan Rock, Kuching",
+    "address": "Lot 365, Jalan Rock, Min Chu Garden, 93200 Kuching, Sarawak",
+    "city": "Kuching",
+    "state": "Sarawak",
+    "lat": 1.527917,
+    "lng": 110.3411257
+  },
+  {
+    "name": "ZUS BUKIT TINGGI 2",
+    "address": "No.55, Lorong Batu Nilam 21B, Bandar Bukit Tinggi 2, 41200 Klang Selangor Darul Ehsan",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 2.9977915,
+    "lng": 101.443551
+  },
+  {
+    "name": "ZUS Coffee - ?Cheras Trader Square",
+    "address": "83A-G, Jalan Dataran Cheras 4, Dataran Perniagaan Cheras, Balakong 43200 Selangor",
+    "city": "Balakong",
+    "state": "Selangor",
+    "lat": 3.0354994,
+    "lng": 101.764128
+  },
+  {
+    "name": "ZUS Coffee - 1 Utama Shopping Centre",
+    "address": "1 Utama Shopping Centre, Lot L2-SK9, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1510155,
+    "lng": 101.6150932
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Bukit Raja",
+    "address": "Lot G23, Bukit Raja Shopping Centre, Persiaran Bukit Raja 2, Bandar Baru Klang, 41150 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0606523,
+    "lng": 101.4724269
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Bukit Tinggi",
+    "address": "Lot F26, AEON Bukit Tinggi Shopping Centre, 1, Persiaran Batu Nilam 1, KS6, 41200, Selangor",
+    "city": null,
+    "state": "Selangor",
+    "lat": 2.9944746,
+    "lng": 101.4447314
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Cheras Selatan",
+    "address": "KF3 & KF5, First Floor, Aeon Mall Cheras,?Selatan, Jalan Cheras Perdana Cheras, 43200,?Balakong, Selangor",
+    "city": "Balakong",
+    "state": "Selangor",
+    "lat": 3.0335617,
+    "lng": 101.7650425
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Shah Alam",
+    "address": "Lot (KG10), AEON Mall Shah Alam, Jalan Akuatik 13/64, Seksyen 13, 40100 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0764767,
+    "lng": 101.5475599
+  },
+  {
+    "name": "ZUS Coffee - AEON Mall Taman Equine Shopping Centre",
+    "address": "Lot LG13, Lower Ground Floor, Aeon Taman Equine Shopping Centre, 2, Jalan Equine, Pusat Bandar Putra Permai, 43300 Seri Kembangan, Selangor",
+    "city": "Seri Kembangan",
+    "state": "Selangor",
+    "lat": 2.995396,
+    "lng": 101.6750832
+  },
+  {
+    "name": "ZUS Coffee - Alam Avenue 2, Shah Alam Seksyen 16",
+    "address": "C-15-G, Jalan Serai Wangi L 16/L, Seksyen 16, Alam Avenue 2, 40200 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0575829,
+    "lng": 101.490571
+  },
+  {
+    "name": "ZUS Coffee - Alam Budiman, Shah Alam",
+    "address": "No 53-G, Jalan Pulau Lumut P U10/P, Alam Budiman, Seksyen U10, 40170 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1442965,
+    "lng": 101.4822904
+  },
+  {
+    "name": "ZUS Coffee - Ampang Point",
+    "address": "No 50(GF) Jalan Memanda 9, Selangor. Taman Dato Ahmad Razali, 68000 Ampang, Selangor",
+    "city": "Ampang",
+    "state": "Selangor",
+    "lat": 3.1577776,
+    "lng": 101.751394
+  },
+  {
+    "name": "ZUS Coffee - Anggun City, Rawang",
+    "address": "Lot 40-1, Pusat Komersial Anggun City, 1, Jalan Anggun City 1, Taman Anggun, 48000 Rawang, Selangor",
+    "city": "Rawang",
+    "state": "Selangor",
+    "lat": 3.3174164,
+    "lng": 101.5360432
+  },
+  {
+    "name": "ZUS Coffee - Antara Gapi",
+    "address": "No 15-G (Ground Floor), Jalan Gapi 1A/3, Perniagaan Antara Gapi, 48200 Serendah, Selangor Darul Ehsan",
+    "city": "Serendah",
+    "state": "Selangor",
+    "lat": 3.4234383,
+    "lng": 101.6276952
+  },
+  {
+    "name": "ZUS Coffee - Atria Shopping Gallery",
+    "address": "Atria Shopping Mall, Kiosk CK9, Concourse Floor, Jalan SS 22/23, Damansara Jaya, 47400 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1270653,
+    "lng": 101.6165142
+  },
+  {
+    "name": "ZUS Coffee - Atria Shopping Gallery",
+    "address": "C01A, Concourse Floor, Atria Shopping Gallery, Jalan SS 22/23, Damansara Jaya 47400 Petaling Jaya",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1265707,
+    "lng": 101.6162333
+  },
+  {
+    "name": "ZUS Coffee - Bandar Baru Selayang",
+    "address": "59, Jalan 2/16, Bandar Baru Selayang 68100 Batu Caves, Selangor",
+    "city": "Batu Caves",
+    "state": "Selangor",
+    "lat": 3.2565661,
+    "lng": 101.6563664
+  },
+  {
+    "name": "ZUS Coffee - Bandar Bukit Raja",
+    "address": "13G, Jalan Rodat 2A/KU5, Bandar Bukit Raja 41050 Klang Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0844148,
+    "lng": 101.4425923
+  },
+  {
+    "name": "ZUS Coffee - Bandar Country Homes Rawang",
+    "address": "No. G-16, Avia Plus, Jalan Desa Utama, Bandar Country Home, 48000 Rawang, Selangor",
+    "city": "Rawang",
+    "state": "Selangor",
+    "lat": 3.2109711,
+    "lng": 101.7485337
+  },
+  {
+    "name": "ZUS Coffee - Bandar Kinrara 5, Puchong",
+    "address": "No 10(GF), Jalan BK 5A/2C, Bandar Kinrara 5, 47180 Puchong, Selangor",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 3.0474434,
+    "lng": 101.646313
+  },
+  {
+    "name": "ZUS Coffee - Bandar Mahkota Cheras",
+    "address": "GK-01, BMC Mall. Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "city": "Cheras",
+    "state": "Selangor",
+    "lat": 3.0548041,
+    "lng": 101.7871487
+  },
+  {
+    "name": "ZUS Coffee - Bandar Saujana Putra",
+    "address": "No 19-G, Jalan SP 1/1, Bandar Saujana Putra, 42610 Jenjarom, Selangor Darul Ehsan",
+    "city": "Jenjarom",
+    "state": "Selangor",
+    "lat": 2.9521024,
+    "lng": 101.5767484
+  },
+  {
+    "name": "ZUS Coffee - Bandar Seri Coalfields",
+    "address": "No 32 (Ground Floor), Bandar Seri Coalfields, Jalan BSC 2B/2, 47000 Sungai Buloh, Selangor",
+    "city": "Sungai Buloh",
+    "state": "Selangor",
+    "lat": 3.2467256,
+    "lng": 101.4745878
+  },
+  {
+    "name": "ZUS Coffee - Bandar Seri Putra",
+    "address": "13G, Jalan Seri Putra 1/2 Bandar Seri Putra Bangi, 43000 Kajang, Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.8842787,
+    "lng": 101.7911616
+  },
+  {
+    "name": "ZUS Coffee - Bandar Sungai Long",
+    "address": "No 19, Ground Floor, Jalan SL 1/4, Bandar Sungai Long, 43000 Kajang, Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 3.0406029,
+    "lng": 101.7928161
+  },
+  {
+    "name": "ZUS Coffee - Bandar Sunway",
+    "address": "No 27 (Ground Floor), Jalan PJS 11/28b, Sunway Metro Bandar Sunway, 46150 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.0722947,
+    "lng": 101.6094543
+  },
+  {
+    "name": "ZUS Coffee - Bandar Tasik Puteri",
+    "address": "No 82-G-A, Ground Floor, Jalan 7A/2, Bandar Tasik Puteri, 48000 Rawang, Selangor",
+    "city": "Rawang",
+    "state": "Selangor",
+    "lat": 3.2833812,
+    "lng": 101.4734427
+  },
+  {
+    "name": "ZUS Coffee - Bandar Teknologi Kajang",
+    "address": "No. G-8 (Ground Floor), Jalan 1/2, HILLPARK RESIDENCE, Seksyen 1 Bandar Teknologi Kajang, 43500 Semenyih, Selangor",
+    "city": "Semenyih",
+    "state": "Selangor",
+    "lat": 2.9706728,
+    "lng": 101.8269388
+  },
+  {
+    "name": "ZUS Coffee - Bandar Tun Hussein Onn, Cheras",
+    "address": "No 48A Jalan Suarasa 8/4, Bandar Tun Hussein Onn, 43200 Cheras, Selangor",
+    "city": "Cheras",
+    "state": "Selangor",
+    "lat": 3.0473093,
+    "lng": 101.7591785
+  },
+  {
+    "name": "ZUS Coffee - Banting",
+    "address": "No 213 (Ground Floor), Jalan Sultan Abdul Samad, Bandar Banting, 42700 Banting, Selangor Darul Ehsan",
+    "city": "Banting",
+    "state": "Selangor",
+    "lat": 2.8132004,
+    "lng": 101.5024502
+  },
+  {
+    "name": "ZUS Coffee - Batang Kali",
+    "address": "No 7 (Ground Floor), Jalan Mahagoni 7/1A, Seksyen 4, Perniagaan Jalan Mahagoni, 44300 Batang Kali, Selangor Darul Ehsan",
+    "city": "Batang Kali",
+    "state": "Selangor",
+    "lat": 3.4619768,
+    "lng": 101.6576058
+  },
+  {
+    "name": "ZUS Coffee - BMC Mall",
+    "address": "GK-01, BMC Mall. Jalan Temenggung 21/9, Bandar Mahkota Cheras, 43200 Cheras, Selangor",
+    "city": "Cheras",
+    "state": "Selangor",
+    "lat": 3.0548041,
+    "lng": 101.7871487
+  },
+  {
+    "name": "ZUS Coffee - Bukit Sentosa",
+    "address": "19G, Jalan Orkid 1F/2, Bukit Sentosa BS 1, 48300 Rawang, Selangor",
+    "city": "Rawang",
+    "state": "Selangor",
+    "lat": 3.4033932,
+    "lng": 101.5604552
+  },
+  {
+    "name": "ZUS Coffee - Bukit Tinggi 1",
+    "address": "No.26-G, Lorong Batu Nilam 3a, Bandar Bukit Tinggi 41200 Klang",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0086592,
+    "lng": 101.4345441
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Eco Ardence",
+    "address": "No. 2, Jalan Eco Ardence U12/36, Seksyen U12 40170, Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0899378,
+    "lng": 101.4772834
+  },
+  {
+    "name": "ZUS Coffee - CALTEX Sungai Choh",
+    "address": "PT 20499 (Lot 1493), Kampung Stesen, Sungai Buaya, 48000 Sungai Choh, Selangor Darul Ehsan",
+    "city": "Sungai Choh",
+    "state": "Selangor",
+    "lat": 3.3434899,
+    "lng": 101.587386
+  },
+  {
+    "name": "ZUS Coffee - Central I-City",
+    "address": "Lot L1-10A, Level One, Central I-City, No. 1, Persiaran Multimedia, Seksyen 7, Jalan Plumbum 7/102, I-City, 40000 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.062446,
+    "lng": 101.481751
+  },
+  {
+    "name": "ZUS Coffee - Centrepoint Bandar Utama",
+    "address": "LOT F103, First Floor, Centrepoint Bandar Utama, 3, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1375688,
+    "lng": 101.6098671
+  },
+  {
+    "name": "ZUS Coffee - Centro Mall",
+    "address": "Lot GK105, Ground Floor, Centro Mall, 8, Jalan Batu Tiga Lama, Kawasan 16, 41300 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0528328,
+    "lng": 101.4628554
+  },
+  {
+    "name": "ZUS Coffee - Citta Mall",
+    "address": "G-48 7 G-48A, Ground Floor, Citta Mall, 1, Jalan PJU 1a/48, Ara Damansara, 47301 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1127129,
+    "lng": 101.5805532
+  },
+  {
+    "name": "ZUS Coffee - Cybersouth Dengkil",
+    "address": "No 35-G, Jalan PP 1/1, Park Place 1, Cybersouth, 43800 Dengkil, Selangor",
+    "city": "Dengkil",
+    "state": "Selangor",
+    "lat": 2.8685927,
+    "lng": 101.658884
+  },
+  {
+    "name": "ZUS Coffee - Cyberview 23A, Cyberjaya",
+    "address": "Cyberview 23A, Persiaran APEC Cyber 6, 63000 Cyberjaya Selangor",
+    "city": "Cyberjaya",
+    "state": "Selangor",
+    "lat": 2.9138771,
+    "lng": 101.657763
+  },
+  {
+    "name": "ZUS Coffee - Da Men Mall",
+    "address": "LG-25, Lower ground. 1, Persiaran Kewajipan, Usj 1, 47600 Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0579292,
+    "lng": 101.5923719
+  },
+  {
+    "name": "ZUS Coffee - Damansara Damai",
+    "address": "L-013 (Ground Floor), Vista Shop, Jalan PJU 10/2A, Damansara Damai,47830 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1969623,
+    "lng": 101.5937831
+  },
+  {
+    "name": "ZUS Coffee - Damansara Perdana, Petaling Jaya",
+    "address": "12-1 (Ground floor), Jalan PJU 8/5E, Bandar Damansara Perdana, 47820 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1661509,
+    "lng": 101.6065596
+  },
+  {
+    "name": "ZUS Coffee - Dataran Glomac, Kelana Jaya",
+    "address": "C-G-05 (Ground Floor), Jalan SS 6/5b, Dataran Glomac, 47301 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1030599,
+    "lng": 101.6002404
+  },
+  {
+    "name": "ZUS Coffee - Denai Alam",
+    "address": "No 39, 1, Jln Elektron U16/D, Denai Alam, 40160 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1628887,
+    "lng": 101.5125098
+  },
+  {
+    "name": "ZUS Coffee - DPulze Shopping Centre, Cyberjaya",
+    "address": "Lot EX-GW-01A, Ground Floor, DPulze Shopping Centre, Persiaran Multimedia, Cyber 12, 63000 Cyberjaya",
+    "city": "Cyberjaya",
+    "state": "Selangor",
+    "lat": 2.9216505,
+    "lng": 101.6508454
+  },
+  {
+    "name": "ZUS Coffee - Eco Grandeur",
+    "address": "No 18-G (Ground Floor), Jalan Eco Grandeur 1/9A, Eco Granduer, 42300, Bandar Puncak Alam, Selangor",
+    "city": "Bandar Puncak Alam",
+    "state": "Selangor",
+    "lat": 3.2323131,
+    "lng": 101.4506069
+  },
+  {
+    "name": "ZUS Coffee - Eco Majestic Semenyih",
+    "address": "Lot 47-1, Jalan Eco Majestic 10/1A, 43500 Semenyih, Selangor",
+    "city": "Semenyih",
+    "state": "Selangor",
+    "lat": 2.9013313,
+    "lng": 101.8350087
+  },
+  {
+    "name": "ZUS Coffee - Ecohill, Semenyih",
+    "address": "C-06-01, Blok C, Pusat Komersial Dataran Ecohill, Jalan Ecohill 1/2, Setia Ecohill 43500 Semenyih, Selangor",
+    "city": "Semenyih",
+    "state": "Selangor",
+    "lat": 2.9252977,
+    "lng": 101.8550267
+  },
+  {
+    "name": "ZUS Coffee - Edusentral, Setia Alam",
+    "address": "VB-G-07 (Ground Floor), Edu Sentral, Jalan Setia Murni U13/51, Setia Alam Seksyen U13, 40170 Shah Alam, Selangor Darul Ehsan",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1154528,
+    "lng": 101.4536825
+  },
+  {
+    "name": "ZUS Coffee - Elmina Lakeside Mall",
+    "address": "GF-95 & 96, Elmina Lakeside Mall, No.5 & No.7, Persiaran Garcinia, Seksyen U15, 40170 Shah Alam, Selangor Darul Ehsan",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1806231,
+    "lng": 101.5081022
+  },
+  {
+    "name": "ZUS Coffee - Empire Shopping Gallery",
+    "address": "LK-07, Level Lower Ground, Empire Shopping Gallery, Jalan SS16/1, 47500 Subang Jaya, Selangor Darul Ehsan",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0817791,
+    "lng": 101.5828112
+  },
+  {
+    "name": "ZUS Coffee - Gateway@KLIA2 (Arrival Hall, Level 2)",
+    "address": "Lot No. L2-90B, Level 2, gateway@KLIA2, Lbh KLIA, 43900 Klia, Selangor",
+    "city": "KLIA",
+    "state": "Selangor",
+    "lat": 2.7968795,
+    "lng": 101.6720114
+  },
+  {
+    "name": "ZUS Coffee - Gateway@KLIA2 (Departure Hall, Level 3)",
+    "address": "Lot L3-44A, Level 3, gateway@KLIA2, Lbh KLIA, 43900 KLIA, Selangor",
+    "city": "KLIA",
+    "state": "Selangor",
+    "lat": 2.7483378,
+    "lng": 101.7134523
+  },
+  {
+    "name": "ZUS Coffee - Giant Shah Alam Stadium",
+    "address": "A14 - A16, Ground Floor, Giant Shah Alam Stadium, Persiaran Sukan, Seksyen 13, 40100 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0840036,
+    "lng": 101.5493015
+  },
+  {
+    "name": "ZUS Coffee - GM Klang",
+    "address": "A-G-13, Ground Floor, Wholesale City Gm Klang, Jalan Kasuarina 1, Bandar Botanik, 41200 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 2.9911126,
+    "lng": 101.450272
+  },
+  {
+    "name": "ZUS Coffee - INTI International College Subang",
+    "address": "Cafeteria Level 1, Block B, INTI International College Subang Campus, No 3, Jalan SS15/8, 47500 Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.07417,
+    "lng": 101.59126
+  },
+  {
+    "name": "ZUS Coffee - IOI Boulevard",
+    "address": "B-G-13A (Ground Floor), IOI Boulevard, Jalan Kenari 5, Bandar Puchong Jaya, 47100 Puchong, Selangor",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 3.0461021,
+    "lng": 101.6209769
+  },
+  {
+    "name": "ZUS Coffee - Ioi Rio City",
+    "address": "Lot 11-1, IOI RIO Office Park, 47100 Puchong, Selangor",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 3.0204427,
+    "lng": 101.623967
+  },
+  {
+    "name": "ZUS Coffee - Jade Hills Kajang",
+    "address": "No 54-1, Jalan Dataran Jade 6, Dataran Jade, Jade Hills, 43000 Kajang, Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.9923724,
+    "lng": 101.7607739
+  },
+  {
+    "name": "ZUS Coffee - Jalan Berangan, Port Klang",
+    "address": "No 20(GF) Jalan Berangan, 42000 Port Klang, Selangor",
+    "city": "Port Klang",
+    "state": "Selangor",
+    "lat": 3.0045575,
+    "lng": 101.3983188
+  },
+  {
+    "name": "ZUS Coffee - Jalan Kebun Nenas, Klang",
+    "address": "No 47-G Jalan Kebun Nenas 7A/KS8, Bandar Putera 2, 41200 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 2.9948776,
+    "lng": 101.4932047
+  },
+  {
+    "name": "ZUS Coffee - Jalan Seri Mas 1, Hulu Langat",
+    "address": "No.33 (Ground Floor), Jalan Seri Mas 1, Taman Seri Emas, 43100 Hulu Langat, Selangor",
+    "city": "Hulu Langat",
+    "state": "Selangor",
+    "lat": 3.0975572,
+    "lng": 101.7996779
+  },
+  {
+    "name": "ZUS Coffee - Jaya One Mall",
+    "address": "100-P2.017 The School, Jaya One. 72A, Jln Profesor Diraja Ungku Aziz, Seksyen 13, 46200 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1176917,
+    "lng": 101.6352659
+  },
+  {
+    "name": "ZUS Coffee - Jaya Shopping Centre",
+    "address": "Lot G-01, Jaya Shopping Centre, Jalan 14/17, Seksyen 14, 46100 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1091816,
+    "lng": 101.6371799
+  },
+  {
+    "name": "ZUS Coffee - Jenjarom",
+    "address": "No. 37 (Ground Floor), Jalan 2/1, Taman Seri Jaromas, 42600 Jenjarom",
+    "city": "Jenjarom",
+    "state": "Selangor",
+    "lat": 3.6722463,
+    "lng": 100.9783183
+  },
+  {
+    "name": "ZUS Coffee - Kidzania Kuala Lumpur",
+    "address": "Curve NX, Jalan PJU 7/5, Mutiara, Damansara 47810 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1580898,
+    "lng": 101.6138047
+  },
+  {
+    "name": "ZUS Coffee - Kipmall Bangi",
+    "address": "1K-03A, Level 1, No. 1 Jalan Medan Bangi Business Park Bangi Golf Resort) Off, Persiaran Kemajuan, Seksyen 6, 43650 Bandar Baru Bangi, Selangor",
+    "city": "Bandar Baru Bangi",
+    "state": "Selangor",
+    "lat": 2.9535345,
+    "lng": 101.7571023
+  },
+  {
+    "name": "ZUS Coffee - KLIA 1 Departure Hall",
+    "address": "Lot CPD 3 A06, Gate A, Contact Pier Domestic KLIA, Kuala Lumpur International Airport, 64000 Sepang, Selangor Darul Ehsan",
+    "city": "Sepang",
+    "state": "Selangor",
+    "lat": 2.7479521,
+    "lng": 101.7135809
+  },
+  {
+    "name": "ZUS Coffee - Kompleks PKNS Shah Alam",
+    "address": "Lot G-6 (Ground Floor), Kompleks PKNS Shah Alam, Persiaran Tasik, Seksyen 14, 40000 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0706525,
+    "lng": 101.5170109
+  },
+  {
+    "name": "ZUS Coffee - Kota Damansara",
+    "address": "No. 27-1, Jalan PJU 5/12, Dataran Sunway, Kota Damansara, 47810 Petaling Jaya",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1533381,
+    "lng": 101.5935514
+  },
+  {
+    "name": "ZUS Coffee - Kota Kemuning",
+    "address": "1-17-1, No. 14, Persiaran Anggerik Vanilla, Kota Kemuning, Seksyen 31, 40460 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 2.9996278,
+    "lng": 101.5323688
+  },
+  {
+    "name": "ZUS Coffee - Kota Warisan",
+    "address": "Unit 63-G, Jalan Warisan Sentral 1, Kota Warisan, Bandar Baru Salak Tinggi, 43900 Sepang, Selangor",
+    "city": "Sepang",
+    "state": "Selangor",
+    "lat": 2.8211417,
+    "lng": 101.6940534
+  },
+  {
+    "name": "ZUS Coffee - KPJ Kajang Specialist Hospital",
+    "address": "KPJ Kajang Specialist Hospital, Jalan Cheras, Kampung Sungai Kantan, 43000 Kajang, Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.9998668,
+    "lng": 101.7857162
+  },
+  {
+    "name": "ZUS Coffee - KSL Esplanade Mall",
+    "address": "LOT G053A, Ground Floor, No 2, Jalan Langat KS9, Bandar Bestari, 42500 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 2.9585421,
+    "lng": 101.4660763
+  },
+  {
+    "name": "ZUS Coffee - Kuala Kubu Baru",
+    "address": "No.18(GF), Jalan Mat Kilau, Pekan Kuala Kubu Bharu, 44000 Kuala Kubu Baru, Selangor",
+    "city": "Kuala Kubu Baru",
+    "state": "Selangor",
+    "lat": 3.5631559,
+    "lng": 101.658961
+  },
+  {
+    "name": "ZUS Coffee - Lebuh Turi, Klang",
+    "address": "Lot No. 88 (Ground Floor), Lebuh Turi, Taman Chi Liung, 41200 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0267565,
+    "lng": 101.4286301
+  },
+  {
+    "name": "ZUS Coffee - Lorong Pandan Pertama 5, Ampang",
+    "address": "SA-10-G, Lorong Pandan Pertama 5, Taman Pandan Utama, 68000 Ampang Jaya, Selangor",
+    "city": "Ampang Jaya",
+    "state": "Selangor",
+    "lat": 3.1412463,
+    "lng": 101.747339
+  },
+  {
+    "name": "ZUS Coffee - Lotus’s Klang",
+    "address": "Lot GK14. KS 6, 3, Jalan Batu Nilam 6, Bandar Bukit Tinggi 1, 41200 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0060293,
+    "lng": 101.4408353
+  },
+  {
+    "name": "ZUS Coffee - MAB Academy Campus Sepang",
+    "address": "Level 1, MAB Academy (MABA Campus) Building, Southern Support Zone KLIA, 64000 Sepang, Selangor",
+    "city": "Sepang",
+    "state": "Selangor",
+    "lat": 2.7281907,
+    "lng": 101.7179475
+  },
+  {
+    "name": "ZUS Coffee - Main Place",
+    "address": "GF-20, Main Place Mall, USJ 21, 47640 Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0265832,
+    "lng": 101.5809875
+  },
+  {
+    "name": "ZUS Coffee - Megah Rise Mall, PJ",
+    "address": "Lot G-15, Ground Floor, Megah Rise Mall, Jalan SS 24/11, Taman Megah, 47301 Petaling Jaya",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1142917,
+    "lng": 101.6114609
+  },
+  {
+    "name": "ZUS Coffee - Menara Axis, Petaling Jaya",
+    "address": "Grd-05, Ground Floor, Menara Axis, No 2, Jalan 51A/ 223,46100 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1031466,
+    "lng": 101.6389773
+  },
+  {
+    "name": "ZUS Coffee - Menara VSQ Petaling Jaya",
+    "address": "B03, Ground Floor, VSQ@PJ City Centre, Jalan Utara, 46200 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1071963,
+    "lng": 101.6399437
+  },
+  {
+    "name": "ZUS Coffee - MKH Boulevard, Kajang",
+    "address": "Lot G-15, MKH Boulevard Kajang, Jalan Changkat, Bandar Kajang, 43000 Kajang Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.9902145,
+    "lng": 101.7922963
+  },
+  {
+    "name": "ZUS Coffee - Monash University Malaysia",
+    "address": "3124C, Lepak Place, Monash University Malaysia, Jalan Lagoon Selatan, 47500 Bandar Sunway, Selangor Darul Ehsan",
+    "city": "Bandar Sunway",
+    "state": "Selangor",
+    "lat": 3.0647158,
+    "lng": 101.6011434
+  },
+  {
+    "name": "ZUS Coffee - MRT Bandar Utama",
+    "address": "MRT Bandar Utama (Kajang Line), Station Concourse area, Persiaran Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1466959,
+    "lng": 101.6187457
+  },
+  {
+    "name": "ZUS Coffee - MSU Medical Centre",
+    "address": "Lot A01 (Ground Floor), MSU Medical Centre, University Drive, Off Persiaran Olahraga, Seksyen 13, 40100 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0767666,
+    "lng": 101.5528153
+  },
+  {
+    "name": "ZUS Coffee - MYDIN USJ Subang Jaya",
+    "address": "Lot GSRU-24,GSRU-25, Ground Floor level, MYDIN Subang Jaya, Persiaran Subang Permai, USJ 1, 47500 Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0588655,
+    "lng": 101.5964512
+  },
+  {
+    "name": "ZUS Coffee - Nadayu 801, Taman Subang Murni",
+    "address": "Lot 08, Nadayu 801, Taman Subang Murni, 40150 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.163792,
+    "lng": 101.5469319
+  },
+  {
+    "name": "ZUS Coffee - Olive Business Park, Seri Kembangan",
+    "address": "No 36 (LG), Jalan BS 1/3, Pusat Perdagangan Olive Hill, Taman Bukit Serdang Seksyen 1, 43300 Seri Kembangan, Selangor",
+    "city": "Seri Kembangan",
+    "state": "Selangor",
+    "lat": 3.0136117,
+    "lng": 101.6958128
+  },
+  {
+    "name": "ZUS Coffee - Pasaraya CS Bangi Avenue",
+    "address": "Kiosk K10 & K11 (Ground Floor), No.1, Persiaran Bangi Avenue, Taman Bangi Avenue, 43000 Kajang, Selangor Darul Ehsan",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.9026489,
+    "lng": 101.789343
+  },
+  {
+    "name": "ZUS Coffee - Pekan Kapar, Klang",
+    "address": "No. 228 (Ground Floor), Jalan Besar KU/13, Pekan Kapar, 42200 Kapar, Selangor",
+    "city": "Kapar",
+    "state": "Selangor",
+    "lat": 3.138639,
+    "lng": 101.370978
+  },
+  {
+    "name": "ZUS Coffee - Pekan Meru",
+    "address": "195, Jalan Meru Batu 6 1/2, Pekan Meru, 41050 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.1311418,
+    "lng": 101.4403017
+  },
+  {
+    "name": "ZUS Coffee - Pekan Semenyih",
+    "address": "No.40 (Ground Floor), Jalan Pasar Baru, Pekan Semenyih, 43500 Semenyih, Selangor",
+    "city": "Semenyih",
+    "state": "Selangor",
+    "lat": 2.9462041,
+    "lng": 101.846468
+  },
+  {
+    "name": "ZUS Coffee - PJ New Town",
+    "address": "10 (Ground Floor), Jalan 52/18, PJ New Town, 46200 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.0987328,
+    "lng": 101.6449981
+  },
+  {
+    "name": "ZUS Coffee - Plaza Shah Alam",
+    "address": "S19, Second Floor, Jalan Tengku Ampuan Zabedah E 9/E, Seksyen 9, 40100 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0855276,
+    "lng": 101.5229119
+  },
+  {
+    "name": "ZUS Coffee - Prima Saujana, Kajang",
+    "address": "No.20 (GF), Jalan Prima Saujana 1/1A, Prima Saujana 43000 Kajang Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 3.0069149,
+    "lng": 101.8058172
+  },
+  {
+    "name": "ZUS Coffee - Prima Sri Gombak",
+    "address": "G-39, Jalan Prima SG 2, Prima Sri Gombak, 68100 Batu Caves, Selangor",
+    "city": "Batu Caves",
+    "state": "Selangor",
+    "lat": 3.2394653,
+    "lng": 101.7005417
+  },
+  {
+    "name": "ZUS Coffee - Puchong Ioi Mall",
+    "address": "Lot FK-02, First, Jalan Puchong, Bandar Puchong Jaya, 47170 Puchong, Selangor",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 3.0463629,
+    "lng": 101.6183392
+  },
+  {
+    "name": "ZUS Coffee - Puchong Utama",
+    "address": "A-G-9 (Ground Floor), Block A, Dataran Puchong, Jalan PU 7/1, Taman Puchong Utama, 47140 Puchong, Selangor",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 2.9909118,
+    "lng": 101.6175559
+  },
+  {
+    "name": "ZUS Coffee - Puncak Jalil",
+    "address": "No 26 (Ground Floor), Jalan PUJ 3/13, Taman Puncak Jalil, 43300 Seri Kembangan, Selangor Darul Ehsan",
+    "city": "Seri Kembangan",
+    "state": "Selangor",
+    "lat": 3.0227574,
+    "lng": 101.6757448
+  },
+  {
+    "name": "ZUS Coffee - Putra Heights",
+    "address": "No 31 (Ground Floor), Jalan Putra Mahkota 7/6c, Putra Point Commercial Centre, 47650 Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 2.9963935,
+    "lng": 101.5731791
+  },
+  {
+    "name": "ZUS Coffee - Quayside Mall",
+    "address": "1FK-07, First Floor. Quayside Mall. Gamuda Kemuning, 25.7, Persiaran Freesia, 42500 Telok Panglima Garang, Selangor",
+    "city": "Telok Panglima Garang",
+    "state": "Selangor",
+    "lat": 2.9565691,
+    "lng": 101.5532428
+  },
+  {
+    "name": "ZUS Coffee - Rawang Reef",
+    "address": "No. A13A-G, Jalan Reef 1/1, Pusat Perniagaan Reef, 48000 Rawang, Selangor",
+    "city": "Rawang",
+    "state": "Selangor",
+    "lat": 3.3036228,
+    "lng": 101.5964651
+  },
+  {
+    "name": "ZUS Coffee - Sabak Bernam",
+    "address": "No.100 (Ground Floor), Jalan Menteri, Pekan Sabak, 45200 Sabak Bernam, Selangor",
+    "city": "Sabak Bernam",
+    "state": "Selangor",
+    "lat": 3.7650089,
+    "lng": 100.9829264
+  },
+  {
+    "name": "ZUS Coffee - Saujana Utama",
+    "address": "No. 23G, Taman, Jalan Bidara 10, Saujana Utama 3, 47000 Sungai Buloh, Selangor",
+    "city": "Sungai Buloh",
+    "state": "Selangor",
+    "lat": 3.2007843,
+    "lng": 101.485243
+  },
+  {
+    "name": "ZUS Coffee - SB Mall Sungai Buloh",
+    "address": "G-17B, SB Mall, Bukit Rahman Putra, 47000 Sungai Buloh, Selangor",
+    "city": "Sungai Buloh",
+    "state": "Selangor",
+    "lat": 3.2088633,
+    "lng": 101.5641155
+  },
+  {
+    "name": "ZUS Coffee - Sekinchan",
+    "address": "No.15 (Ground Floor), Jalan Peria, Pekan Sekinchan, 45400 Sekinchan, Selangor",
+    "city": "Sekinchan",
+    "state": "Selangor",
+    "lat": 3.5075594,
+    "lng": 101.1030257
+  },
+  {
+    "name": "ZUS Coffee - Seksyen 3, Bandar Baru Bangi",
+    "address": "47-G, Jalan 3/69, Seksyen 3, 43650 Bandar Baru Bangi, Selangor",
+    "city": "Bandar Baru Bangi",
+    "state": "Selangor",
+    "lat": 2.937407,
+    "lng": 101.773778
+  },
+  {
+    "name": "ZUS Coffee - Seksyen 7, Bandar Baru Bangi",
+    "address": "No.48G (Ground Floor), Jalan 7/7a, Seksyen 7, 43650 Bandar Baru Bangi, Selangor",
+    "city": "Bandar Baru Bangi",
+    "state": "Selangor",
+    "lat": 2.9711765,
+    "lng": 101.7734408
+  },
+  {
+    "name": "ZUS Coffee - Setia Alam TP2",
+    "address": "36-G, Jalan Setia Utama AS U13/AS, Setia Alam, 40170 Shah Alam Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1246929,
+    "lng": 101.4679317
+  },
+  {
+    "name": "ZUS Coffee - Setia City Mall",
+    "address": "L1-120, Level 1, Setia City Mall, Persiaran Setia Dagang, Setia Alam, 40170 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1102367,
+    "lng": 101.4586015
+  },
+  {
+    "name": "ZUS Coffee - Setia Prima, Setia Alam",
+    "address": "8-1-2 (Ground Floor), Jalan Setia Prima P U13/P, Setia Alam, 40170 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0995352,
+    "lng": 101.4445848
+  },
+  {
+    "name": "ZUS Coffee - Seventeen Mall",
+    "address": "998, Jalan 17/38, Seksyen 17, 46400 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1292717,
+    "lng": 101.6350583
+  },
+  {
+    "name": "ZUS Coffee - Shaftsbury Square",
+    "address": "Level P1-23, Lot 2350, Shaftsbury Square, Cyber 6, 63000 Cyberjaya, Selangor",
+    "city": "Cyberjaya",
+    "state": "Selangor",
+    "lat": 2.9233793,
+    "lng": 101.6619565
+  },
+  {
+    "name": "ZUS Coffee - Shah Alam Seksyen 13",
+    "address": "No. 50, Jalan Renang 13/26, Tadisma Business Park, Seksyen 13, 40100 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0894837,
+    "lng": 101.5447957
+  },
+  {
+    "name": "ZUS Coffee - Shah Alam Seksyen 14 (Vista Alam)",
+    "address": "F-G-29 (Ground Floor), Vista Alam, Jalan Ikhtisas, Seksyen 14, 40000 Shah Alam, Selangor Darul Ehsan",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0706694,
+    "lng": 101.5252759
+  },
+  {
+    "name": "ZUS Coffee - Shah Alam Seksyen 18",
+    "address": "15G (Ground Floor), Jalan Pinang B 18/B, Seksyen 18, 40200 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0449326,
+    "lng": 101.5178988
+  },
+  {
+    "name": "ZUS Coffee - Shah Alam Seksyen 20",
+    "address": "No 18, Jalan Singa D 20/D, Seksyen 20, 40300 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0551536,
+    "lng": 101.5417454
+  },
+  {
+    "name": "ZUS Coffee - Shah Alam Seksyen 7",
+    "address": "24, Jalan Plumbum P7/P, Seksyen 7, 40000 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.068231,
+    "lng": 101.4904362
+  },
+  {
+    "name": "ZUS Coffee - SHELL Cyberjaya Autoville",
+    "address": "Stesen Minyak Shell Autoville, Persiaran Mutilmedia, Cyber 10, 63000, Cyberjaya, Selangor",
+    "city": "Cyberjaya",
+    "state": "Selangor",
+    "lat": 2.9186012,
+    "lng": 101.6308891
+  },
+  {
+    "name": "ZUS Coffee - Skypark Terminal",
+    "address": "Lot No. G10B, Ground Floor, Skypark Terminal, Sultan Abdul Aziz Shah Airport, 47200 Subang, Selangor",
+    "city": "Subang",
+    "state": "Selangor",
+    "lat": 3.1334142,
+    "lng": 101.5533361
+  },
+  {
+    "name": "ZUS Coffee - Southville City",
+    "address": "A?G?09 (Ground Floor), Savanna Lifestyle Retail Jalan BBLS 2, Bandar Baru Lembah Selatan, 43800 Dengkil, Selangor",
+    "city": "Dengkil",
+    "state": "Selangor",
+    "lat": 2.9032797,
+    "lng": 101.7638067
+  },
+  {
+    "name": "ZUS Coffee - Spectrum Shopping Mall",
+    "address": "Lot CW-5 Cafe Walk, Ground Floor Spectrum Shopping Mall Jalan Wawasan Ampang, 4, 2, Bandar Baru Ampang, 68000 Ampang, Selangor",
+    "city": "Ampang",
+    "state": "Selangor",
+    "lat": 3.1456372,
+    "lng": 101.7645605
+  },
+  {
+    "name": "ZUS Coffee - SS2",
+    "address": "No.5, Jalan SS2/67, SS2, 47300 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.2428416,
+    "lng": 101.6767489
+  },
+  {
+    "name": "ZUS Coffee - Starling Mall",
+    "address": "K-S-202, Second Floor The Starling Mall, 6, Jalan SS 21/37, Damansara Utama, 47400 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1348231,
+    "lng": 101.6228083
+  },
+  {
+    "name": "ZUS Coffee - Subang Bestari",
+    "address": "No 3 (Ground Floor), Jalan Nova U5/N, Subang Bestari, 40150 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1789137,
+    "lng": 101.5478142
+  },
+  {
+    "name": "ZUS Coffee - Subang Parade",
+    "address": "Lot LGC15, Lower Ground Floor, Subang Parade Shopping Centre",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0737188,
+    "lng": 101.5861775
+  },
+  {
+    "name": "ZUS Coffee - Subang Perdana",
+    "address": "27-G, Jalan Dinar E U3/E, Taman Subang Perdana, 40150 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.148099,
+    "lng": 101.5454878
+  },
+  {
+    "name": "ZUS Coffee - Sunway Gandaria, Bangi",
+    "address": "UG-11 Sunway Gandaria, Jalan Pusat Bandar 2, Bandar Baru Bangi, Seksyen 9, 43650 Selangor",
+    "city": null,
+    "state": "Selangor",
+    "lat": 2.9612955,
+    "lng": 101.7533353
+  },
+  {
+    "name": "ZUS Coffee - Sunway Pinnacle",
+    "address": "Unit G-02, Ground Floor, The Pinnacle Annexe, Persiaran Lagoon, Sunway City, 47500, Selangor",
+    "city": "Sunway City",
+    "state": "Selangor",
+    "lat": 3.0698376,
+    "lng": 101.6101481
+  },
+  {
+    "name": "ZUS Coffee - Sunway Pyramid",
+    "address": "Lot LG2.37, Level LG2, Sunway Pyramid, 3, Jalan PJS 11/15, Bandar Sunway, 47500 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.0726918,
+    "lng": 101.6077785
+  },
+  {
+    "name": "ZUS Coffee - Taipan USJ",
+    "address": "No. 9 (Ground Floor), Jalan USJ 10/1E, Taipan Business Centre, 47620, Subang Jaya, Selangor",
+    "city": "Subang Jaya",
+    "state": "Selangor",
+    "lat": 3.0481309,
+    "lng": 101.5837666
+  },
+  {
+    "name": "ZUS Coffee - Taman Bendahara, Kuala Selangor",
+    "address": "No. 2, Jalan Bendahara 1/2A. Taman Bendahara 45000 Kuala Selangor",
+    "city": "Kuala Selangor",
+    "state": "Selangor",
+    "lat": 3.3205437,
+    "lng": 101.2684895
+  },
+  {
+    "name": "ZUS Coffee - Taman Kosas",
+    "address": "No 21 (Ground Floor), Jalan Kosas 1/2, Taman Kosas, 68000 Ampang, Selangor Darul Ehsan",
+    "city": "Ampang",
+    "state": "Selangor",
+    "lat": 3.1460891,
+    "lng": 101.7714589
+  },
+  {
+    "name": "ZUS Coffee - Taman Myra Meranti, Puchong",
+    "address": "No. 8A (Ground Floor), Jalan MM4, Taman Myra Meranti, 47120 Puchong, Selangor Darul Ehsan",
+    "city": "Puchong",
+    "state": "Selangor",
+    "lat": 2.967317,
+    "lng": 101.6420897
+  },
+  {
+    "name": "ZUS Coffee - Taman Segar Perdana, Cheras",
+    "address": "No 07GF) Jalan Segar Perdana 2, Taman Segar Perdana, 43200 Cheras, Selangor",
+    "city": "Cheras",
+    "state": "Selangor",
+    "lat": 3.0917339,
+    "lng": 101.7622548
+  },
+  {
+    "name": "ZUS Coffee - Taman Sri Manja",
+    "address": "No.25, Jalan PJS 3/46, Taman Sri Manja, 46000 Petaling Jaya",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.0741539,
+    "lng": 101.6480496
+  },
+  {
+    "name": "ZUS Coffee - Taman Sri Muda",
+    "address": "No.16-G (Ground Floor), Jalan Murni 25/61, Taman Sri Muda, 40400 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0327538,
+    "lng": 101.5365242
+  },
+  {
+    "name": "ZUS Coffee - Taman Sri Serdang, Seri Kembangan",
+    "address": "3352 (Ground Floor), Jalan 18/32, Taman Sri Serdang, 43300 Seri Kembangan, Selangor",
+    "city": "Seri Kembangan",
+    "state": "Selangor",
+    "lat": 3.0094347,
+    "lng": 101.7147695
+  },
+  {
+    "name": "ZUS Coffee - Teluk Pulai",
+    "address": "No.198 (Ground floor), Jalan Teluk Pulai, 41000 Klang, Selangor",
+    "city": "Klang",
+    "state": "Selangor",
+    "lat": 3.0427382,
+    "lng": 101.4266007
+  },
+  {
+    "name": "ZUS Coffee - Temu @ City Of Elmina",
+    "address": "No 5 (Ground Floor), Jalan Eserina AA U16/AA, Elmina East, Seksyen U16, 40150 Shah Alam, Selangor Darul Ehsan",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1858945,
+    "lng": 101.5266141
+  },
+  {
+    "name": "ZUS Coffee - Temu Business Centre City Of Elmina",
+    "address": "No 5 (Ground Floor), Jalan Eserina AA U16/AA Elmina, East, Seksyen U16, 40150 Shah Alam, Selangor",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.1858012,
+    "lng": 101.5265532
+  },
+  {
+    "name": "ZUS Coffee - The Curve",
+    "address": "K-G27-W, The Curve, Jalan PJU 7/3, Mutiara Damansara, 47820 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1576564,
+    "lng": 101.6121825
+  },
+  {
+    "name": "ZUS Coffee - The Glenz @Glenmarie",
+    "address": "G-3B (Ground Floor), Subplace Boulevard Pusat Kormersil Vestland, No.6, Jalan Juruanalisis U1/35, Seksyen U1, 40150 Shah Alam, Selangor Darul Ehsan",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0817081,
+    "lng": 101.5625773
+  },
+  {
+    "name": "ZUS Coffee - The Mines Shopping Mall",
+    "address": "The Mines Shopping Mall, Level 3-21A, Jalan Dulang, Seri Kembangan, 43300 Selangor",
+    "city": "Seri Kembangan",
+    "state": "Selangor",
+    "lat": 3.0283052,
+    "lng": 101.7191593
+  },
+  {
+    "name": "ZUS Coffee - Tropicana Gardens Mall",
+    "address": "LOT 3F 47&48, Third Floor, Tropicana Gardens Mall, Jln PJU 3/21, Tropicana Indah, 47410 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1492774,
+    "lng": 101.5940962
+  },
+  {
+    "name": "ZUS Coffee - TTDI Grove Kajang",
+    "address": "No. 26, JALAN TTDI GROVE 1/1, 43000 KAJANG, SELANGOR",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.9977838,
+    "lng": 101.812181
+  },
+  {
+    "name": "ZUS Coffee - TTDI Jaya, Shah Alam",
+    "address": "No.33 (Ground Floor), Jalan Opera F U2/F, Taman TTDI Jaya, Seksyen U2, 40150 Shah Alam",
+    "city": "Shah Alam",
+    "state": "Selangor",
+    "lat": 3.0974704,
+    "lng": 101.5558755
+  },
+  {
+    "name": "ZUS Coffee - Universiti Kebangsaan Malaysia (Bangunan Pusanika)",
+    "address": "Aras Satu, Bangunan Pusanika, Universiti Kebangsaan Malaysia, 43600 Bangi, Malaysia",
+    "city": "Bangi",
+    "state": "Selangor",
+    "lat": 2.9178088,
+    "lng": 101.7884795
+  },
+  {
+    "name": "ZUS Coffee - Universiti Malaya Centre for Continuing Education",
+    "address": "VIP Dining, Cyberview 23, Jalan Teknokrat 3, Cyber 4, 63000 Cyberjaya, Selangor",
+    "city": "Cyberjaya",
+    "state": "Selangor",
+    "lat": 2.9293813,
+    "lng": 101.6551695
+  },
+  {
+    "name": "ZUS Coffee - University of Nottingham",
+    "address": "Block H (Ground Floor), Student Association Building, Jalan Broga, 43500 Semenyih, Selangor Darul Ehsan",
+    "city": "Semenyih",
+    "state": "Selangor",
+    "lat": 2.9438373,
+    "lng": 101.8760735
+  },
+  {
+    "name": "ZUS Coffee - UOA Business Park, Shah Alam",
+    "address": "Unit Lot- 13-03A, Level 1, UOA Business Park, No 1, Jalan Pengatucara U1/51A, Seksyen U1 40150 Selangor Darul Ehsan",
+    "city": null,
+    "state": "Selangor",
+    "lat": 3.0848318,
+    "lng": 101.5840178
+  },
+  {
+    "name": "ZUS Coffee - Uptown Damansara, Petaling Jaya",
+    "address": "44-G (Ground Floor), JALAN SS21/39, DAMANSARA UTAMA, 47400 PETALING JAYA, SELANGOR",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1349377,
+    "lng": 101.6216263
+  },
+  {
+    "name": "ZUS Coffee - Vista Bangi, Jalan Reko",
+    "address": "1-06 (Ground Floor) Vista Bangi, Jalan Reko, 43000 Kajang, Selangor",
+    "city": "Kajang",
+    "state": "Selangor",
+    "lat": 2.945283,
+    "lng": 101.7853726
+  },
+  {
+    "name": "ZUS Coffee - Xiamen University Malaysia",
+    "address": "A3 Library Cafe - GF, Xiamen University Malaysia, Jalan Sunsuria, Bandar Sunsuria, 43900 Sepang, Selangor",
+    "city": "Sepang",
+    "state": "Selangor",
+    "lat": 2.8313663,
+    "lng": 101.7040987
+  },
+  {
+    "name": "ZUS Coffee - You City III Cheras",
+    "address": "Lot no G-AP-8, Jalan Persiaran You City,Taman Suntex, 43200 Cheras, Selangor",
+    "city": "Cheras",
+    "state": "Selangor",
+    "lat": 3.072873,
+    "lng": 101.7629743
+  },
+  {
+    "name": "ZUS, Coffee Meets Pastry - 1 Utama Shopping Centre",
+    "address": "Lot G601A, Ground Floor, 1 Utama Shopping Centre, 1, Lebuh Bandar Utama, Bandar Utama, 47800 Petaling Jaya, Selangor",
+    "city": "Petaling Jaya",
+    "state": "Selangor",
+    "lat": 3.1493926,
+    "lng": 101.6169165
+  },
+  {
+    "name": "ZUS Coffee - Chukai",
+    "address": "PT 11296 (Ground Floor), Jalan Kubang Kurus, Taman Cukai Utama, 24000 Chukai, Terengganu",
+    "city": "Chukai",
+    "state": "Terengganu",
+    "lat": 4.2206832,
+    "lng": 103.4201646
+  },
+  {
+    "name": "ZUS Coffee - Coast Kemaman, Terengganu",
+    "address": "Pusat Perniagaan Coast, Unit C-G-06, Blok C, Persiaran Coast, 24000 Chukai, Terengganu",
+    "city": "Chukai",
+    "state": "Terengganu",
+    "lat": 4.2464767,
+    "lng": 103.4251496
+  },
+  {
+    "name": "ZUS Coffee - Dataran Austin",
+    "address": "PT35394, Ground Floor, Dataran Austin, Jalan Gong Badak Kg Wakaf Tembesu, 21300, Kuala Terengganu, Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.3569932,
+    "lng": 103.0965891
+  },
+  {
+    "name": "ZUS Coffee - Dungun",
+    "address": "Blok A, No.5, Tingkat Bawah, Jalan Besar Sura Gate, KPLK Perniagaan Suria Gate, 23000 Dungun, Terengganu Darul Iman",
+    "city": "Dungun",
+    "state": "Terengganu",
+    "lat": 4.7473217,
+    "lng": 103.4246456
+  },
+  {
+    "name": "ZUS Coffee - Jalan Pejabat, Kuala Terengganu",
+    "address": "1106, Jalan Pejabat, 20200 Kuala Terengganu, Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.3295501,
+    "lng": 103.1429905
+  },
+  {
+    "name": "ZUS Coffee - Jerteh",
+    "address": "Lot 201,Jalan Tuan Hitam, 22000, Jerteh, Terengganu",
+    "city": "Jerteh",
+    "state": "Terengganu",
+    "lat": 5.7363601,
+    "lng": 102.4939223
+  },
+  {
+    "name": "ZUS Coffee - Kampung Laut, Kuala Terengganu",
+    "address": "PT 3632 Tingkat Bawah, Jalan Alam Mutiara 1/1, Alam Mutiara, Jalan Kg Laut, 21100 Kuala Terengganu Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.2838741,
+    "lng": 103.1422156
+  },
+  {
+    "name": "ZUS Coffee - Kerteh",
+    "address": "Lot 50082 (GF), Kg Baru Kertih, 24300 Kerteh, Terengganu",
+    "city": "Kerteh",
+    "state": "Terengganu",
+    "lat": 4.4245859,
+    "lng": 103.4372857
+  },
+  {
+    "name": "ZUS Coffee - KTCC Mall Kuala Terengganu",
+    "address": "LOT G-17, KTCC Mall, 219, Jalan Sultan Zainal Abidin, 20200 Kuala Terengganu, Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.3327194,
+    "lng": 103.150331
+  },
+  {
+    "name": "ZUS Coffee - Kuala Berang",
+    "address": "Lot G-264, Jalan Ajil - Kuala Berang, Kampung Rahmat, 21700 Kuala Berang, Terengganu Darul Iman",
+    "city": "Kuala Berang",
+    "state": "Terengganu",
+    "lat": 5.0732367,
+    "lng": 103.0105434
+  },
+  {
+    "name": "ZUS Coffee - Paya Bunga Square",
+    "address": "PK-02, Aras Bawah, Kompleks Paya Bunga Square, Jalan Masjid Abidin, 20100 Kuala Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.3310129,
+    "lng": 103.1366461
+  },
+  {
+    "name": "ZUS Coffee - Pusat Niaga Paka, Terengganu",
+    "address": "49-G, PT 228, Jalan Besar, Pusat Niaga Paka, Kampung Cacar, 23100 Paka, Terengganu",
+    "city": "Paka",
+    "state": "Terengganu",
+    "lat": 4.6361008,
+    "lng": 103.4370343
+  },
+  {
+    "name": "ZUS Coffee - Universiti Malaysia Terengganu (Kompleks Siswa)",
+    "address": "Lot 021, Aras Bawah Kompleks Siswa Universiti Malaysia Terengganu 21030 Kuala Nerus, Terengganu",
+    "city": "Kuala Nerus",
+    "state": "Terengganu",
+    "lat": 5.4052863,
+    "lng": 103.0876935
+  },
+  {
+    "name": "ZUS Coffee - Universiti Sultan Zainal Abidin (Laman Selera)",
+    "address": "ZUS Coffee @ Laman Selera, Universiti Sultan Zainal Abidin, Kampus Gong Badak, 21300 Kuala Terengganu, Terengganu",
+    "city": "Kuala Terengganu",
+    "state": "Terengganu",
+    "lat": 5.3975616,
+    "lng": 103.0780128
+  }
+]
