@@ -4,7 +4,9 @@
   "type": "module",
   "scripts": {
     "dev": "wrangler dev",
+    "build": "npm run build:css && npm run build:vendor",
     "build:css": "tailwindcss -i ./src/style.css -o ./public/style.css --minify",
+    "build:vendor": "mkdir -p public/vendor && cp node_modules/canvas-confetti/dist/confetti.browser.js public/vendor/confetti.js",
     "deploy": "wrangler deploy --minify",
     "typecheck": "tsc --noEmit",
     "fetch-outlets": "node scripts/fetch-outlets.mjs",
@@ -15,6 +17,7 @@
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.3",
+    "canvas-confetti": "^1.9.4",
     "tailwindcss": "^4.3.3",
     "typescript": "^5.9.3",
     "wrangler": "^4.149.0"

@@ -10,14 +10,15 @@ Built with [Hono](https://hono.dev) (JSX, server-rendered) on Cloudflare Workers
 
 - Random pick from every ZUS Coffee outlet in Malaysia
 - Filter by state
-- "Only near me" mode using your browser location (2–25 km radius)
+- Near mode: pick within 2–25 km of your current location or any place you type (geocoded via OpenStreetMap)
+- Blurred slot-style reel, with tick sounds, a win chime and confetti on the pick (sound can be muted)
 - One-tap Google Maps and Waze directions
 
 ## Development
 
 ```sh
 npm install
-npm run dev        # builds CSS, then starts wrangler dev
+npm run dev        # builds CSS + vendor assets, then starts wrangler dev
 npm run typecheck
 ```
 
@@ -25,8 +26,10 @@ npm run typecheck
 
 | Endpoint | Description |
 | --- | --- |
-| `GET /api/random?state=&lat=&lng=&radius=` | One random outlet matching the optional filters |
-| `GET /api/outlets?state=&lat=&lng=&radius=` | All outlets matching the optional filters |
+| `GET /api/random?state=&lat=&lng=&place=&radius=` | One random outlet matching the optional filters |
+| `GET /api/outlets?state=&lat=&lng=&place=&radius=` | All outlets matching the optional filters |
+
+`place` is free text (e.g. `Bangsar`) and takes precedence over `lat`/`lng`.
 
 ## Outlet data
 

@@ -21,12 +21,23 @@ export function Page({ states, total, hasCoordinates }: Props) {
           <link rel="preconnect" href="https://rsms.me/" />
           <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
           <link rel="stylesheet" href="/style.css" />
+          <script src="/vendor/confetti.js" defer></script>
           <script src="/app.js" defer></script>
         </head>
         <body class="min-h-dvh bg-zus-950 font-sans text-white antialiased">
           <div class="mx-auto flex min-h-dvh max-w-xl flex-col px-5 py-8 sm:py-14">
             <header class="mb-8">
-              <p class="text-xs font-semibold uppercase tracking-[0.2em] text-zus-200">ZUS Roulette</p>
+              <div class="flex items-center justify-between">
+                <p class="text-xs font-semibold uppercase tracking-[0.2em] text-zus-200">ZUS Roulette</p>
+                <button
+                  id="sound"
+                  type="button"
+                  aria-pressed="true"
+                  class="rounded-full px-3 py-1 text-xs font-medium text-zus-200 ring-1 ring-white/15 transition hover:bg-white/10 hover:text-white"
+                >
+                  Sound on
+                </button>
+              </div>
               <h1 class="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">Which ZUS today?</h1>
               <p class="mt-2 text-zus-200">
                 Spin to pick a random ZUS Coffee from <span class="font-semibold text-white">{total}</span> outlets across Malaysia.
@@ -42,10 +53,10 @@ export function Page({ states, total, hasCoordinates }: Props) {
                 <div id="placeholder" class="text-center">
                   <div class="mx-auto mb-4 grid size-14 place-items-center rounded-full bg-zus-50 text-2xl">☕</div>
                   <p class="font-medium text-zus-800">Press spin and let fate decide.</p>
-                  <p class="mt-1 text-sm text-zus-500">Filter by state or nearby if you like.</p>
+                  <p class="mt-1 text-sm text-zus-500">Filter by state, your location, or any place.</p>
                 </div>
 
-                <p id="reel" class="hidden text-center text-2xl font-bold text-zus-700 sm:text-3xl"></p>
+                <p id="reel" aria-hidden="true" class="hidden text-center text-2xl font-bold text-zus-700 select-none sm:text-3xl"></p>
 
                 <div id="picked" class="hidden">
                   <p class="text-xs font-semibold uppercase tracking-widest text-zus-500">Your ZUS is</p>
@@ -96,15 +107,37 @@ export function Page({ states, total, hasCoordinates }: Props) {
                 </label>
 
                 {hasCoordinates && (
-                  <div class="grid gap-1.5 text-sm">
-                    <label class="flex items-center gap-2 font-medium text-zus-100">
-                      <input id="near" type="checkbox" class="size-4 accent-zus-200" />
-                      Only near me
-                    </label>
+                  <fieldset class="grid gap-1.5 text-sm">
+                    <legend class="mb-1.5 font-medium text-zus-100">Near</legend>
+                    <div class="grid grid-cols-3 gap-1 rounded-xl bg-zus-800 p-1 ring-1 ring-white/10">
+                      {[
+                        ['off', 'Anywhere'],
+                        ['me', 'My location'],
+                        ['place', 'A place'],
+                      ].map(([value, label]) => (
+                        <label class="cursor-pointer">
+                          <input type="radio" name="near" value={value} checked={value === 'off'} class="peer sr-only" />
+                          <span class="block rounded-lg px-2 py-2 text-center font-medium text-zus-200 transition peer-checked:bg-white peer-checked:text-zus-900 peer-focus-visible:ring-2 peer-focus-visible:ring-zus-200">
+                            {label}
+                          </span>
+                        </label>
+                      ))}
+                    </div>
+                    <input
+                      id="place"
+                      name="place"
+                      type="text"
+                      placeholder="e.g. Bangsar, Sunway Pyramid, Ipoh"
+                      autocomplete="off"
+                      enterkeyhint="go"
+                      class="hidden w-full rounded-xl border-0 bg-zus-800 px-3 py-2.5 text-white ring-1 ring-white/10 placeholder:text-zus-200/50 focus:ring-2 focus:ring-zus-200 focus:outline-none"
+                    />
+                    <p id="near-status" class="hidden text-xs text-zus-200"></p>
                     <select
                       id="radius"
                       name="radius"
                       disabled
+                      aria-label="Distance"
                       class="w-full rounded-xl border-0 bg-zus-800 px-3 py-2.5 text-white ring-1 ring-white/10 focus:ring-2 focus:ring-zus-200 focus:outline-none disabled:opacity-40"
                     >
                       <option value="2">Within 2 km</option>
@@ -114,7 +147,7 @@ export function Page({ states, total, hasCoordinates }: Props) {
                       <option value="10">Within 10 km</option>
                       <option value="25">Within 25 km</option>
                     </select>
-                  </div>
+                  </fieldset>
                 )}
 
                 <button
