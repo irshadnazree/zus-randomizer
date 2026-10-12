@@ -1,4 +1,14 @@
 import data from './data/outlets.json'
+import transitData from './data/transit.json'
+
+export type PublicTransport = {
+  id: string
+  name: string
+  type: 'rail' | 'bus'
+  lat: number
+  lng: number
+  distanceKm: number
+}
 
 export type Outlet = {
   name: string
@@ -7,9 +17,19 @@ export type Outlet = {
   state: string
   lat: number | null
   lng: number | null
+  publicTransport?: PublicTransport
 }
 
-export const outlets = data as Outlet[]
+const outletKey = (o: { name: string; lat: number | null; lng: number | null }) => JSON.stringify([o.name, o.lat, o.lng])
+const transportByOutlet = new Map(transitData.matches.map((match) => [
+  outletKey(match.outlet),
+  { ...match.stop, distanceKm: match.distanceKm } as PublicTransport,
+]))
+
+export const outlets: Outlet[] = data.map((outlet) => {
+  const publicTransport = transportByOutlet.get(outletKey(outlet))
+  return publicTransport ? { ...outlet, publicTransport } : outlet
+})
 
 export const states = [...new Set(outlets.map((o) => o.state))]
   .sort()
@@ -26,11 +46,12 @@ export function distanceKm(lat1: number, lng1: number, lat2: number, lng2: numbe
   return 6371 * 2 * Math.asin(Math.sqrt(a))
 }
 
-type Filter = { state?: string; near?: { lat: number; lng: number; radiusKm: number } }
+type Filter = { state?: string; near?: { lat: number; lng: number; radiusKm: number }; transit?: boolean }
 
-export function filterOutlets({ state, near }: Filter) {
+export function filterOutlets({ state, near, transit }: Filter) {
   return outlets.filter((o) => {
     if (state && o.state !== state) return false
+    if (transit && !o.publicTransport) return false
     if (near) {
       if (o.lat == null || o.lng == null) return false
       if (distanceKm(near.lat, near.lng, o.lat, o.lng) > near.radiusKm) return false

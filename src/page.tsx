@@ -66,6 +66,7 @@ export function Page({ states, total, hasCoordinates }: Props) {
                     <span id="picked-state" class="rounded-full bg-zus-50 px-3 py-1 text-zus-700"></span>
                     <span id="picked-distance" class="hidden rounded-full bg-zus-50 px-3 py-1 text-zus-700"></span>
                   </div>
+                  <p id="picked-transit" class="hidden mt-3 text-sm text-zus-700"></p>
                   <div class="mt-5 grid grid-cols-2 gap-2">
                     <a
                       id="link-gmaps"
@@ -149,6 +150,17 @@ export function Page({ states, total, hasCoordinates }: Props) {
                     </select>
                   </fieldset>
                 )}
+
+                <div class="grid gap-1.5 text-sm">
+                  <label class="flex cursor-pointer items-center gap-3 rounded-xl bg-zus-800 px-3 py-3 ring-1 ring-white/10">
+                    <input id="transit" name="transit" type="checkbox" aria-describedby="transit-help" class="size-4 shrink-0 accent-zus-200" />
+                    <span class="font-medium text-zus-100">Near public transport</span>
+                  </label>
+                  <p id="transit-help" class="text-xs leading-relaxed text-zus-200">
+                    Within 500 m of a train station or bus stop. Straight-line distance; walking routes may be longer.{' '}
+                    <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener" class="underline hover:text-white">© OpenStreetMap contributors</a>.
+                  </p>
+                </div>
 
                 <button
                   id="spin"

@@ -148,6 +148,14 @@ function render({ outlet, distanceKm, origin }) {
   if (distanceKm != null) {
     distance.textContent = origin ? `${distanceKm.toFixed(1)} km from ${origin}` : `${distanceKm.toFixed(1)} km away`
   }
+  const transit = $('picked-transit')
+  show(transit, Boolean(outlet.publicTransport))
+  if (outlet.publicTransport) {
+    const stop = outlet.publicTransport
+    const kind = stop.type === 'rail' ? 'Train station' : 'Bus stop'
+    const label = stop.name === kind ? kind : `${kind}: ${stop.name}`
+    transit.textContent = `${label} · ${Math.round(stop.distanceKm * 1000)} m away (straight line)`
+  }
 
   const hasCoords = outlet.lat != null && outlet.lng != null
   const query = hasCoords ? `${outlet.lat},${outlet.lng}` : `${outlet.name}, ${outlet.address}`
@@ -167,6 +175,7 @@ async function buildParams() {
   const params = new URLSearchParams()
   const state = $('state').value
   if (state) params.set('state', state)
+  if ($('transit').checked) params.set('transit', 'true')
   const mode = nearMode()
   if (mode === 'off') return params
 

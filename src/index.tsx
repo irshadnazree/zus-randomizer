@@ -9,12 +9,13 @@ const app = new Hono<Env>()
 
 app.get('/', (c) => c.html(<Page states={states} total={outlets.length} hasCoordinates={hasCoordinates} />))
 
-type Filter = { state?: string; near?: { lat: number; lng: number; radiusKm: number }; origin?: Place }
+type Filter = { state?: string; near?: { lat: number; lng: number; radiusKm: number }; origin?: Place; transit?: boolean }
 
-/** Reads state, radius, and either lat/lng or a free-text `place` (geocoded) from the query string. */
+/** Reads state, transit, radius, and either lat/lng or a free-text `place` (geocoded) from the query string. */
 async function parseFilter(c: Context<Env>): Promise<Filter | { error: string }> {
   const q = (key: string) => c.req.query(key)?.trim() || undefined
   const state = q('state')
+  const transit = q('transit') === 'true'
   const radius = Number(q('radius') ?? 5)
   const radiusKm = Number.isFinite(radius) && radius > 0 ? Math.min(radius, 100) : 5
 
@@ -22,15 +23,15 @@ async function parseFilter(c: Context<Env>): Promise<Filter | { error: string }>
   if (place) {
     const origin = await geocode(place, c.executionCtx)
     if (!origin) return { error: `Couldn't find "${place}" in Malaysia. Try a town, mall, or landmark.` }
-    return { state, near: { lat: origin.lat, lng: origin.lng, radiusKm }, origin }
+    return { state, transit, near: { lat: origin.lat, lng: origin.lng, radiusKm }, origin }
   }
 
   const lat = Number(q('lat'))
   const lng = Number(q('lng'))
   if (q('lat') && q('lng') && Number.isFinite(lat) && Number.isFinite(lng)) {
-    return { state, near: { lat, lng, radiusKm } }
+    return { state, transit, near: { lat, lng, radiusKm } }
   }
-  return { state }
+  return { state, transit }
 }
 
 app.get('/api/outlets', async (c) => {
@@ -46,7 +47,10 @@ app.get('/api/random', async (c) => {
   const pool = filterOutlets(filter)
   if (pool.length === 0) {
     const where = filter.origin ? ` within ${filter.near?.radiusKm} km of ${filter.origin.label}` : ''
-    return c.json({ error: `No ZUS outlets match that filter${where}. Try a bigger radius.` }, 404)
+    const suggestion = filter.transit
+      ? 'Try another state, a bigger radius, or turn off the public transport filter.'
+      : 'Try another state or a bigger radius.'
+    return c.json({ error: `No ZUS outlets match that filter${where}. ${suggestion}` }, 404)
   }
   const [outlet] = pick(pool)
   const distance =
