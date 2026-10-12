@@ -30,6 +30,8 @@ form.querySelectorAll('input[name="near"]').forEach((radio) =>
   radio.addEventListener('change', async () => {
     const mode = nearMode()
     radius.disabled = mode === 'off'
+    // Distance already narrows the area, and a state filter could rule out every nearby outlet.
+    if (mode !== 'off') $('state').value = ''
     show(place, mode === 'place')
     setNearStatus(null)
     if (mode === 'place') place.focus()
