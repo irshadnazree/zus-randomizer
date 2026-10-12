@@ -6,7 +6,7 @@ import { Page } from './page'
 import { distanceKm, filterOutlets, hasCoordinates, outlets, pick, states } from './outlets'
 import { SITE_URL, statePath } from './seo'
 
-type Env = { Bindings: CloudflareBindings }
+type Env = { Bindings: Cloudflare.Env }
 
 const app = new Hono<Env>()
 

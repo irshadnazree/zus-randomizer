@@ -31,8 +31,8 @@ Verify the running server without starting another one:
 
 ```sh
 pnpm run typecheck
-pnpm run build:css
-pnpm run build:vendor
+pnpm run build
+pnpm exec cf deploy --prebuilt --dry-run
 node scripts/check-seo.mjs http://localhost:8787
 ```
 
@@ -44,10 +44,14 @@ Use Node.js 22 (see `.node-version`) and pnpm 11.9.0.
 
 ```sh
 pnpm install
-pnpm run dev        # Wrangler builds CSS + vendor assets before starting
+pnpm run dev        # cf builds CSS + vendor assets before starting
 pnpm run typecheck
 pnpm run build
 ```
+
+Project commands use the Cloudflare `cf` CLI. Deployment settings live in `cloudflare.config.ts`; the existing Wrangler bundler is retained internally, with asset generation, minification, and the public asset directory configured in `wrangler.config.ts`. Builds write the deployable Worker and assets to `.cloudflare/output/v0/`.
+
+`pnpm run cf-typegen` generates runtime and binding types in `.cloudflare/types/index.d.ts`. Typecheck regenerates these types automatically, and generated Cloudflare files are ignored by Git.
 
 ## API
 
@@ -78,6 +82,10 @@ The refresh uses Overpass to find Malaysian rail stations and bus stops, excludi
 ## Deployment
 
 Pushes to `main` are built and deployed by Cloudflare Workers Builds. Preview builds and preview URLs are disabled; the Worker is only served from `kopi.ruxera.com`.
+
+Configure Workers Builds with build command `pnpm run build` and deploy command `pnpm exec cf deploy --prebuilt` so it uploads the generated Build Output.
+
+For a local deployment, run `pnpm exec cf auth login` if needed, then `pnpm run deploy`. That command builds and deploys the project. To validate an existing build without uploading, run `pnpm exec cf deploy --prebuilt --dry-run`.
 
 ---
 
