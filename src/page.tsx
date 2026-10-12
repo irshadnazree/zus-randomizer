@@ -1,29 +1,30 @@
 import { html } from 'hono/html'
+import { getFaqs } from './content'
+import { Footer, Head, SITE_URL, STORE_SOURCE, statePath } from './seo'
 
 type Props = {
   states: { name: string; count: number }[]
   total: number
   hasCoordinates: boolean
+  selectedState?: string
 }
 
-export function Page({ states, total, hasCoordinates }: Props) {
+export function Page({ states, total, hasCoordinates, selectedState }: Props) {
+  const faqs = getFaqs(total, states.length, hasCoordinates)
   return (
     <>
       {html`<!doctype html>`}
-      <html lang="en">
-        <head>
-          <meta charset="utf-8" />
-          <meta name="viewport" content="width=device-width, initial-scale=1" />
-          <title>ZUS Roulette · Pick a random ZUS Coffee in Malaysia</title>
-          <meta name="description" content={`Can't decide which ZUS Coffee to go to? Spin and let fate pick one of ${total} outlets across Malaysia.`} />
-          <meta name="theme-color" content="#071a40" />
-          <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-          <link rel="preconnect" href="https://rsms.me/" />
-          <link rel="stylesheet" href="https://rsms.me/inter/inter.css" />
-          <link rel="stylesheet" href="/style.css" />
-          <script src="/vendor/confetti.js" defer></script>
-          <script src="/app.js" defer></script>
-        </head>
+      <html lang="en-MY">
+        <Head
+          title="ZUS Coffee Randomizer Malaysia | ZUS Roulette"
+          description={`Pick a random ZUS Coffee in Malaysia from ${total} listed outlets. Filter by state or find a branch nearby, then open Google Maps or Waze directions.`}
+          path="/"
+          interactive
+          schema={[
+            { '@type': 'WebApplication', '@id': `${SITE_URL}/#randomizer`, name: 'ZUS Roulette', alternateName: 'ZUS Coffee Randomizer', url: `${SITE_URL}/`, applicationCategory: 'LifestyleApplication', operatingSystem: 'Any', isAccessibleForFree: true, offers: { '@type': 'Offer', price: '0', priceCurrency: 'MYR' }, description: faqs[0].answer },
+            { '@type': 'FAQPage', '@id': `${SITE_URL}/#faq`, isPartOf: { '@id': `${SITE_URL}/#webpage` }, mainEntity: faqs.map(({ question, answer }) => ({ '@type': 'Question', name: question, acceptedAnswer: { '@type': 'Answer', text: answer } })) },
+          ]}
+        />
         <body class="min-h-dvh bg-zus-950 font-sans text-white antialiased">
           <div class="mx-auto flex min-h-dvh max-w-xl flex-col px-5 py-8 sm:py-14">
             <header class="mb-8">
@@ -38,13 +39,13 @@ export function Page({ states, total, hasCoordinates }: Props) {
                   Sound on
                 </button>
               </div>
-              <h1 class="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">Which ZUS today?</h1>
+              <h1 class="mt-2 text-3xl font-bold tracking-tight sm:text-4xl">Pick a random ZUS Coffee</h1>
               <p class="mt-2 text-zus-200">
-                Spin to pick a random ZUS Coffee from <span class="font-semibold text-white">{total}</span> outlets across Malaysia.
+                Which ZUS today? Spin to choose from <span class="font-semibold text-white">{total}</span> listed outlets across Malaysia.
               </p>
             </header>
 
-            <main class="flex flex-1 flex-col gap-5">
+            <main id="main" class="flex flex-1 flex-col gap-5">
               <section
                 id="result"
                 aria-live="polite"
@@ -99,7 +100,7 @@ export function Page({ states, total, hasCoordinates }: Props) {
                   >
                     <option value="">Anywhere in Malaysia</option>
                     {states.map((s) => (
-                      <option value={s.name}>
+                      <option value={s.name} selected={selectedState === s.name}>
                         {s.name} ({s.count})
                       </option>
                     ))}
@@ -127,6 +128,7 @@ export function Page({ states, total, hasCoordinates }: Props) {
                       id="place"
                       name="place"
                       type="text"
+                      aria-label="Town, mall, or landmark in Malaysia"
                       placeholder="e.g. Bangsar, Sunway Pyramid, Ipoh"
                       autocomplete="off"
                       enterkeyhint="go"
@@ -158,14 +160,45 @@ export function Page({ states, total, hasCoordinates }: Props) {
                   Spin
                 </button>
               </form>
-            </main>
+              <noscript>
+                <p class="rounded-xl bg-zus-900 p-4 text-sm text-zus-100">Enable JavaScript to spin the randomizer, or <a href="/outlets" class="underline">browse ZUS Coffee outlet addresses and directions</a> below.</p>
+              </noscript>
 
-            <footer class="mt-10 text-center text-xs text-zus-200/70">
-              Unofficial fan project · not affiliated with ZUS Coffee ·{' '}
-              <a class="underline hover:text-white" href="https://github.com/irshadnazree/zus-randomizer">
-                source
-              </a>
-            </footer>
+              <section aria-labelledby="how-it-works" class="mt-5 border-t border-white/10 pt-7">
+                <h2 id="how-it-works" class="text-xl font-semibold">How to choose your next ZUS</h2>
+                <p class="mt-3 text-sm leading-relaxed text-zus-100">ZUS Roulette is a free, unofficial branch picker for Malaysia. Keep it spontaneous or narrow down the outlets before you spin.</p>
+                <ol class="mt-4 list-decimal space-y-2 pl-5 text-sm leading-relaxed text-zus-100">
+                  <li>Choose a state or leave it on Anywhere in Malaysia.</li>
+                  {hasCoordinates && <li>For a nearby pick, use My location or enter A place, then choose a distance.</li>}
+                  <li>Press Spin to choose an outlet from your matching results.</li>
+                  <li>Open Google Maps or Waze to plan your trip. Check current opening hours before heading out.</li>
+                </ol>
+              </section>
+
+              <section aria-labelledby="browse-states" class="mt-2">
+                <h2 id="browse-states" class="text-xl font-semibold">Browse ZUS Coffee outlets by state</h2>
+                <p class="mt-2 text-sm leading-relaxed text-zus-100">Prefer to choose yourself? Find addresses and map directions in our <a href="/outlets" class="underline hover:text-white">Malaysia outlet directory</a>.</p>
+                <ul class="mt-4 grid grid-cols-2 gap-2 text-sm">
+                  {states.map((state) => (
+                    <li><a href={statePath(state.name)} class="flex h-full items-center justify-between gap-2 rounded-xl bg-zus-900 px-3 py-3 text-zus-100 ring-1 ring-white/10 hover:bg-zus-800"><span>{state.name}</span><span class="text-xs text-zus-200">{state.count}</span></a></li>
+                  ))}
+                </ul>
+              </section>
+
+              <section id="faq" aria-labelledby="faq-heading" class="mt-5 border-t border-white/10 pt-7">
+                <h2 id="faq-heading" class="text-xl font-semibold">ZUS Coffee randomizer: common questions</h2>
+                <div class="mt-4 divide-y divide-white/10">
+                  {faqs.map(({ question, answer }) => (
+                    <details class="group py-4">
+                      <summary class="cursor-pointer font-medium text-zus-50">{question}</summary>
+                      <p class="mt-3 text-sm leading-relaxed text-zus-100">{answer}</p>
+                    </details>
+                  ))}
+                </div>
+                <p class="mt-4 text-xs leading-relaxed text-zus-200">Outlet listings are a saved snapshot sourced from the <a href={STORE_SOURCE} class="underline hover:text-white">official ZUS Coffee store directory</a>. Addresses and availability can change; verify your chosen branch before visiting.</p>
+              </section>
+            </main>
+            <Footer />
           </div>
         </body>
       </html>
