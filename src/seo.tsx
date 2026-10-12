@@ -1,6 +1,6 @@
 import { raw } from 'hono/html'
 
-export const SITE_URL = 'https://zus.ruxera.com'
+export const SITE_URL = 'https://kopi.ruxera.com'
 export const SITE_NAME = 'ZUS Roulette'
 export const STORE_SOURCE = 'https://zuscoffee.com/our-stores/'
 
@@ -20,7 +20,7 @@ type HeadProps = {
   path: string
   noindex?: boolean
   interactive?: boolean
-  pageType?: 'WebPage' | 'CollectionPage'
+  pageType?: 'WebPage' | 'CollectionPage' | 'AboutPage'
   mainEntityId?: string
   schema?: Record<string, unknown>[]
 }
@@ -73,6 +73,7 @@ export function Footer() {
     <footer class="mt-10 text-center text-xs leading-relaxed text-zus-200">
       <nav aria-label="Footer" class="mb-3 flex flex-wrap justify-center gap-x-5 gap-y-2">
         <a class="underline hover:text-white" href="/">Randomizer</a>
+        <a class="underline hover:text-white" href="/about">About</a>
         <a class="underline hover:text-white" href="/outlets">Outlet directory</a>
         <a class="underline hover:text-white" href={STORE_SOURCE}>Official ZUS stores</a>
         <a class="underline hover:text-white" href="https://github.com/irshadnazree/zus-randomizer">Source code</a>

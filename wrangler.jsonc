@@ -10,7 +10,7 @@
     "directory": "./public"
   },
   "routes": [
-    { "pattern": "zus.ruxera.com", "custom_domain": true }
+    { "pattern": "kopi.ruxera.com", "custom_domain": true }
   ],
   // Production only: no *.workers.dev URL and no per-version preview URLs.
   "workers_dev": false,

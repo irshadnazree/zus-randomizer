@@ -1,6 +1,6 @@
 export type Place = { label: string; lat: number; lng: number }
 
-const USER_AGENT = 'zus-randomizer/1.0 (+https://zus.ruxera.com)'
+const USER_AGENT = 'zus-randomizer/1.0 (+https://kopi.ruxera.com)'
 const CACHE_SECONDS = 60 * 60 * 24 * 7
 
 async function nominatim(q: string): Promise<Place | null> {
@@ -39,7 +39,7 @@ async function photon(q: string): Promise<Place | null> {
 /** Resolve free text like "Bangsar" or "Sunway Pyramid" to coordinates in Malaysia. Cached for a week. */
 export async function geocode(query: string, ctx: { waitUntil(promise: Promise<unknown>): void }): Promise<Place | null> {
   const q = query.trim().toLowerCase().replace(/\s+/g, ' ').slice(0, 120)
-  const cacheKey = new Request(`https://zus.ruxera.com/__geocode/v2?q=${encodeURIComponent(q)}`)
+  const cacheKey = new Request(`https://kopi.ruxera.com/__geocode/v2?q=${encodeURIComponent(q)}`)
   const cache = caches.default
   const cached = await cache.match(cacheKey)
   if (cached) return cached.json()

@@ -2,7 +2,7 @@
 
 Can't decide which ZUS Coffee to go to? Spin and let fate pick one for you.
 
-Live at **https://zus.ruxera.com**
+Live at **https://kopi.ruxera.com**
 
 Built with [Hono](https://hono.dev) (JSX, server-rendered) on Cloudflare Workers and styled with [Tailwind CSS](https://tailwindcss.com) v4.
 
@@ -15,9 +15,11 @@ Built with [Hono](https://hono.dev) (JSX, server-rendered) on Cloudflare Workers
 - Blurred slot-style reel, with tick sounds, a win chime and confetti on the pick (sound can be muted)
 - One-tap Google Maps and Waze directions
 - Server-rendered outlet directory by state, with addresses and directions
+- About page with how-to instructions, state directory links, FAQs, and data source notes
 
 ## Search and answer-engine discovery
 
+- `/about` explains how the randomizer works and contains the visible FAQs and source notes.
 - `/outlets` links to every state/territory represented in the saved dataset. Each `/outlets/:state` page renders all matching names, addresses, and map links without JavaScript.
 - Each page has a unique title, description, production canonical URL, Open Graph metadata, and a 1200 × 630 PNG social preview. Query variants of the randomizer canonicalize to `/`.
 - `/sitemap.xml` is generated from the same state data; `/robots.txt` allows crawling and advertises the sitemap. No artificial `lastmod` dates are emitted.
@@ -34,7 +36,7 @@ pnpm run build:vendor
 node scripts/check-seo.mjs http://localhost:8787
 ```
 
-After deploying, submit `https://zus.ruxera.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools. Inspect the homepage and a state page to verify indexing. Search-engine and AI visibility depends on crawling, indexing, and relevance; it cannot be confirmed by local checks.
+After deploying, submit `https://kopi.ruxera.com/sitemap.xml` in Google Search Console and Bing Webmaster Tools. Inspect the homepage and a state page to verify indexing. Search-engine and AI visibility depends on crawling, indexing, and relevance; it cannot be confirmed by local checks.
 
 ## Development
 
@@ -75,7 +77,7 @@ The refresh uses Overpass to find Malaysian rail stations and bus stops, excludi
 
 ## Deployment
 
-Pushes to `main` are built and deployed by Cloudflare Workers Builds. Preview builds and preview URLs are disabled; the Worker is only served from `zus.ruxera.com`.
+Pushes to `main` are built and deployed by Cloudflare Workers Builds. Preview builds and preview URLs are disabled; the Worker is only served from `kopi.ruxera.com`.
 
 ---
 

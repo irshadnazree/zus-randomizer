@@ -1,5 +1,6 @@
 import { type Context, Hono } from 'hono'
 import { geocode, type Place } from './geocode'
+import { About } from './about'
 import { Directory, NotFound } from './directory'
 import { Page } from './page'
 import { distanceKm, filterOutlets, hasCoordinates, outlets, pick, states } from './outlets'
@@ -27,6 +28,8 @@ app.get('/', (c) => {
   return c.html(<Page states={states} total={outlets.length} hasCoordinates={hasCoordinates} selectedState={selectedState} />)
 })
 
+app.get('/about', (c) => c.html(<About />))
+
 app.get('/outlets', (c) => c.html(<Directory />))
 app.get('/outlets/:state', (c) => {
   const state = states.find((region) => statePath(region.name) === c.req.path)
@@ -39,7 +42,7 @@ app.get('/robots.txt', (c) => {
 })
 
 app.get('/sitemap.xml', (c) => {
-  const paths = ['/', '/outlets', ...states.map((state) => statePath(state.name))]
+  const paths = ['/', '/about', '/outlets', ...states.map((state) => statePath(state.name))]
   c.header('Content-Type', 'application/xml; charset=utf-8')
   c.header('Cache-Control', 'public, max-age=3600')
   // No fabricated lastmod timestamps: URLs and counts always follow the saved dataset.

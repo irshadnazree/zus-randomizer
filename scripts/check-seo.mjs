@@ -5,11 +5,11 @@ import assert from 'node:assert/strict'
 import { readFile } from 'node:fs/promises'
 import { pathToFileURL } from 'node:url'
 
-const site = 'https://zus.ruxera.com'
+const site = 'https://kopi.ruxera.com'
 const outlets = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))
 const states = [...new Set(outlets.map((outlet) => outlet.state))].sort()
 const statePath = (name) => `/outlets/${name.toLowerCase().replace(/\s+/g, '-')}`
-const paths = ['/', '/outlets', ...states.map(statePath)]
+const paths = ['/', '/about', '/outlets', ...states.map(statePath)]
 const useWorker = process.argv[2] === '--worker'
 const worker = useWorker ? (await import(pathToFileURL(process.argv[3]).href)).default : null
 const base = useWorker ? site : process.argv[2] || 'http://localhost:8787'
@@ -30,7 +30,7 @@ for (const path of paths) {
   assert.match(html, /<html lang="en-MY">/)
   assert.match(html, /name="description" content="[^"]+"/)
   assert.match(html, /name="robots" content="index, follow/)
-  assert.match(html, /property="og:image" content="https:\/\/zus\.ruxera\.com\/og-image\.png"/)
+  assert.match(html, /property="og:image" content="https:\/\/kopi\.ruxera\.com\/og-image\.png"/)
   assert.match(html, /name="twitter:card" content="summary_large_image"/)
   assert.ok(!html.includes('https://rsms.me'), 'No render-blocking remote font CSS')
 
@@ -40,7 +40,17 @@ for (const path of paths) {
   assert.equal(graph.find((node) => node['@id'] === `${site}${path}#webpage`).url, `${site}${path}`)
 
   if (path === '/') {
+    assert.ok(!graph.some((node) => node['@type'] === 'FAQPage'), 'FAQ schema lives on About')
+    for (const id of ['how-it-works', 'browse-states', 'faq']) {
+      assert.ok(!html.includes(`id="${id}"`), `Informational section moved off homepage: ${id}`)
+    }
+    assert.ok(html.includes('id="controls"') && html.includes('id="spin"'), 'Randomizer remains available')
+    assert.ok(html.includes('href="/about"'), 'About is linked from the randomizer')
+  } else if (path === '/about') {
+    assert.equal(graph.find((node) => node['@id'] === `${site}/about#webpage`)['@type'], 'AboutPage')
     const faq = graph.find((node) => node['@type'] === 'FAQPage')
+    assert.equal(faq['@id'], `${site}/about#faq`)
+    assert.equal(faq.isPartOf['@id'], `${site}/about#webpage`)
     assert.ok(faq.mainEntity.length >= 5)
     for (const question of faq.mainEntity) {
       assert.ok(html.includes(question.name), `Visible question: ${question.name}`)
@@ -48,7 +58,11 @@ for (const path of paths) {
       const decoded = html.replace(/&#39;/g, "'").replace(/&amp;/g, '&').replace(/&quot;/g, '"')
       assert.ok(decoded.includes(question.acceptedAnswer.text), `Visible answer: ${question.name}`)
     }
-    assert.ok(html.includes('id="controls"') && html.includes('id="spin"'), 'Randomizer remains available')
+    for (const id of ['how-it-works', 'browse-states', 'faq']) {
+      assert.ok(html.includes(`id="${id}"`), `Informational section available on About: ${id}`)
+    }
+    assert.ok(html.includes('href="/"'), 'About links back to the randomizer')
+    assert.ok(!html.includes('src="/app.js"'), 'About requires no randomizer JS')
     for (const state of states) assert.ok(html.includes(`href="${statePath(state)}"`))
   } else {
     assert.ok(!html.includes('src="/app.js"'), 'Directory requires no randomizer JS')
@@ -79,7 +93,7 @@ assert.deepEqual(locations, paths.map((path) => `${site}${path}`))
 assert.ok(!sitemap.includes('<lastmod>'), 'No invented freshness dates')
 const robotsResponse = await request('/robots.txt')
 assert.equal(robotsResponse.status, 200)
-assert.match(await robotsResponse.text(), /User-agent: \*\nAllow: \/\n\nSitemap: https:\/\/zus\.ruxera\.com\/sitemap.xml/)
+assert.match(await robotsResponse.text(), /User-agent: \*\nAllow: \/\n\nSitemap: https:\/\/kopi\.ruxera\.com\/sitemap.xml/)
 
 for (const path of ['/does-not-exist', '/outlets/not-a-state', '/outlets/labuan']) {
   const response = await request(path)
@@ -89,6 +103,9 @@ for (const path of ['/does-not-exist', '/outlets/not-a-state', '/outlets/labuan'
 const redirect = await request('/outlets/kuala-lumpur/?example=1')
 assert.equal(redirect.status, 301)
 assert.equal(redirect.headers.get('location'), '/outlets/kuala-lumpur?example=1')
+const aboutRedirect = await request('/about/?example=1')
+assert.equal(aboutRedirect.status, 301)
+assert.equal(aboutRedirect.headers.get('location'), '/about?example=1')
 const doubleSlash = await request('//external.example/')
 assert.equal(doubleSlash.status, 301)
 assert.equal(doubleSlash.headers.get('location'), '/external.example', 'Slash normalization stays on the same site')
