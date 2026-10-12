@@ -11,6 +11,7 @@
     "deploy": "wrangler deploy --minify",
     "typecheck": "tsc --noEmit",
     "fetch-outlets": "node scripts/fetch-outlets.mjs",
+    "fetch-transit": "node scripts/fetch-transit.mjs",
     "cf-typegen": "wrangler types --env-interface CloudflareBindings"
   },
   "dependencies": {

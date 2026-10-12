@@ -1,0 +1,6743 @@
+{
+  "source": "https://www.openstreetmap.org",
+  "license": "ODbL-1.0",
+  "updatedAt": "2026-10-12T00:50:25Z",
+  "maxDistanceKm": 0.5,
+  "matches": [
+    {
+      "outlet": {
+        "name": "ZUS Coffee - 68 Degree Avenue, Johor",
+        "lat": 1.4556134,
+        "lng": 103.5990026
+      },
+      "stop": {
+        "id": "node/9831050880",
+        "name": "Opposite Pejabat Pos Gelang Patah",
+        "type": "bus",
+        "lat": 1.4529846,
+        "lng": 103.5985932
+      },
+      "distanceKm": 0.29583054118576163
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Adda Height",
+        "lat": 1.548137,
+        "lng": 103.7433006
+      },
+      "stop": {
+        "id": "node/10929259120",
+        "name": "Adda Heights",
+        "type": "bus",
+        "lat": 1.5473553,
+        "lng": 103.7459028
+      },
+      "distanceKm": 0.30202391917638216
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON BiG Batu Pahat",
+        "lat": 1.8657385,
+        "lng": 102.9488445
+      },
+      "stop": {
+        "id": "node/12436874244",
+        "name": "Carrefour BP",
+        "type": "bus",
+        "lat": 1.8647646,
+        "lng": 102.9475194
+      },
+      "distanceKm": 0.1827968487805096
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Bukit Indah",
+        "lat": 1.481769,
+        "lng": 103.6558436
+      },
+      "stop": {
+        "id": "node/2564081470",
+        "name": "AEON Bukit Indah",
+        "type": "bus",
+        "lat": 1.4811055,
+        "lng": 103.6569426
+      },
+      "distanceKm": 0.14271235213420985
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Tebrau City",
+        "lat": 1.5490981,
+        "lng": 103.7964063
+      },
+      "stop": {
+        "id": "node/10913708913",
+        "name": "AEON Tebrau Jalan Tebrau",
+        "type": "bus",
+        "lat": 1.5488841,
+        "lng": 103.7981815
+      },
+      "distanceKm": 0.19875073131656132
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Angsana Johor Bahru",
+        "lat": 1.4949266,
+        "lng": 103.7057484
+      },
+      "stop": {
+        "id": "node/9831050462",
+        "name": "Opposite Sekolah Kebangsaan Pengkalan Rinting",
+        "type": "bus",
+        "lat": 1.494655,
+        "lng": 103.7051989
+      },
+      "distanceKm": 0.06813911678024555
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Baru Uda",
+        "lat": 1.4925637,
+        "lng": 103.7089951
+      },
+      "stop": {
+        "id": "node/9841759795",
+        "name": "Opposite Klinik Kesihatan Tampoi",
+        "type": "bus",
+        "lat": 1.4926789,
+        "lng": 103.7077376
+      },
+      "distanceKm": 0.14036589546477665
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Dato Onn, Johor Bahru",
+        "lat": 1.5623622,
+        "lng": 103.7346034
+      },
+      "stop": {
+        "id": "node/7418408392",
+        "name": "AEON Dato Onn",
+        "type": "bus",
+        "lat": 1.5629077,
+        "lng": 103.7346978
+      },
+      "distanceKm": 0.06155771457466313
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Indahpura Kulai",
+        "lat": 1.64384,
+        "lng": 103.6036421
+      },
+      "stop": {
+        "id": "node/12618054855",
+        "name": "The Commune",
+        "type": "bus",
+        "lat": 1.6417778,
+        "lng": 103.60225
+      },
+      "distanceKm": 0.27662782539116026
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Seri Alam",
+        "lat": 1.4967033,
+        "lng": 103.8719281
+      },
+      "stop": {
+        "id": "node/9841777039",
+        "name": "Regency Specialist Hospital",
+        "type": "bus",
+        "lat": 1.4969837,
+        "lng": 103.8717681
+      },
+      "distanceKm": 0.03589490241809705
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Batu Pahat",
+        "lat": 1.8631462,
+        "lng": 102.9538257
+      },
+      "stop": {
+        "id": "node/3515260900",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.8633151,
+        "lng": 102.9570113
+      },
+      "distanceKm": 0.3545330678954653
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Batu Pahat Mall",
+        "lat": 1.8638461,
+        "lng": 102.9620841
+      },
+      "stop": {
+        "id": "node/3515260901",
+        "name": "BP Mall",
+        "type": "bus",
+        "lat": 1.863672,
+        "lng": 102.9633109
+      },
+      "distanceKm": 0.13770929856252673
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bukit Dahlia, Pasir Gudang",
+        "lat": 1.4781107,
+        "lng": 103.8959895
+      },
+      "stop": {
+        "id": "node/2409009515",
+        "name": "Opposite KPJ Pasir Gudang",
+        "type": "bus",
+        "lat": 1.4782023,
+        "lng": 103.8955311
+      },
+      "distanceKm": 0.05196281736949021
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bukit Tiram",
+        "lat": 1.6023164,
+        "lng": 103.8135757
+      },
+      "stop": {
+        "id": "node/10919366221",
+        "name": "Tokong Cina",
+        "type": "bus",
+        "lat": 1.6009444,
+        "lng": 103.8135347
+      },
+      "distanceKm": 0.15262749001335812
+    },
+    {
+      "outlet": {
+        "name": "Zus Coffee - DT Shell Pulai Perdana",
+        "lat": 1.5672482,
+        "lng": 103.595622
+      },
+      "stop": {
+        "id": "node/9845792455",
+        "name": "Petronas Pulai Perdana",
+        "type": "bus",
+        "lat": 1.567266,
+        "lng": 103.5948461
+      },
+      "distanceKm": 0.08626657720848356
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Galleria @ Kotaraya",
+        "lat": 1.4590711,
+        "lng": 103.7627054
+      },
+      "stop": {
+        "id": "node/9764633072",
+        "name": "Bukit Timbalan",
+        "type": "bus",
+        "lat": 1.4595003,
+        "lng": 103.7621194
+      },
+      "distanceKm": 0.08075124797668423
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Kebun Teh, Johor",
+        "lat": 1.4849923,
+        "lng": 103.7534602
+      },
+      "stop": {
+        "id": "node/13384624826",
+        "name": "Bank Muamalat Bukit Teh",
+        "type": "bus",
+        "lat": 1.4847959,
+        "lng": 103.7530603
+      },
+      "distanceKm": 0.049526772443419825
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Kenanga Bandar Indahpura, Kulai",
+        "lat": 1.6420816,
+        "lng": 103.6186672
+      },
+      "stop": {
+        "id": "node/9761713024",
+        "name": "Persiaran Indahpura Utama 01",
+        "type": "bus",
+        "lat": 1.6404,
+        "lng": 103.6189766
+      },
+      "distanceKm": 0.19012148724505512
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Lembah 16, Bandar Seri Alam",
+        "lat": 1.5118515,
+        "lng": 103.8667897
+      },
+      "stop": {
+        "id": "node/9841777046",
+        "name": "Dewanraya Bandar Seri Alam Jalan Gunung",
+        "type": "bus",
+        "lat": 1.512554,
+        "lng": 103.8644055
+      },
+      "distanceKm": 0.2762910248859674
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Tampoi Susur",
+        "lat": 1.5201517,
+        "lng": 103.7512749
+      },
+      "stop": {
+        "id": "node/10913696012",
+        "name": "MSU Jalan Tampoi",
+        "type": "bus",
+        "lat": 1.5206773,
+        "lng": 103.7506427
+      },
+      "distanceKm": 0.09139998581055042
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Johor Bukit Gambir Tangkak",
+        "lat": 2.2112737,
+        "lng": 102.6518968
+      },
+      "stop": {
+        "id": "node/11124583638",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.2115127,
+        "lng": 102.6524974
+      },
+      "distanceKm": 0.07183091364661207
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Johor Eco Botanic",
+        "lat": 1.4399093,
+        "lng": 103.6193305
+      },
+      "stop": {
+        "id": "node/9831050850",
+        "name": "Eco Botanic",
+        "type": "bus",
+        "lat": 1.4386662,
+        "lng": 103.6206865
+      },
+      "distanceKm": 0.20451626618009225
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Johor Premium Outlet (Food Court)",
+        "lat": 1.6028339,
+        "lng": 103.6215955
+      },
+      "stop": {
+        "id": "node/2599466138",
+        "name": "Johor Premium Outlets",
+        "type": "bus",
+        "lat": 1.6037161,
+        "lng": 103.6207236
+      },
+      "distanceKm": 0.13789477153060253
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kelapa Sawit, Kulai",
+        "lat": 1.6743721,
+        "lng": 103.5330195
+      },
+      "stop": {
+        "id": "node/9761651480",
+        "name": "Perumahan Awam Kelapa Sawit",
+        "type": "bus",
+        "lat": 1.6709805,
+        "lng": 103.5357128
+      },
+      "distanceKm": 0.4814963085074399
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kluang Versi Boulevard",
+        "lat": 2.0372444,
+        "lng": 103.3197048
+      },
+      "stop": {
+        "id": "way/539089605",
+        "name": "Terminal Pengangkutan Awam Bandar Kluang",
+        "type": "bus",
+        "lat": 2.0361737,
+        "lng": 103.3228314
+      },
+      "distanceKm": 0.36727464910877483
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kota Masai Johor",
+        "lat": 1.4858205,
+        "lng": 103.9367501
+      },
+      "stop": {
+        "id": "node/13385620451",
+        "name": "Opposite Sampan Shellout",
+        "type": "bus",
+        "lat": 1.4846109,
+        "lng": 103.9372864
+      },
+      "distanceKm": 0.14712045351237635
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kota Tinggi",
+        "lat": 1.729428,
+        "lng": 103.9002738
+      },
+      "stop": {
+        "id": "node/10913709261",
+        "name": "Opposite Jalan Tun Sri Lanang",
+        "type": "bus",
+        "lat": 1.7295475,
+        "lng": 103.9003538
+      },
+      "distanceKm": 0.015988276281817218
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KSL City Mall",
+        "lat": 1.4858456,
+        "lng": 103.762422
+      },
+      "stop": {
+        "id": "node/1868473674",
+        "name": "KSL City",
+        "type": "bus",
+        "lat": 1.4856873,
+        "lng": 103.762889
+      },
+      "distanceKm": 0.054813715917010654
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Labis",
+        "lat": 2.3985281,
+        "lng": 103.018659
+      },
+      "stop": {
+        "id": "node/9103811645",
+        "name": "Taman Orkid Baru",
+        "type": "bus",
+        "lat": 2.3958001,
+        "lng": 103.0189344
+      },
+      "distanceKm": 0.3048788981845115
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Larkin Jaya, JB",
+        "lat": 1.4952895,
+        "lng": 103.7413724
+      },
+      "stop": {
+        "id": "node/8927005073",
+        "name": "Larkin Central",
+        "type": "bus",
+        "lat": 1.4957105,
+        "lng": 103.7425587
+      },
+      "distanceKm": 0.13992856043695853
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Mersing",
+        "lat": 2.4313135,
+        "lng": 103.8370557
+      },
+      "stop": {
+        "id": "node/10924642029",
+        "name": "KWSP Mersing",
+        "type": "bus",
+        "lat": 2.4296278,
+        "lng": 103.8345109
+      },
+      "distanceKm": 0.33920732519936037
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Mount Austin",
+        "lat": 1.5533285,
+        "lng": 103.7850643
+      },
+      "stop": {
+        "id": "node/11638701727",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.5551221,
+        "lng": 103.7835964
+      },
+      "distanceKm": 0.25767840781806206
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Muar Bakri",
+        "lat": 2.0489639,
+        "lng": 102.584049
+      },
+      "stop": {
+        "id": "node/7185855090",
+        "name": "SRJK(C) PEI YANG",
+        "type": "bus",
+        "lat": 2.0482057,
+        "lng": 102.5833895
+      },
+      "distanceKm": 0.1117081137187371
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Nusa Bestari",
+        "lat": 1.4818407,
+        "lng": 103.6658061
+      },
+      "stop": {
+        "id": "node/9841759803",
+        "name": "Opposite 7-Eleven Bukit Indah",
+        "type": "bus",
+        "lat": 1.480849,
+        "lng": 103.6650918
+      },
+      "distanceKm": 0.13588331222881125
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Paradigm Mall JB",
+        "lat": 1.5157433,
+        "lng": 103.6856795
+      },
+      "stop": {
+        "id": "node/2407023189",
+        "name": "Paradigm Mall",
+        "type": "bus",
+        "lat": 1.5146529,
+        "lng": 103.6854368
+      },
+      "distanceKm": 0.12421196329321559
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Paradigm Mall Johor Bahru",
+        "lat": 1.5159357,
+        "lng": 103.6854083
+      },
+      "stop": {
+        "id": "node/2407023189",
+        "name": "Paradigm Mall",
+        "type": "bus",
+        "lat": 1.5146529,
+        "lng": 103.6854368
+      },
+      "distanceKm": 0.14267602643784935
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Parit Raja",
+        "lat": 1.8486209,
+        "lng": 103.0742132
+      },
+      "stop": {
+        "id": "node/3515255183",
+        "name": "Jalan Kluang route 50",
+        "type": "bus",
+        "lat": 1.84788,
+        "lng": 103.07347
+      },
+      "distanceKm": 0.11665956192266182
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Nanas",
+        "lat": 1.4956966,
+        "lng": 103.52565
+      },
+      "stop": {
+        "id": "node/9845736968",
+        "name": "Taman Perindustrian Pekan Nenas",
+        "type": "bus",
+        "lat": 1.4959514,
+        "lng": 103.5253876
+      },
+      "distanceKm": 0.040662979959446885
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Permas Jaya",
+        "lat": 1.4963103,
+        "lng": 103.8154933
+      },
+      "stop": {
+        "id": "node/10919363986",
+        "name": "AEON (Main) Permas Jaya",
+        "type": "bus",
+        "lat": 1.4958107,
+        "lng": 103.8165683
+      },
+      "distanceKm": 0.1317759549415456
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pontian Kota Emas",
+        "lat": 1.4789434,
+        "lng": 103.3995686
+      },
+      "stop": {
+        "id": "node/9845777373",
+        "name": "JPN Pontian",
+        "type": "bus",
+        "lat": 1.4808999,
+        "lng": 103.399069
+      },
+      "distanceKm": 0.22452912653009383
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pusat Perniagaan Mas Jaya, Muar",
+        "lat": 2.068437,
+        "lng": 102.5779131
+      },
+      "stop": {
+        "id": "node/7185843283",
+        "name": "SEK. AGAMA PARIT SETONGKAT",
+        "type": "bus",
+        "lat": 2.0667466,
+        "lng": 102.5820081
+      },
+      "distanceKm": 0.49233931348759724
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Segamat Central",
+        "lat": 2.5122414,
+        "lng": 102.8124877
+      },
+      "stop": {
+        "id": "way/199312780",
+        "name": "Bus Terminal Segamat",
+        "type": "bus",
+        "lat": 2.5087134,
+        "lng": 102.8132231
+      },
+      "distanceKm": 0.4007117046696359
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Segamat Genuang",
+        "lat": 2.4901251,
+        "lng": 102.8462961
+      },
+      "stop": {
+        "id": "node/5675004118",
+        "name": "Opposite SMK Paduka Tuan",
+        "type": "bus",
+        "lat": 2.4915086,
+        "lng": 102.8425458
+      },
+      "distanceKm": 0.4441156292458618
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Senai International Airport",
+        "lat": 1.6357915,
+        "lng": 103.6658649
+      },
+      "stop": {
+        "id": "node/9761691485",
+        "name": "Senai Airport",
+        "type": "bus",
+        "lat": 1.6348946,
+        "lng": 103.6661853
+      },
+      "distanceKm": 0.10589833555628918
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setia Tropika",
+        "lat": 1.5461291,
+        "lng": 103.7128021
+      },
+      "stop": {
+        "id": "node/2398964247",
+        "name": "JPN Setia Tropika",
+        "type": "bus",
+        "lat": 1.5449186,
+        "lng": 103.7132161
+      },
+      "distanceKm": 0.142250499668298
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sungai Rengit, Pengerang, Johor",
+        "lat": 1.3506332,
+        "lng": 104.2237701
+      },
+      "stop": {
+        "id": "node/11516532506",
+        "name": "Klinik Kesihatan Sungai Rengit",
+        "type": "bus",
+        "lat": 1.3503015,
+        "lng": 104.224256
+      },
+      "distanceKm": 0.06540611483318128
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Boulevard 88, Iskandar Johor",
+        "lat": 1.3944681,
+        "lng": 103.634817
+      },
+      "stop": {
+        "id": "node/11513106313",
+        "name": "Sunway Grid",
+        "type": "bus",
+        "lat": 1.3964933,
+        "lng": 103.6329764
+      },
+      "distanceKm": 0.3042605738566572
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sutera Mall",
+        "lat": 1.5173584,
+        "lng": 103.671199
+      },
+      "stop": {
+        "id": "node/4197401960",
+        "name": "Main Entrance Sutera Mall",
+        "type": "bus",
+        "lat": 1.5171019,
+        "lng": 103.6714576
+      },
+      "distanceKm": 0.04049378595421857
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Cahaya Kota Puteri, Masai",
+        "lat": 1.4910979,
+        "lng": 103.8429534
+      },
+      "stop": {
+        "id": "node/9841773889",
+        "name": "Jalan Jelatang 27",
+        "type": "bus",
+        "lat": 1.4907296,
+        "lng": 103.8430537
+      },
+      "distanceKm": 0.042443581216376196
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Mutiara Mas, Skudai",
+        "lat": 1.5153544,
+        "lng": 103.6325187
+      },
+      "stop": {
+        "id": "node/8297366460",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.5150974,
+        "lng": 103.6332344
+      },
+      "distanceKm": 0.08453135560733452
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Pulai Mutiara, JB",
+        "lat": 1.5325669,
+        "lng": 103.582054
+      },
+      "stop": {
+        "id": "node/13385966673",
+        "name": "Persiaran Pulai Mutiara 2",
+        "type": "bus",
+        "lat": 1.5323645,
+        "lng": 103.5819367
+      },
+      "distanceKm": 0.026009919307420193
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Sutera Utama, Skudai",
+        "lat": 1.5154008,
+        "lng": 103.6690803
+      },
+      "stop": {
+        "id": "node/9764620505",
+        "name": "Jalan Sutera Chengal 01",
+        "type": "bus",
+        "lat": 1.5152366,
+        "lng": 103.6674629
+      },
+      "distanceKm": 0.1807085215738914
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Universiti",
+        "lat": 1.5439547,
+        "lng": 103.6304088
+      },
+      "stop": {
+        "id": "node/9831050459",
+        "name": "AEON Taman Universiti",
+        "type": "bus",
+        "lat": 1.5423333,
+        "lng": 103.629684
+      },
+      "distanceKm": 0.1974732996475388
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tangkak Johor",
+        "lat": 2.2658436,
+        "lng": 102.538554
+      },
+      "stop": {
+        "id": "way/857150497",
+        "name": "Stesen Bas Tangkak",
+        "type": "bus",
+        "lat": 2.2683099,
+        "lng": 102.5411831
+      },
+      "distanceKm": 0.4006720028276636
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Artiz, Johor Bahru",
+        "lat": 1.5766939,
+        "lng": 103.7583431
+      },
+      "stop": {
+        "id": "node/11736709634",
+        "name": "Opposite Jalan Setia 3/12",
+        "type": "bus",
+        "lat": 1.5764174,
+        "lng": 103.7592084
+      },
+      "distanceKm": 0.10097513162495908
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Mall Mid Valley Southkey",
+        "lat": 1.5017024,
+        "lng": 103.7761915
+      },
+      "stop": {
+        "id": "node/9764633058",
+        "name": "SOGO Mid Valley",
+        "type": "bus",
+        "lat": 1.5005612,
+        "lng": 103.7768685
+      },
+      "distanceKm": 0.14753148702239044
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tmn Scientex Utama, Senai",
+        "lat": 1.5845417,
+        "lng": 103.6491148
+      },
+      "stop": {
+        "id": "node/7683137410",
+        "name": "Taman Scientex Senai",
+        "type": "bus",
+        "lat": 1.5840979,
+        "lng": 103.6500752
+      },
+      "distanceKm": 0.11760520927085052
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Toppen Shopping Centre",
+        "lat": 1.5527214,
+        "lng": 103.7980322
+      },
+      "stop": {
+        "id": "node/12433772197",
+        "name": "Opposite AEON Tebrau / Opposite IKEA",
+        "type": "bus",
+        "lat": 1.5518356,
+        "lng": 103.7968574
+      },
+      "distanceKm": 0.16356557889915369
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Teknologi Malaysia (Arked Meranti)",
+        "lat": 1.5597731,
+        "lng": 103.6337336
+      },
+      "stop": {
+        "id": "node/6432229620",
+        "name": "KRP G11 Bus Stop",
+        "type": "bus",
+        "lat": 1.5593493,
+        "lng": 103.6328481
+      },
+      "distanceKm": 0.10912613031404632
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Watsons TD Sentral, Taman Daya",
+        "lat": 1.546319,
+        "lng": 103.7649506
+      },
+      "stop": {
+        "id": "node/9794023311",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.544982,
+        "lng": 103.7625503
+      },
+      "distanceKm": 0.3054283426295027
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Wetex Parade",
+        "lat": 2.0448178,
+        "lng": 102.566361
+      },
+      "stop": {
+        "id": "node/7185855094",
+        "name": "RHB",
+        "type": "bus",
+        "lat": 2.0456976,
+        "lng": 102.5647852
+      },
+      "distanceKm": 0.20058377902217056
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Yong Peng",
+        "lat": 2.0100608,
+        "lng": 103.0693172
+      },
+      "stop": {
+        "id": "way/969826944",
+        "name": "Perhentian Bas dan Teksi Yong Peng",
+        "type": "bus",
+        "lat": 2.0128132,
+        "lng": 103.0711505
+      },
+      "distanceKm": 0.36765949858025476
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Amanjaya Mall",
+        "lat": 5.673324,
+        "lng": 100.5084839
+      },
+      "stop": {
+        "id": "node/5339349917",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.6748424,
+        "lng": 100.509713
+      },
+      "distanceKm": 0.21680039862090394
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Guar Chempedak",
+        "lat": 5.8596393,
+        "lng": 100.4559986
+      },
+      "stop": {
+        "id": "node/2589199713",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.8592169,
+        "lng": 100.4565977
+      },
+      "distanceKm": 0.0812257362668194
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Bakar Arang, SG Petani",
+        "lat": 5.6260206,
+        "lng": 100.479763
+      },
+      "stop": {
+        "id": "node/12638741346",
+        "name": "SMK Che Tom",
+        "type": "bus",
+        "lat": 5.6244126,
+        "lng": 100.4787935
+      },
+      "distanceKm": 0.20851830831159737
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Langgar, Alor Setar",
+        "lat": 6.1163536,
+        "lng": 100.368114
+      },
+      "stop": {
+        "id": "way/1029203027",
+        "name": "Hentian Bas Pekan Rabu",
+        "type": "bus",
+        "lat": 6.1174451,
+        "lng": 100.3675721
+      },
+      "distanceKm": 0.13535184149771734
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Tunku Putra, Kulim",
+        "lat": 5.372377,
+        "lng": 100.5549955
+      },
+      "stop": {
+        "id": "node/12179870053",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.3724563,
+        "lng": 100.5550304
+      },
+      "distanceKm": 0.00962708082708825
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuala Ketil",
+        "lat": 5.6067753,
+        "lng": 100.6410949
+      },
+      "stop": {
+        "id": "node/12650551717",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.607398,
+        "lng": 100.6410598
+      },
+      "distanceKm": 0.06934994454355774
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lagenda Heights",
+        "lat": 5.6626313,
+        "lng": 100.5026822
+      },
+      "stop": {
+        "id": "node/12424266770",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.662002,
+        "lng": 100.5029971
+      },
+      "distanceKm": 0.07817052170011926
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Kota Bharu",
+        "lat": 6.1100856,
+        "lng": 102.2307488
+      },
+      "stop": {
+        "id": "way/175703863",
+        "name": "Kota Bharu Bus Terminal",
+        "type": "bus",
+        "lat": 6.1123771,
+        "lng": 102.2292028
+      },
+      "distanceKm": 0.3068254671896117
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Baru Pasir Puteh, Kelantan",
+        "lat": 5.8283272,
+        "lng": 102.4024782
+      },
+      "stop": {
+        "id": "node/5175763621",
+        "name": "Pasir Puteh bus terminal",
+        "type": "bus",
+        "lat": 5.830213,
+        "lng": 102.404357
+      },
+      "distanceKm": 0.2952370631770206
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Tanah Merah",
+        "lat": 5.8084988,
+        "lng": 102.1491418
+      },
+      "stop": {
+        "id": "way/1003934541",
+        "name": "Tanah Merah",
+        "type": "rail",
+        "lat": 5.8062484,
+        "lng": 102.1468498
+      },
+      "distanceKm": 0.3562366813744425
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Tasek Raja",
+        "lat": 6.0309886,
+        "lng": 102.130773
+      },
+      "stop": {
+        "id": "way/736729843",
+        "name": "Terminal Bas Dan Teksi Bandar Tasek Raja",
+        "type": "bus",
+        "lat": 6.0292102,
+        "lng": 102.1311929
+      },
+      "distanceKm": 0.20312719603508073
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Sultan Yahya Petra, Lundang, KB",
+        "lat": 6.1026293,
+        "lng": 102.2632537
+      },
+      "stop": {
+        "id": "node/14098546525",
+        "name": "Lundang",
+        "type": "bus",
+        "lat": 6.1050016,
+        "lng": 102.2604241
+      },
+      "distanceKm": 0.40922028423284446
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Temenggong",
+        "lat": 6.1303878,
+        "lng": 102.2376248
+      },
+      "stop": {
+        "id": "node/6938726885",
+        "name": "Bus #10 to PCB beach",
+        "type": "bus",
+        "lat": 6.132254,
+        "lng": 102.2381967
+      },
+      "distanceKm": 0.21693103943798736
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KB Mall",
+        "lat": 6.1177385,
+        "lng": 102.2410789
+      },
+      "stop": {
+        "id": "node/14098486911",
+        "name": "KB Mall",
+        "type": "bus",
+        "lat": 6.1181069,
+        "lng": 102.2417514
+      },
+      "distanceKm": 0.08489046075294139
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuala Krai",
+        "lat": 5.5395003,
+        "lng": 102.2056227
+      },
+      "stop": {
+        "id": "node/13903631499",
+        "name": "Dataran Peladang (Hentian Bas Ekspres Kuala Krai)",
+        "type": "bus",
+        "lat": 5.5412857,
+        "lng": 102.2043369
+      },
+      "distanceKm": 0.24426273022121142
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lembah Sireh, Kota Bharu",
+        "lat": 6.1147094,
+        "lng": 102.2308493
+      },
+      "stop": {
+        "id": "way/175703863",
+        "name": "Kota Bharu Bus Terminal",
+        "type": "bus",
+        "lat": 6.1123771,
+        "lng": 102.2292028
+      },
+      "distanceKm": 0.3168535997786366
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pengkalan Chepa, Kelantan",
+        "lat": 6.1640554,
+        "lng": 102.2822287
+      },
+      "stop": {
+        "id": "node/8962240369",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 6.1649579,
+        "lng": 102.2834826
+      },
+      "distanceKm": 0.17113333927350732
+    },
+    {
+      "outlet": {
+        "name": "Ready-To Zus - Holiday Inn Express Hotel KL",
+        "lat": 3.1507827,
+        "lng": 101.7086975
+      },
+      "stop": {
+        "id": "node/4282575889",
+        "name": "Wisma Foo Yong",
+        "type": "bus",
+        "lat": 3.1504185,
+        "lng": 101.7091596
+      },
+      "distanceKm": 0.06536266552963042
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON BiG Wangsa Maju",
+        "lat": 3.1962007,
+        "lng": 101.7427716
+      },
+      "stop": {
+        "id": "node/9572318896",
+        "name": "Aeon Big Wangsa Maju",
+        "type": "bus",
+        "lat": 3.1967728,
+        "lng": 101.7423617
+      },
+      "distanceKm": 0.0782162863953555
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Metro Prima Kepong",
+        "lat": 3.2132147,
+        "lng": 101.6390662
+      },
+      "stop": {
+        "id": "node/9462444757",
+        "name": "Aeon Mall Metro Prima",
+        "type": "bus",
+        "lat": 3.2141062,
+        "lng": 101.6395041
+      },
+      "distanceKm": 0.11040967705355473
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Taman Maluri",
+        "lat": 3.1274954,
+        "lng": 101.7322755
+      },
+      "stop": {
+        "id": "node/5521738122",
+        "name": "Wisma Sistem 2",
+        "type": "bus",
+        "lat": 3.1282604,
+        "lng": 101.7327961
+      },
+      "distanceKm": 0.10284433364848473
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Wangsa Maju Alpha Angle",
+        "lat": 3.203764,
+        "lng": 101.7367351
+      },
+      "stop": {
+        "id": "node/7321530481",
+        "name": "Flat Wangsa Maju Seksyen 2 (Selatan)",
+        "type": "bus",
+        "lat": 3.2057323,
+        "lng": 101.7374067
+      },
+      "distanceKm": 0.23121705780219254
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Avenue K",
+        "lat": 3.1594766,
+        "lng": 101.7135149
+      },
+      "stop": {
+        "id": "node/5391966854",
+        "name": "KLCC",
+        "type": "rail",
+        "lat": 3.1592469,
+        "lng": 101.7133662
+      },
+      "distanceKm": 0.030412699994988707
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Damai Perdana, Cheras",
+        "lat": 3.0457374,
+        "lng": 101.7396419
+      },
+      "stop": {
+        "id": "node/7321533116",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0457996,
+        "lng": 101.7387617
+      },
+      "distanceKm": 0.09797993260992655
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Menjalara",
+        "lat": 3.1950509,
+        "lng": 101.6298663
+      },
+      "stop": {
+        "id": "node/9836425188",
+        "name": "Manjalara City Centre Area",
+        "type": "bus",
+        "lat": 3.1953057,
+        "lng": 101.6296868
+      },
+      "distanceKm": 0.03463917263066353
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Sri Permaisuri",
+        "lat": 3.0991787,
+        "lng": 101.7122799
+      },
+      "stop": {
+        "id": "node/5593508709",
+        "name": "Dataran Dwitasik",
+        "type": "bus",
+        "lat": 3.0990744,
+        "lng": 101.7116973
+      },
+      "distanceKm": 0.06571885077731858
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bangsar Trade Centre",
+        "lat": 3.1152004,
+        "lng": 101.6674785
+      },
+      "stop": {
+        "id": "node/7369242333",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.115593,
+        "lng": 101.6684122
+      },
+      "distanceKm": 0.11248593887031073
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Berjaya Times Square",
+        "lat": 3.1421984,
+        "lng": 101.7105512
+      },
+      "stop": {
+        "id": "node/4337129208",
+        "name": "Imbi Plaza",
+        "type": "bus",
+        "lat": 3.1432247,
+        "lng": 101.7105407
+      },
+      "distanceKm": 0.11412530765152476
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - BHP Jalan Maarof",
+        "lat": 3.133879,
+        "lng": 101.6722086
+      },
+      "stop": {
+        "id": "node/5848224785",
+        "name": "Komersial Telawi (Utara)",
+        "type": "bus",
+        "lat": 3.1340837,
+        "lng": 101.6724758
+      },
+      "distanceKm": 0.03739267872076339
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - BHPetrol Karak Highway",
+        "lat": 3.2534382,
+        "lng": 101.7275596
+      },
+      "stop": {
+        "id": "node/9564312870",
+        "name": "Taman Rawiyah Sulaiman Jaya",
+        "type": "bus",
+        "lat": 3.2546592,
+        "lng": 101.7257519
+      },
+      "distanceKm": 0.24229502742514697
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bintang Fairlane Residence",
+        "lat": 3.1450559,
+        "lng": 101.7125486
+      },
+      "stop": {
+        "id": "node/7537317501",
+        "name": "KL Hop-on Hop-off Stop 1 - Sg Wang Plaza",
+        "type": "bus",
+        "lat": 3.1451526,
+        "lng": 101.7115738
+      },
+      "distanceKm": 0.10876237059562853
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bloomsvale Shopping Gallery",
+        "lat": 3.0753986,
+        "lng": 101.6607076
+      },
+      "stop": {
+        "id": "node/11627533830",
+        "name": "Nest Residence (Opp)",
+        "type": "bus",
+        "lat": 3.0749312,
+        "lng": 101.6607664
+      },
+      "distanceKm": 0.05238098415709223
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Cheras Business Centre",
+        "lat": 3.1008414,
+        "lng": 101.7405807
+      },
+      "stop": {
+        "id": "node/10135316057",
+        "name": "Cheras Business Center (Barat)",
+        "type": "bus",
+        "lat": 3.1004455,
+        "lng": 101.7407618
+      },
+      "distanceKm": 0.0483970172184122
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Cheras Leisure Mall",
+        "lat": 3.0899397,
+        "lng": 101.7418844
+      },
+      "stop": {
+        "id": "node/2445208845",
+        "name": "Cheras Leisure Mall",
+        "type": "bus",
+        "lat": 3.0892114,
+        "lng": 101.7412079
+      },
+      "distanceKm": 0.1104554514360649
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Cubic Botanical, Pantai Dalam",
+        "lat": 3.0931139,
+        "lng": 101.6666624
+      },
+      "stop": {
+        "id": "node/1556653441",
+        "name": "KTM Pantai Dalam (Selatan)",
+        "type": "bus",
+        "lat": 3.093978,
+        "lng": 101.6693942
+      },
+      "distanceKm": 0.31817424908502107
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Danau Kota",
+        "lat": 3.2089064,
+        "lng": 101.7188491
+      },
+      "stop": {
+        "id": "node/7190034160",
+        "name": "Shell/Pusat Komuniti",
+        "type": "bus",
+        "lat": 3.2087854,
+        "lng": 101.7184133
+      },
+      "distanceKm": 0.05021870701450766
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Datum Jelatek Mall",
+        "lat": 3.167585,
+        "lng": 101.7362397
+      },
+      "stop": {
+        "id": "node/2074120954",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1682178,
+        "lng": 101.7368984
+      },
+      "distanceKm": 0.10148609850297415
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Desa Aman Puri, Kepong",
+        "lat": 3.2095224,
+        "lng": 101.6153886
+      },
+      "stop": {
+        "id": "node/9533666537",
+        "name": "Desa Aman Puri (Selatan)",
+        "type": "bus",
+        "lat": 3.2087667,
+        "lng": 101.6149371
+      },
+      "distanceKm": 0.097844958065503
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Desa Pandan, Ampang",
+        "lat": 3.1473656,
+        "lng": 101.7385179
+      },
+      "stop": {
+        "id": "node/11635059401",
+        "name": "Komersial Desa Pandan (Timur)",
+        "type": "bus",
+        "lat": 3.1466719,
+        "lng": 101.7379198
+      },
+      "distanceKm": 0.10178224966129203
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Desa Petaling",
+        "lat": 3.0829182,
+        "lng": 101.7050156
+      },
+      "stop": {
+        "id": "node/5308710601",
+        "name": "Desa Petaling (Selatan)",
+        "type": "bus",
+        "lat": 3.0832799,
+        "lng": 101.7042686
+      },
+      "distanceKm": 0.0921793005509278
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Eco Sky",
+        "lat": 3.2191098,
+        "lng": 101.6715892
+      },
+      "stop": {
+        "id": "node/12194088084",
+        "name": "EcoSky Residence",
+        "type": "bus",
+        "lat": 3.219283,
+        "lng": 101.6702111
+      },
+      "distanceKm": 0.15420330466927248
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ekocheras Mall",
+        "lat": 3.0929546,
+        "lng": 101.7389635
+      },
+      "stop": {
+        "id": "node/12393018622",
+        "name": "Ekocheras Mall",
+        "type": "bus",
+        "lat": 3.0929018,
+        "lng": 101.7396343
+      },
+      "distanceKm": 0.07471194636442989
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Fortune Centra, Kepong",
+        "lat": 3.2156834,
+        "lng": 101.6448181
+      },
+      "stop": {
+        "id": "node/9837606421",
+        "name": "Metro Perdana Playground",
+        "type": "bus",
+        "lat": 3.2147022,
+        "lng": 101.6461323
+      },
+      "distanceKm": 0.18218473935352045
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Found8 KL Sentral",
+        "lat": 3.1353772,
+        "lng": 101.6859243
+      },
+      "stop": {
+        "id": "node/5151040023",
+        "name": "Hop-on Hop-off Stop 6 - KL Sentral",
+        "type": "bus",
+        "lat": 3.1349633,
+        "lng": 101.6859995
+      },
+      "distanceKm": 0.04677479513846668
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ground Floor, Menara IQ",
+        "lat": 3.1408209,
+        "lng": 101.7189889
+      },
+      "stop": {
+        "id": "node/12065907813",
+        "name": "Coach Stop (TRX)",
+        "type": "bus",
+        "lat": 3.1422136,
+        "lng": 101.719827
+      },
+      "distanceKm": 0.18066747428481006
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jakel Mall, Kuala Lumpur",
+        "lat": 3.1535044,
+        "lng": 101.6988728
+      },
+      "stop": {
+        "id": "node/4335510491",
+        "name": "Hentian Munshi Abdullah",
+        "type": "bus",
+        "lat": 3.1530434,
+        "lng": 101.6985587
+      },
+      "distanceKm": 0.06199865448027282
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalil Link 1, Bukit Jalil",
+        "lat": 3.0590534,
+        "lng": 101.6737089
+      },
+      "stop": {
+        "id": "node/7319432141",
+        "name": "Green Avenue Condominium",
+        "type": "bus",
+        "lat": 3.0588341,
+        "lng": 101.67394
+      },
+      "distanceKm": 0.035399060854317786
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kenanga Wholesale City, Jalan Gelugor",
+        "lat": 3.1361024,
+        "lng": 101.7084307
+      },
+      "stop": {
+        "id": "node/12950313609",
+        "name": "Kenanga Point Condominium",
+        "type": "bus",
+        "lat": 3.1353847,
+        "lng": 101.7081079
+      },
+      "distanceKm": 0.08748301645973504
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KL East Mall",
+        "lat": 3.225351,
+        "lng": 101.7299309
+      },
+      "stop": {
+        "id": "node/9555390380",
+        "name": "Komersial Taman Melati/KL East Mall",
+        "type": "bus",
+        "lat": 3.2244018,
+        "lng": 101.7298873
+      },
+      "distanceKm": 0.1056571585810804
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KL Eco City Mall",
+        "lat": 3.1199348,
+        "lng": 101.6742815
+      },
+      "stop": {
+        "id": "node/5496253723",
+        "name": "Ibu Pejabat TNB KL ECO City",
+        "type": "bus",
+        "lat": 3.1207545,
+        "lng": 101.6738978
+      },
+      "distanceKm": 0.10061129024041297
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KL Gateway",
+        "lat": 3.1141124,
+        "lng": 101.6632718
+      },
+      "stop": {
+        "id": "way/1164529253",
+        "name": "LRT Universiti",
+        "type": "bus",
+        "lat": 3.1142768,
+        "lng": 101.6623245
+      },
+      "distanceKm": 0.10675617472641773
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KL Traders Square",
+        "lat": 3.2032226,
+        "lng": 101.7036084
+      },
+      "stop": {
+        "id": "node/9546314850",
+        "name": "KL Traders Square",
+        "type": "bus",
+        "lat": 3.2035373,
+        "lng": 101.7024875
+      },
+      "distanceKm": 0.12927000083726586
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuchai Entrepreneurs Park",
+        "lat": 3.088799,
+        "lng": 101.6893582
+      },
+      "stop": {
+        "id": "node/12943320701",
+        "name": "Kuchai Dynasty Centre",
+        "type": "bus",
+        "lat": 3.089767,
+        "lng": 101.68961
+      },
+      "distanceKm": 0.1112084412709573
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lakefields Trillium",
+        "lat": 3.0620666,
+        "lng": 101.7104625
+      },
+      "stop": {
+        "id": "node/10266184939",
+        "name": "MRT Sungai Besi Entrance A",
+        "type": "bus",
+        "lat": 3.0636155,
+        "lng": 101.7084778
+      },
+      "distanceKm": 0.2796918191816345
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - LSH33, Sentul",
+        "lat": 3.209601,
+        "lng": 101.6921613
+      },
+      "stop": {
+        "id": "node/10235864057",
+        "name": "Taman Pelangi",
+        "type": "bus",
+        "lat": 3.20767,
+        "lng": 101.6934382
+      },
+      "distanceKm": 0.25729378095129896
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - M Vertica, Cheras",
+        "lat": 3.1197509,
+        "lng": 101.7280779
+      },
+      "stop": {
+        "id": "node/5460747822",
+        "name": "Stadium Badminton KL / M Vertica Residences (Opp)",
+        "type": "bus",
+        "lat": 3.1192689,
+        "lng": 101.7284233
+      },
+      "distanceKm": 0.06590322282928679
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - M3 Shopping Mall",
+        "lat": 3.2192648,
+        "lng": 101.7202875
+      },
+      "stop": {
+        "id": "node/9555408569",
+        "name": "Perumahan Awam Sri Langkawi (Opp)",
+        "type": "bus",
+        "lat": 3.219332,
+        "lng": 101.7202647
+      },
+      "distanceKm": 0.007889388247297423
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Majestic Maxim Residensi Tmn Bkt Cheras",
+        "lat": 3.0765181,
+        "lng": 101.7421833
+      },
+      "stop": {
+        "id": "node/12064277119",
+        "name": "Residensi Majestic Maxim",
+        "type": "bus",
+        "lat": 3.0758034,
+        "lng": 101.7420933
+      },
+      "distanceKm": 0.08009684508493463
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Masjid Jamek",
+        "lat": 3.1485279,
+        "lng": 101.6970357
+      },
+      "stop": {
+        "id": "node/3336036076",
+        "name": "BSN Lebuh Ampang",
+        "type": "bus",
+        "lat": 3.1490543,
+        "lng": 101.6973265
+      },
+      "distanceKm": 0.06684715412044426
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Melawati Mall",
+        "lat": 3.2111139,
+        "lng": 101.7489516
+      },
+      "stop": {
+        "id": "node/7891570215",
+        "name": "Pusat Komersial Taman Melawati",
+        "type": "bus",
+        "lat": 3.2121381,
+        "lng": 101.750399
+      },
+      "distanceKm": 0.19695559473872096
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Menara Technip Energies",
+        "lat": 3.1452556,
+        "lng": 101.7206348
+      },
+      "stop": {
+        "id": "node/11381902251",
+        "name": "The Forum Condominium",
+        "type": "bus",
+        "lat": 3.144402,
+        "lng": 101.7214806
+      },
+      "distanceKm": 0.13351994821035415
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Menara UOA Bangsar",
+        "lat": 3.1280989,
+        "lng": 101.6786783
+      },
+      "stop": {
+        "id": "node/11888447210",
+        "name": "UOA Terminal",
+        "type": "bus",
+        "lat": 3.1277513,
+        "lng": 101.678773
+      },
+      "distanceKm": 0.04005597925156026
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Menara Worldwide",
+        "lat": 3.1478537,
+        "lng": 101.7182687
+      },
+      "stop": {
+        "id": "node/11634386979",
+        "name": "Wisma Kebudayaan SGM",
+        "type": "bus",
+        "lat": 3.1472267,
+        "lng": 101.7201195
+      },
+      "distanceKm": 0.2169943428621252
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Micasa Shoppes, Jalan Tun Razak",
+        "lat": 3.1568425,
+        "lng": 101.7221359
+      },
+      "stop": {
+        "id": "node/5626393127",
+        "name": "Tabung Haji",
+        "type": "bus",
+        "lat": 3.1577641,
+        "lng": 101.7206453
+      },
+      "distanceKm": 0.19465448492499016
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Mid Valley Megamall",
+        "lat": 3.1178235,
+        "lng": 101.6768193
+      },
+      "stop": {
+        "id": "node/1545809209",
+        "name": "Mid Valley South Court",
+        "type": "bus",
+        "lat": 3.1163952,
+        "lng": 101.6762267
+      },
+      "distanceKm": 0.17190956021218243
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Mytown Cheras",
+        "lat": 3.1348704,
+        "lng": 101.7232797
+      },
+      "stop": {
+        "id": "node/11905596412",
+        "name": "Cochrane MRT Station Entrance A",
+        "type": "bus",
+        "lat": 3.133323,
+        "lng": 101.7227316
+      },
+      "distanceKm": 0.18250750874327257
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Nu Sentral Mall",
+        "lat": 3.1330712,
+        "lng": 101.6870347
+      },
+      "stop": {
+        "id": "node/4625323166",
+        "name": "KL Sentral",
+        "type": "bus",
+        "lat": 3.133018,
+        "lng": 101.6876181
+      },
+      "distanceKm": 0.06504372033371834
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - OUG Parklane",
+        "lat": 3.0680263,
+        "lng": 101.6565977
+      },
+      "stop": {
+        "id": "node/1785497379",
+        "name": "Menara IIP (Opp)",
+        "type": "bus",
+        "lat": 3.0689258,
+        "lng": 101.655172
+      },
+      "distanceKm": 0.18725359269041691
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pandan Indah",
+        "lat": 3.1286909,
+        "lng": 101.751141
+      },
+      "stop": {
+        "id": "node/11039174973",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1291172,
+        "lng": 101.7519999
+      },
+      "distanceKm": 0.10649450371721837
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pavilion Bukit Jalil",
+        "lat": 3.0514833,
+        "lng": 101.6704858
+      },
+      "stop": {
+        "id": "node/11637407797",
+        "name": "Pavilion Bukit Jalil (Opp)",
+        "type": "bus",
+        "lat": 3.0499793,
+        "lng": 101.6699189
+      },
+      "distanceKm": 0.17869136635352528
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pavilion Damansara Heights",
+        "lat": 3.1450898,
+        "lng": 101.6623139
+      },
+      "stop": {
+        "id": "node/11422690763",
+        "name": "MRT Pusat Bandar Damansara Pintu A",
+        "type": "bus",
+        "lat": 3.1438875,
+        "lng": 101.6636392
+      },
+      "distanceKm": 0.1988077087373155
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pearl Point Shopping Mall",
+        "lat": 3.0855848,
+        "lng": 101.6736371
+      },
+      "stop": {
+        "id": "node/11133946785",
+        "name": "Wisma Teoh Chin Kee",
+        "type": "bus",
+        "lat": 3.0865597,
+        "lng": 101.6738308
+      },
+      "distanceKm": 0.11051684712674176
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pertama Complex, Kuala Lumpur",
+        "lat": 3.1574179,
+        "lng": 101.6955075
+      },
+      "stop": {
+        "id": "node/4341197890",
+        "name": "Sogo KL",
+        "type": "bus",
+        "lat": 3.1567508,
+        "lng": 101.6954516
+      },
+      "distanceKm": 0.07443732083623307
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pinnacle Sri Petaling Mall",
+        "lat": 3.0678244,
+        "lng": 101.6943052
+      },
+      "stop": {
+        "id": "node/11297474222",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0666684,
+        "lng": 101.694931
+      },
+      "distanceKm": 0.14612047314484045
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Damas",
+        "lat": 3.164064,
+        "lng": 101.6566921
+      },
+      "stop": {
+        "id": "node/9538880442",
+        "name": "Plaza Damas",
+        "type": "bus",
+        "lat": 3.1633565,
+        "lng": 101.6561493
+      },
+      "distanceKm": 0.09910024052619071
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Low yat",
+        "lat": 3.1440808,
+        "lng": 101.709854
+      },
+      "stop": {
+        "id": "node/4337129208",
+        "name": "Imbi Plaza",
+        "type": "bus",
+        "lat": 3.1432247,
+        "lng": 101.7105407
+      },
+      "distanceKm": 0.1219624332762234
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Publika",
+        "lat": 3.1711896,
+        "lng": 101.6659172
+      },
+      "stop": {
+        "id": "node/9536095438",
+        "name": "Publika",
+        "type": "bus",
+        "lat": 3.1704513,
+        "lng": 101.6652205
+      },
+      "distanceKm": 0.11279533077090957
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Quill City Mall",
+        "lat": 3.1598185,
+        "lng": 101.7005383
+      },
+      "stop": {
+        "id": "node/7537317503",
+        "name": "Quill City Mall 25",
+        "type": "bus",
+        "lat": 3.1594233,
+        "lng": 101.7004323
+      },
+      "distanceKm": 0.04549284718379905
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - SAMA Square",
+        "lat": 3.1943125,
+        "lng": 101.7203722
+      },
+      "stop": {
+        "id": "node/7319287116",
+        "name": "Medan Makmur Setapak",
+        "type": "bus",
+        "lat": 3.1974725,
+        "lng": 101.7196937
+      },
+      "distanceKm": 0.35935976700891964
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sapura Lot 91 KLCC",
+        "lat": 3.1568055,
+        "lng": 101.7132345
+      },
+      "stop": {
+        "id": "node/5151330821",
+        "name": "KL Hop-on Hop-off Stop 10 - Aquaria - KLCC Park",
+        "type": "bus",
+        "lat": 3.1553573,
+        "lng": 101.7121411
+      },
+      "distanceKm": 0.20166428363579614
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Semua House",
+        "lat": 3.1547039,
+        "lng": 101.6973632
+      },
+      "stop": {
+        "id": "node/5454221321",
+        "name": "Capsquare",
+        "type": "bus",
+        "lat": 3.1546522,
+        "lng": 101.6983747
+      },
+      "distanceKm": 0.11245026963224027
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sentul Point",
+        "lat": 3.2019769,
+        "lng": 101.6884325
+      },
+      "stop": {
+        "id": "node/9462547225",
+        "name": "Sentul Village",
+        "type": "bus",
+        "lat": 3.2035214,
+        "lng": 101.6892371
+      },
+      "distanceKm": 0.19358269270973077
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setapak Central Mall",
+        "lat": 3.2053642,
+        "lng": 101.7200682
+      },
+      "stop": {
+        "id": "node/9550893107",
+        "name": "Setapak Central",
+        "type": "bus",
+        "lat": 3.204852,
+        "lng": 101.7209105
+      },
+      "distanceKm": 0.10949173861529882
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setiawangsa",
+        "lat": 3.1780253,
+        "lng": 101.742
+      },
+      "stop": {
+        "id": "node/9933448422",
+        "name": "Setiawangsa Business Centre",
+        "type": "bus",
+        "lat": 3.177576,
+        "lng": 101.7428733
+      },
+      "distanceKm": 0.10907195017600296
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Solaris Mont Kiara",
+        "lat": 3.1713833,
+        "lng": 101.6539037
+      },
+      "stop": {
+        "id": "node/6602148585",
+        "name": "Mont Kiara International School",
+        "type": "bus",
+        "lat": 3.1714299,
+        "lng": 101.6535029
+      },
+      "distanceKm": 0.044799349055900266
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sri Petaling",
+        "lat": 3.0700512,
+        "lng": 101.6903272
+      },
+      "stop": {
+        "id": "node/11019611021",
+        "name": "Komersial Radin Anum",
+        "type": "bus",
+        "lat": 3.0716542,
+        "lng": 101.6918963
+      },
+      "distanceKm": 0.2492507652231801
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sri Rampai, Setapak",
+        "lat": 3.1949184,
+        "lng": 101.7324842
+      },
+      "stop": {
+        "id": "node/9572336267",
+        "name": "Rampai Court (Selatan)",
+        "type": "bus",
+        "lat": 3.1933479,
+        "lng": 101.7326631
+      },
+      "distanceKm": 0.1757575057190033
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sungei Wang Plaza",
+        "lat": 3.1451191,
+        "lng": 101.7114765
+      },
+      "stop": {
+        "id": "node/7537317501",
+        "name": "KL Hop-on Hop-off Stop 1 - Sg Wang Plaza",
+        "type": "bus",
+        "lat": 3.1451526,
+        "lng": 101.7115738
+      },
+      "distanceKm": 0.011427160990136461
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Velocity Mall",
+        "lat": 3.1278714,
+        "lng": 101.7248356
+      },
+      "stop": {
+        "id": "node/11635772671",
+        "name": "Sunway Velocity Mall",
+        "type": "bus",
+        "lat": 3.1267524,
+        "lng": 101.7240112
+      },
+      "distanceKm": 0.15446786873502988
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Velocity Two",
+        "lat": 3.1281751,
+        "lng": 101.7251284
+      },
+      "stop": {
+        "id": "node/11635772671",
+        "name": "Sunway Velocity Mall",
+        "type": "bus",
+        "lat": 3.1267524,
+        "lng": 101.7240112
+      },
+      "distanceKm": 0.20102911186554256
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Suria KLCC",
+        "lat": 3.158154,
+        "lng": 101.7120899
+      },
+      "stop": {
+        "id": "node/4208379192",
+        "name": "KLCC (Utara)",
+        "type": "bus",
+        "lat": 3.1589517,
+        "lng": 101.7122778
+      },
+      "distanceKm": 0.09112046089120496
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Bukit Anggerik",
+        "lat": 3.0579504,
+        "lng": 101.7483344
+      },
+      "stop": {
+        "id": "node/1999654301",
+        "name": "Komersial Taman Dahlia",
+        "type": "bus",
+        "lat": 3.0576657,
+        "lng": 101.7481683
+      },
+      "distanceKm": 0.03663780773525002
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Desa",
+        "lat": 3.100021,
+        "lng": 101.6874628
+      },
+      "stop": {
+        "id": "node/12541561748",
+        "name": "Danau Permai Condo",
+        "type": "bus",
+        "lat": 3.10092,
+        "lng": 101.6876449
+      },
+      "distanceKm": 0.10198850573793353
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Desa Setapak",
+        "lat": 3.1000208,
+        "lng": 101.6874339
+      },
+      "stop": {
+        "id": "node/12541561748",
+        "name": "Danau Permai Condo",
+        "type": "bus",
+        "lat": 3.10092,
+        "lng": 101.6876449
+      },
+      "distanceKm": 0.10269448359212774
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Exchange TRX",
+        "lat": 3.1420218,
+        "lng": 101.7176747
+      },
+      "stop": {
+        "id": "node/12065907813",
+        "name": "Coach Stop (TRX)",
+        "type": "bus",
+        "lat": 3.1422136,
+        "lng": 101.719827
+      },
+      "distanceKm": 0.23991486932567765
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The FLO Bandar Sri Damansara",
+        "lat": 3.1976399,
+        "lng": 101.6119319
+      },
+      "stop": {
+        "id": "node/9536046046",
+        "name": "8TRIUM Damansara (Opp)",
+        "type": "bus",
+        "lat": 3.1979367,
+        "lng": 101.6109053
+      },
+      "distanceKm": 0.11865693487786959
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Park Sky Residence, Bukit Jalil",
+        "lat": 3.0522692,
+        "lng": 101.6729611
+      },
+      "stop": {
+        "id": "node/12397632083",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.05333,
+        "lng": 101.6724896
+      },
+      "distanceKm": 0.12905216134644756
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tower 8, Horizon 2, Bangsar South",
+        "lat": 3.1104542,
+        "lng": 101.6657394
+      },
+      "stop": {
+        "id": "node/12122520957",
+        "name": "The Vertical",
+        "type": "bus",
+        "lat": 3.1101659,
+        "lng": 101.6658941
+      },
+      "distanceKm": 0.036369160300504765
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - UCSI University KL",
+        "lat": 3.0799456,
+        "lng": 101.7334423
+      },
+      "stop": {
+        "id": "node/4857222821",
+        "name": "Ikon Connaught",
+        "type": "bus",
+        "lat": 3.0818325,
+        "lng": 101.7320401
+      },
+      "distanceKm": 0.261269676467192
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - University of Malaya",
+        "lat": 3.1204906,
+        "lng": 101.6544121
+      },
+      "stop": {
+        "id": "node/10112911516",
+        "name": "UM Central",
+        "type": "bus",
+        "lat": 3.1210851,
+        "lng": 101.6536281
+      },
+      "distanceKm": 0.10930322788748245
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Wangsa Walk Mall",
+        "lat": 3.198408,
+        "lng": 101.7419051
+      },
+      "stop": {
+        "id": "node/9571021051",
+        "name": "Wangsa Walk Mall",
+        "type": "bus",
+        "lat": 3.1990973,
+        "lng": 101.7414724
+      },
+      "distanceKm": 0.09045697510898823
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Wisma TH Plaza Sentral",
+        "lat": 3.1356693,
+        "lng": 101.686099
+      },
+      "stop": {
+        "id": "node/5151040023",
+        "name": "Hop-on Hop-off Stop 6 - KL Sentral",
+        "type": "bus",
+        "lat": 3.1349633,
+        "lng": 101.6859995
+      },
+      "distanceKm": 0.07927711942736805
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Bandaraya Melaka",
+        "lat": 2.2154804,
+        "lng": 102.2453694
+      },
+      "stop": {
+        "id": "node/5456117023",
+        "name": "Jaya JUSCO",
+        "type": "bus",
+        "lat": 2.2167347,
+        "lng": 102.2479071
+      },
+      "distanceKm": 0.3145767235845774
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Alor Gajah",
+        "lat": 2.3842974,
+        "lng": 102.2165775
+      },
+      "stop": {
+        "id": "node/9032316291",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.3836786,
+        "lng": 102.2137368
+      },
+      "distanceKm": 0.32301173913018993
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Utama Cheng",
+        "lat": 2.2809838,
+        "lng": 102.2181162
+      },
+      "stop": {
+        "id": "node/12063555959",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.2784642,
+        "lng": 102.2151107
+      },
+      "distanceKm": 0.4358943440111677
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Dataran Pahlawan",
+        "lat": 2.1908449,
+        "lng": 102.2493316
+      },
+      "stop": {
+        "id": "node/3860942924",
+        "name": "Dataran Pahlawan Jalan Merdeka",
+        "type": "bus",
+        "lat": 2.1899515,
+        "lng": 102.2504336
+      },
+      "distanceKm": 0.15767713347118695
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - ElementX @ Hatten City",
+        "lat": 2.1820387,
+        "lng": 102.261806
+      },
+      "stop": {
+        "id": "node/11813761172",
+        "name": "Malacca Club",
+        "type": "bus",
+        "lat": 2.1841813,
+        "lng": 102.2585527
+      },
+      "distanceKm": 0.43293737646294295
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jonker Street",
+        "lat": 2.1958304,
+        "lng": 102.2475785
+      },
+      "stop": {
+        "id": "node/2913710279",
+        "name": "Christ Church Melaka",
+        "type": "bus",
+        "lat": 2.1945362,
+        "lng": 102.2491491
+      },
+      "distanceKm": 0.22619679593827063
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Mahkota Parade",
+        "lat": 2.1882873,
+        "lng": 102.2492708
+      },
+      "stop": {
+        "id": "node/5455337422",
+        "name": "Jalan Syed Abdul Aziz",
+        "type": "bus",
+        "lat": 2.187617,
+        "lng": 102.2493959
+      },
+      "distanceKm": 0.075819065278777
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Masjid Tanah",
+        "lat": 2.3515477,
+        "lng": 102.1146617
+      },
+      "stop": {
+        "id": "way/389489574",
+        "name": "Perhentian Bas dan Teksi Masjid Tanah",
+        "type": "bus",
+        "lat": 2.3518453,
+        "lng": 102.1105026
+      },
+      "distanceKm": 0.4632647167293541
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Melaka Kota Laksamana",
+        "lat": 2.1996228,
+        "lng": 102.2338266
+      },
+      "stop": {
+        "id": "node/12168624502",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.2029227,
+        "lng": 102.235417
+      },
+      "distanceKm": 0.4072677260493785
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Melaka Taman Merdeka",
+        "lat": 2.2642491,
+        "lng": 102.242947
+      },
+      "stop": {
+        "id": "node/11155917960",
+        "name": "Taman Merdeka",
+        "type": "bus",
+        "lat": 2.2671313,
+        "lng": 102.2440907
+      },
+      "distanceKm": 0.3447595461644941
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MITC Melaka",
+        "lat": 2.2684132,
+        "lng": 102.2922889
+      },
+      "stop": {
+        "id": "node/12162293966",
+        "name": "Mydin MITC",
+        "type": "bus",
+        "lat": 2.2704937,
+        "lng": 102.2918248
+      },
+      "distanceKm": 0.23701822167779077
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MMU Melaka (Plaza Siswa Building)",
+        "lat": 2.2508424,
+        "lng": 102.2765105
+      },
+      "stop": {
+        "id": "node/12162293971",
+        "name": "MMU Melaka",
+        "type": "bus",
+        "lat": 2.2523571,
+        "lng": 102.2760709
+      },
+      "distanceKm": 0.17536627874773203
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Pandan Malim",
+        "lat": 2.228497,
+        "lng": 102.2266754
+      },
+      "stop": {
+        "id": "node/12063574181",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.2264659,
+        "lng": 102.2302152
+      },
+      "distanceKm": 0.4535420450174085
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Teknikal Malaysia Melaka (UTeM)",
+        "lat": 2.3137974,
+        "lng": 102.3211155
+      },
+      "stop": {
+        "id": "node/14078098001",
+        "name": "M10A",
+        "type": "bus",
+        "lat": 2.313396,
+        "lng": 102.3198734
+      },
+      "distanceKm": 0.14504099010974314
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Nilai",
+        "lat": 2.8181299,
+        "lng": 101.7906505
+      },
+      "stop": {
+        "id": "node/7265910301",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.8221562,
+        "lng": 101.7919523
+      },
+      "distanceKm": 0.4704698286647363
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - CALTEX Temiang",
+        "lat": 2.7481033,
+        "lng": 101.9430693
+      },
+      "stop": {
+        "id": "node/14045981382",
+        "name": "Taman Bukit Zamrud 1",
+        "type": "bus",
+        "lat": 2.7503244,
+        "lng": 101.9413291
+      },
+      "distanceKm": 0.31361334779814903
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Gemas",
+        "lat": 2.5807541,
+        "lng": 102.612178
+      },
+      "stop": {
+        "id": "node/9260017644",
+        "name": "Gemas",
+        "type": "rail",
+        "lat": 2.57974,
+        "lng": 102.6137603
+      },
+      "distanceKm": 0.20882744632519137
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Dato Sheikh Ahmad, Seremban",
+        "lat": 2.724342,
+        "lng": 101.9393755
+      },
+      "stop": {
+        "id": "node/8049569846",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.7226007,
+        "lng": 101.9394071
+      },
+      "distanceKm": 0.19365553390366375
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Gurney, Bahau",
+        "lat": 3.1679673,
+        "lng": 101.7211992
+      },
+      "stop": {
+        "id": "node/10606168216",
+        "name": "UniKL",
+        "type": "bus",
+        "lat": 3.1674062,
+        "lng": 101.7204844
+      },
+      "distanceKm": 0.10094956833882804
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lotus’s Nilai",
+        "lat": 2.8159718,
+        "lng": 101.7904683
+      },
+      "stop": {
+        "id": "node/12803535466",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.8129464,
+        "lng": 101.7926382
+      },
+      "distanceKm": 0.41382083618571236
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Palm Mall Seremban",
+        "lat": 2.7194128,
+        "lng": 101.9229712
+      },
+      "stop": {
+        "id": "node/12622886691",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.7211353,
+        "lng": 101.9222963
+      },
+      "distanceKm": 0.20567966656452635
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - PD Waterfront",
+        "lat": 2.5219036,
+        "lng": 101.8027087
+      },
+      "stop": {
+        "id": "node/4861632057",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.5261465,
+        "lng": 101.8020525
+      },
+      "distanceKm": 0.47738720696566256
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pusat Bandar Putra Nilai",
+        "lat": 2.8143405,
+        "lng": 101.7971551
+      },
+      "stop": {
+        "id": "node/12718998818",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.8117442,
+        "lng": 101.8006438
+      },
+      "distanceKm": 0.4831862488730151
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pusat Komersial Rasah Prima",
+        "lat": 2.6887465,
+        "lng": 101.9333009
+      },
+      "stop": {
+        "id": "node/9917404842",
+        "name": "Jalan Rasah",
+        "type": "bus",
+        "lat": 2.6892942,
+        "lng": 101.9341612
+      },
+      "distanceKm": 0.11331316091985102
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seremban Prima Mall",
+        "lat": 2.7250222,
+        "lng": 101.9388397
+      },
+      "stop": {
+        "id": "node/11458763155",
+        "name": "KM Plaza",
+        "type": "bus",
+        "lat": 2.7228443,
+        "lng": 101.9377428
+      },
+      "distanceKm": 0.2710904173843886
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Seri Rembau",
+        "lat": 2.591046,
+        "lng": 102.0995776
+      },
+      "stop": {
+        "id": "node/8026109996",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.5878402,
+        "lng": 102.0985696
+      },
+      "distanceKm": 0.3736404963069085
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tampin",
+        "lat": 2.4687427,
+        "lng": 102.2316421
+      },
+      "stop": {
+        "id": "node/1574152884",
+        "name": "Tampin Bus Terminal",
+        "type": "bus",
+        "lat": 2.4665236,
+        "lng": 102.2302564
+      },
+      "distanceKm": 0.29083393527452517
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Balok Kuantan",
+        "lat": 3.9344297,
+        "lng": 103.3666616
+      },
+      "stop": {
+        "id": "node/13609039977",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.934666,
+        "lng": 103.3686658
+      },
+      "distanceKm": 0.223878857304505
+    },
+    {
+      "outlet": {
+        "name": "Zus Coffee - Bandar Baru Jerantut",
+        "lat": 3.938761,
+        "lng": 102.361721
+      },
+      "stop": {
+        "id": "way/881634959",
+        "name": "Jerantut Bus Terminal",
+        "type": "bus",
+        "lat": 3.9397956,
+        "lng": 102.3577279
+      },
+      "distanceKm": 0.4576585388639879
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bentong",
+        "lat": 3.5245905,
+        "lng": 101.9079271
+      },
+      "stop": {
+        "id": "node/9751344116",
+        "name": "Hentian Raya Bentong",
+        "type": "bus",
+        "lat": 3.5220128,
+        "lng": 101.9101215
+      },
+      "distanceKm": 0.37612401141212165
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Cameron Centrum",
+        "lat": 4.4950737,
+        "lng": 101.3896926
+      },
+      "stop": {
+        "id": "node/4718312193",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.4917173,
+        "lng": 101.3886618
+      },
+      "distanceKm": 0.39031554195712953
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Indera Mahkota 7, Kuantan",
+        "lat": 3.8346565,
+        "lng": 103.3005343
+      },
+      "stop": {
+        "id": "node/5404964669",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.8357618,
+        "lng": 103.3041204
+      },
+      "distanceKm": 0.41641374294273215
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuala Lipis PP Barry",
+        "lat": 4.1889518,
+        "lng": 102.0494547
+      },
+      "stop": {
+        "id": "node/13518302644",
+        "name": "Central Bus Station For Bus To Jerantut and Raub",
+        "type": "bus",
+        "lat": 4.1885719,
+        "lng": 102.0528449
+      },
+      "distanceKm": 0.37833181118095527
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Raub",
+        "lat": 3.7904478,
+        "lng": 101.8560938
+      },
+      "stop": {
+        "id": "node/9753974341",
+        "name": "Raub Bus Terminal",
+        "type": "bus",
+        "lat": 3.7925034,
+        "lng": 101.8562121
+      },
+      "distanceKm": 0.2289488433548486
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - SkyAvenue",
+        "lat": 3.4250431,
+        "lng": 101.7963938
+      },
+      "stop": {
+        "id": "way/1210090689",
+        "name": "Genting Sentral Bus Terminal",
+        "type": "bus",
+        "lat": 3.4237568,
+        "lng": 101.7964784
+      },
+      "distanceKm": 0.1433379513357435
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Temerloh",
+        "lat": 3.4486265,
+        "lng": 102.4161783
+      },
+      "stop": {
+        "id": "way/366248661",
+        "name": "Terminal Bas Ekspress Temerloh",
+        "type": "bus",
+        "lat": 3.4496654,
+        "lng": 102.4153427
+      },
+      "distanceKm": 0.14814458426373794
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Ipoh Klebang",
+        "lat": 4.6773225,
+        "lng": 101.1229943
+      },
+      "stop": {
+        "id": "node/7288872863",
+        "name": "Aeon Klebang",
+        "type": "bus",
+        "lat": 4.6765615,
+        "lng": 101.1209715
+      },
+      "distanceKm": 0.23961507342624666
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Ipoh Station 18",
+        "lat": 4.5436839,
+        "lng": 101.0714925
+      },
+      "stop": {
+        "id": "node/7282100941",
+        "name": "Aeon Station 18",
+        "type": "bus",
+        "lat": 4.5435388,
+        "lng": 101.0715215
+      },
+      "distanceKm": 0.016451488496945967
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Kinta City",
+        "lat": 4.6134754,
+        "lng": 101.1188931
+      },
+      "stop": {
+        "id": "node/7199982635",
+        "name": "Aeon Ipoh Jalan Jambu",
+        "type": "bus",
+        "lat": 4.6147671,
+        "lng": 101.1196708
+      },
+      "distanceKm": 0.16750961953234597
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Baru Teluk Intan",
+        "lat": 4.0194085,
+        "lng": 101.0226444
+      },
+      "stop": {
+        "id": "way/555568367",
+        "name": "Terminal Intan",
+        "type": "bus",
+        "lat": 4.0181564,
+        "lng": 101.021203
+      },
+      "distanceKm": 0.21200599983476992
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bidor, Perak",
+        "lat": 4.1133646,
+        "lng": 101.2872988
+      },
+      "stop": {
+        "id": "node/6432229632",
+        "name": "Bidor Bus Station",
+        "type": "bus",
+        "lat": 4.1116792,
+        "lng": 101.288814
+      },
+      "distanceKm": 0.2517183119500275
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Chemor, Perak",
+        "lat": 4.7181253,
+        "lng": 101.1205737
+      },
+      "stop": {
+        "id": "node/12419760565",
+        "name": "Pekan Chemor",
+        "type": "bus",
+        "lat": 4.7195587,
+        "lng": 101.1212025
+      },
+      "distanceKm": 0.17395340538165863
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Greentown Business Centre",
+        "lat": 4.5997565,
+        "lng": 101.0957454
+      },
+      "stop": {
+        "id": "node/2927534363",
+        "name": "CIMB Bank Greentown",
+        "type": "bus",
+        "lat": 4.5985422,
+        "lng": 101.0953405
+      },
+      "distanceKm": 0.1422866906157745
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Gunung Rapat, Ipoh",
+        "lat": 4.5720477,
+        "lng": 101.1141926
+      },
+      "stop": {
+        "id": "node/7236339705",
+        "name": "OldTown Gunung Rapat",
+        "type": "bus",
+        "lat": 4.5715314,
+        "lng": 101.1135176
+      },
+      "distanceKm": 0.09430588034719473
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ipoh Bond Square",
+        "lat": 4.6184865,
+        "lng": 101.1162324
+      },
+      "stop": {
+        "id": "node/7203038320",
+        "name": "JPJ Negeri Perak",
+        "type": "bus",
+        "lat": 4.618616,
+        "lng": 101.1163371
+      },
+      "distanceKm": 0.018493579937868477
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ipoh Parade",
+        "lat": 4.597172,
+        "lng": 101.090072
+      },
+      "stop": {
+        "id": "node/7188025800",
+        "name": "Ipoh Parade",
+        "type": "bus",
+        "lat": 4.5977549,
+        "lng": 101.0896389
+      },
+      "distanceKm": 0.0806560267159848
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ipoh Pengkalan Station 18",
+        "lat": 4.5522461,
+        "lng": 101.0750381
+      },
+      "stop": {
+        "id": "node/7282100913",
+        "name": "Petronas Pasir Puteh",
+        "type": "bus",
+        "lat": 4.5541856,
+        "lng": 101.0752158
+      },
+      "distanceKm": 0.21656017835767757
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ipoh Sunway City",
+        "lat": 4.6202751,
+        "lng": 101.1470589
+      },
+      "stop": {
+        "id": "node/7203038329",
+        "name": "Extreme Park Tambun",
+        "type": "bus",
+        "lat": 4.6199372,
+        "lng": 101.1464799
+      },
+      "distanceKm": 0.07436291843279279
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Raja Omar, Sitiawan",
+        "lat": 4.2145529,
+        "lng": 100.6961747
+      },
+      "stop": {
+        "id": "node/7842097762",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.2123997,
+        "lng": 100.6965434
+      },
+      "distanceKm": 0.2428909585559756
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kampar",
+        "lat": 4.3260607,
+        "lng": 101.1454886
+      },
+      "stop": {
+        "id": "node/9482891717",
+        "name": "McDonalds Kampar, Jalan Batu Sinar",
+        "type": "bus",
+        "lat": 4.3259735,
+        "lng": 101.1443041
+      },
+      "distanceKm": 0.13169258415052149
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Medan Saujana Kamunting, Taiping",
+        "lat": 4.8745766,
+        "lng": 100.7278077
+      },
+      "stop": {
+        "id": "node/12182454701",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.8753849,
+        "lng": 100.7280748
+      },
+      "distanceKm": 0.09462525391943881
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Meru Raya",
+        "lat": 4.6723656,
+        "lng": 101.0747511
+      },
+      "stop": {
+        "id": "node/7190294622",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.6702219,
+        "lng": 101.0740126
+      },
+      "distanceKm": 0.25202802399409346
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MYDIN Parit Buntar",
+        "lat": 5.1285183,
+        "lng": 100.4825518
+      },
+      "stop": {
+        "id": "node/7043648758",
+        "name": "Pasaraya Mydin",
+        "type": "bus",
+        "lat": 5.1283311,
+        "lng": 100.4823488
+      },
+      "distanceKm": 0.030638907655439904
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pantai Remis",
+        "lat": 4.4465479,
+        "lng": 100.6266033
+      },
+      "stop": {
+        "id": "node/11503292219",
+        "name": "Jalan Besar Pantai Remis",
+        "type": "bus",
+        "lat": 4.4447996,
+        "lng": 100.62646
+      },
+      "distanceKm": 0.1950501139358225
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pejabat Pos Besar Ipoh",
+        "lat": 4.6012645,
+        "lng": 101.076264
+      },
+      "stop": {
+        "id": "node/6855554785",
+        "name": "SM St Michael",
+        "type": "bus",
+        "lat": 4.6000517,
+        "lng": 101.0767498
+      },
+      "distanceKm": 0.14520912711037265
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Gerik, Perak",
+        "lat": 5.4314175,
+        "lng": 101.1290597
+      },
+      "stop": {
+        "id": "way/569817114",
+        "name": "Gerik Bus Station",
+        "type": "bus",
+        "lat": 5.4305556,
+        "lng": 101.1289794
+      },
+      "distanceKm": 0.09625023716864785
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Langkap, Perak",
+        "lat": 4.078661,
+        "lng": 101.1513
+      },
+      "stop": {
+        "id": "node/5372506430",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.0804089,
+        "lng": 101.1496077
+      },
+      "distanceKm": 0.27019542161837556
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Sungkai",
+        "lat": 4.0068197,
+        "lng": 101.3053826
+      },
+      "stop": {
+        "id": "node/12418390492",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.0054913,
+        "lng": 101.3084673
+      },
+      "distanceKm": 0.37268679209431826
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Tapah",
+        "lat": 4.1965957,
+        "lng": 101.2625313
+      },
+      "stop": {
+        "id": "way/540403740",
+        "name": "Tapah Bus Station",
+        "type": "bus",
+        "lat": 4.1967357,
+        "lng": 101.2601241
+      },
+      "distanceKm": 0.26740425781371563
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seri Iskandar",
+        "lat": 4.357955,
+        "lng": 100.9684549
+      },
+      "stop": {
+        "id": "node/12697874816",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.3551078,
+        "lng": 100.9693449
+      },
+      "distanceKm": 0.33161595646632763
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Silibin",
+        "lat": 4.6083702,
+        "lng": 101.0606882
+      },
+      "stop": {
+        "id": "node/4607722207",
+        "name": "Maybank Silibin",
+        "type": "bus",
+        "lat": 4.6078232,
+        "lng": 101.0623182
+      },
+      "distanceKm": 0.19062586043140192
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Simpang Pulai, Perak",
+        "lat": 4.5277776,
+        "lng": 101.1268823
+      },
+      "stop": {
+        "id": "node/7279468106",
+        "name": "Klinik Kesihatan Desa Simpang Pulai",
+        "type": "bus",
+        "lat": 4.5304884,
+        "lng": 101.1294476
+      },
+      "distanceKm": 0.4143882332276446
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Slim River",
+        "lat": 3.8426664,
+        "lng": 101.3937513
+      },
+      "stop": {
+        "id": "node/12417966081",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.841383,
+        "lng": 101.3959471
+      },
+      "distanceKm": 0.2823345302225135
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sungai Siput",
+        "lat": 4.8167203,
+        "lng": 101.0776372
+      },
+      "stop": {
+        "id": "node/7945506042",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.8156101,
+        "lng": 101.0799394
+      },
+      "distanceKm": 0.283390206571336
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taiping Mall",
+        "lat": 4.8499974,
+        "lng": 100.7429479
+      },
+      "stop": {
+        "id": "way/1342691730",
+        "name": "Taiping Bus Terminal",
+        "type": "bus",
+        "lat": 4.8477087,
+        "lng": 100.7395233
+      },
+      "distanceKm": 0.45687772709440577
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Tasek Jaya, Ipoh",
+        "lat": 4.652598,
+        "lng": 101.1063363
+      },
+      "stop": {
+        "id": "node/7288872861",
+        "name": "Tasek",
+        "type": "bus",
+        "lat": 4.6513646,
+        "lng": 101.1052103
+      },
+      "distanceKm": 0.1854260608941574
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tanjung Malim",
+        "lat": 3.691283,
+        "lng": 101.5243252
+      },
+      "stop": {
+        "id": "node/8088949711",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.6922814,
+        "lng": 101.5244733
+      },
+      "distanceKm": 0.11222676684485149
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Tunku Abdul Rahman, Kampar (Student Pavilion I)",
+        "lat": 4.3084915,
+        "lng": 101.1536512
+      },
+      "stop": {
+        "id": "node/9482886952",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.3061886,
+        "lng": 101.1551675
+      },
+      "distanceKm": 0.30633232692908224
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Arau",
+        "lat": 6.4284712,
+        "lng": 100.2725874
+      },
+      "stop": {
+        "id": "node/2081262544",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 6.4294899,
+        "lng": 100.2720655
+      },
+      "distanceKm": 0.12710870535920624
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jetty Kuala Perlis",
+        "lat": 6.3978485,
+        "lng": 100.12836
+      },
+      "stop": {
+        "id": "way/546673882",
+        "name": "Kuala Perlis Bus Terminal",
+        "type": "bus",
+        "lat": 6.3974867,
+        "lng": 100.1308778
+      },
+      "distanceKm": 0.2811166348788571
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Aeon Mall Bukit Mertajam",
+        "lat": 5.3202158,
+        "lng": 100.4779502
+      },
+      "stop": {
+        "id": "node/5776270958",
+        "name": "AEON Pintu Utama",
+        "type": "bus",
+        "lat": 5.3197561,
+        "lng": 100.4769586
+      },
+      "distanceKm": 0.1211025500741731
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Alma @ Bukit Mertajam, Penang",
+        "lat": 5.3187184,
+        "lng": 100.4767468
+      },
+      "stop": {
+        "id": "node/5776271253",
+        "name": "AEON Pintu Utama",
+        "type": "bus",
+        "lat": 5.3190244,
+        "lng": 100.476875
+      },
+      "distanceKm": 0.03686745082870482
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bagan Ajam, Butterworth",
+        "lat": 5.4387122,
+        "lng": 100.3829481
+      },
+      "stop": {
+        "id": "node/6114785471",
+        "name": "Lotus's Bagan Ajam",
+        "type": "bus",
+        "lat": 5.4393565,
+        "lng": 100.3813782
+      },
+      "distanceKm": 0.18796763019654242
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Perda, Bukit Mertajam",
+        "lat": 5.3660959,
+        "lng": 100.4370419
+      },
+      "stop": {
+        "id": "node/5792601196",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.3652177,
+        "lng": 100.4360502
+      },
+      "distanceKm": 0.14693324172467864
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bayan Lepas",
+        "lat": 5.3296931,
+        "lng": 100.2753757
+      },
+      "stop": {
+        "id": "node/12117306351",
+        "name": "Setia Welcome Centre",
+        "type": "bus",
+        "lat": 5.3295979,
+        "lng": 100.278768
+      },
+      "distanceKm": 0.3757249517928659
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Beacon Executive Suites, Penang",
+        "lat": 5.4093986,
+        "lng": 100.3168012
+      },
+      "stop": {
+        "id": "node/9179072853",
+        "name": "Taman Zainal Abidin",
+        "type": "bus",
+        "lat": 5.4090401,
+        "lng": 100.3161151
+      },
+      "distanceKm": 0.08577679743330549
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Botanica Balik Pulau",
+        "lat": 5.3706764,
+        "lng": 100.2169418
+      },
+      "stop": {
+        "id": "node/9394842968",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.3697377,
+        "lng": 100.2164852
+      },
+      "distanceKm": 0.11597450141522193
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - CALTEX Bandar Putra Bertam",
+        "lat": 5.5198288,
+        "lng": 100.484461
+      },
+      "stop": {
+        "id": "node/6711701604",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.5206088,
+        "lng": 100.4856756
+      },
+      "distanceKm": 0.15998169318434244
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Design Village Outlet Mall",
+        "lat": 5.2441918,
+        "lng": 100.4373106
+      },
+      "stop": {
+        "id": "node/5746457355",
+        "name": "Hab Design Village",
+        "type": "bus",
+        "lat": 5.2438492,
+        "lng": 100.4387363
+      },
+      "distanceKm": 0.16239849355866692
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Eco Borealis",
+        "lat": 5.2365132,
+        "lng": 100.4432396
+      },
+      "stop": {
+        "id": "node/7174817702",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.2341888,
+        "lng": 100.4405539
+      },
+      "distanceKm": 0.39400937167545
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ferringhi Walk",
+        "lat": 5.4750544,
+        "lng": 100.24941
+      },
+      "stop": {
+        "id": "node/6605283504",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.475115,
+        "lng": 100.2503746
+      },
+      "distanceKm": 0.10698171481762002
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Gurney Paragon Mall Penang",
+        "lat": 5.4351948,
+        "lng": 100.3104677
+      },
+      "stop": {
+        "id": "node/5784557649",
+        "name": "Hab Gurney Paragon",
+        "type": "bus",
+        "lat": 5.4353151,
+        "lng": 100.3098896
+      },
+      "distanceKm": 0.0653759264900411
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Iconic Point Simpang Ampat",
+        "lat": 5.2838146,
+        "lng": 100.4750919
+      },
+      "stop": {
+        "id": "node/11236781828",
+        "name": "Balai Polis Simpang Empat",
+        "type": "bus",
+        "lat": 5.2836094,
+        "lng": 100.4765145
+      },
+      "distanceKm": 0.15915780975208818
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - IKEA Batu Kawan Link Building (Klippa)",
+        "lat": 5.2340905,
+        "lng": 100.4398
+      },
+      "stop": {
+        "id": "node/7174817702",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.2341888,
+        "lng": 100.4405539
+      },
+      "distanceKm": 0.08419284990684407
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Balik Pulau, Penang",
+        "lat": 5.3511509,
+        "lng": 100.2352936
+      },
+      "stop": {
+        "id": "node/7559126512",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.3512805,
+        "lng": 100.2370574
+      },
+      "distanceKm": 0.1958018777422529
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jelutong",
+        "lat": 5.3959667,
+        "lng": 100.3167181
+      },
+      "stop": {
+        "id": "node/9111234360",
+        "name": "Hong Leong Bank Jelutong",
+        "type": "bus",
+        "lat": 5.3958647,
+        "lng": 100.3175176
+      },
+      "distanceKm": 0.08923015540501446
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Karpal Singh Drive, Penang",
+        "lat": 5.3980621,
+        "lng": 100.3298405
+      },
+      "stop": {
+        "id": "node/10042753271",
+        "name": "Persiaran Karpal Singh",
+        "type": "bus",
+        "lat": 5.3984558,
+        "lng": 100.3305884
+      },
+      "distanceKm": 0.09365513955530956
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kepala Batas Pokok Sena",
+        "lat": 5.4897039,
+        "lng": 100.4567627
+      },
+      "stop": {
+        "id": "node/6533388731",
+        "name": "Taman Sena Jaya 1",
+        "type": "bus",
+        "lat": 5.4887418,
+        "lng": 100.4585266
+      },
+      "distanceKm": 0.22262627010922212
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Klippa Shopping Centre",
+        "lat": 5.2340905,
+        "lng": 100.4398
+      },
+      "stop": {
+        "id": "node/7174817702",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.2341888,
+        "lng": 100.4405539
+      },
+      "distanceKm": 0.08419284990684407
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Komtar Walk",
+        "lat": 5.4152023,
+        "lng": 100.3309542
+      },
+      "stop": {
+        "id": "node/10983641105",
+        "name": "Express Bus Counters (GJG, Billion Star, Super Nice)",
+        "type": "bus",
+        "lat": 5.4147066,
+        "lng": 100.3307787
+      },
+      "distanceKm": 0.05844289970382745
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Macalister, Georgetown",
+        "lat": 5.4168849,
+        "lng": 100.3225119
+      },
+      "stop": {
+        "id": "node/6605390793",
+        "name": "Ayam Garam Macalister",
+        "type": "bus",
+        "lat": 5.4171661,
+        "lng": 100.3222562
+      },
+      "distanceKm": 0.04217693074413436
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Maju Utama, Penang",
+        "lat": 5.3520296,
+        "lng": 100.4709064
+      },
+      "stop": {
+        "id": "node/5564835683",
+        "name": "Sentosa Residence",
+        "type": "bus",
+        "lat": 5.354082,
+        "lng": 100.4707224
+      },
+      "distanceKm": 0.22912380672711205
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MYDIN Bukit Mertajam",
+        "lat": 5.3682506,
+        "lng": 100.4145476
+      },
+      "stop": {
+        "id": "node/6116119572",
+        "name": "Mydin Mall",
+        "type": "bus",
+        "lat": 5.36968,
+        "lng": 100.4151627
+      },
+      "distanceKm": 0.1729150781807146
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Nibong Tebal C-Mart",
+        "lat": 5.1783083,
+        "lng": 100.4814951
+      },
+      "stop": {
+        "id": "node/7054441038",
+        "name": "Pasaraya C-MART",
+        "type": "bus",
+        "lat": 5.1768874,
+        "lng": 100.4817652
+      },
+      "distanceKm": 0.16080326955774155
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pearl City Mall",
+        "lat": 5.2769312,
+        "lng": 100.490603
+      },
+      "stop": {
+        "id": "node/7099779207",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.2779065,
+        "lng": 100.4906387
+      },
+      "distanceKm": 0.10852042634240947
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Penang Ayer Itam",
+        "lat": 5.3967684,
+        "lng": 100.2868063
+      },
+      "stop": {
+        "id": "node/6854380726",
+        "name": "Pasaraya Sunshine Farlim",
+        "type": "bus",
+        "lat": 5.3957595,
+        "lng": 100.2865919
+      },
+      "distanceKm": 0.11466779837390415
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Gurney",
+        "lat": 5.4287817,
+        "lng": 100.3207271
+      },
+      "stop": {
+        "id": "node/11645184166",
+        "name": "Sri Pangkor Kondominium",
+        "type": "bus",
+        "lat": 5.4286869,
+        "lng": 100.3197078
+      },
+      "distanceKm": 0.11332394865474724
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Queens Waterfront, Bayan Lepas",
+        "lat": 5.3326263,
+        "lng": 100.3097075
+      },
+      "stop": {
+        "id": "node/1674110999",
+        "name": "Queensbay Mall",
+        "type": "bus",
+        "lat": 5.3322205,
+        "lng": 100.3075619
+      },
+      "distanceKm": 0.24179497036396688
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Queensbay Mall",
+        "lat": 5.3330488,
+        "lng": 100.3065283
+      },
+      "stop": {
+        "id": "node/1674110999",
+        "name": "Queensbay Mall",
+        "type": "bus",
+        "lat": 5.3322205,
+        "lng": 100.3075619
+      },
+      "distanceKm": 0.14689444258719275
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Raja Uda Butterworth, Penang",
+        "lat": 5.4149836,
+        "lng": 100.3789191
+      },
+      "stop": {
+        "id": "node/6220844586",
+        "name": "Pusat Perniagaan Raja Uda 2",
+        "type": "bus",
+        "lat": 5.4161766,
+        "lng": 100.3796758
+      },
+      "distanceKm": 0.15688904960680805
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seberang Perai",
+        "lat": 5.3698461,
+        "lng": 100.4161562
+      },
+      "stop": {
+        "id": "node/5840856788",
+        "name": "Mydin Mall",
+        "type": "bus",
+        "lat": 5.3698293,
+        "lng": 100.4155986
+      },
+      "distanceKm": 0.061758445181712154
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Straits City, Penang",
+        "lat": 5.4042332,
+        "lng": 100.3685363
+      },
+      "stop": {
+        "id": "node/6351746788",
+        "name": "Jabatan Pertanian",
+        "type": "bus",
+        "lat": 5.4052209,
+        "lng": 100.3693762
+      },
+      "distanceKm": 0.14389864384191542
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sungai 2, Butterworth",
+        "lat": 5.4451472,
+        "lng": 100.4299701
+      },
+      "stop": {
+        "id": "node/12906460075",
+        "name": "Taman Pengkalan Machang",
+        "type": "bus",
+        "lat": 5.44393,
+        "lng": 100.43013
+      },
+      "distanceKm": 0.13649890236558615
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Carnival Mall",
+        "lat": 5.398531,
+        "lng": 100.3980387
+      },
+      "stop": {
+        "id": "node/10044599038",
+        "name": "Sunway Carnival Mall",
+        "type": "bus",
+        "lat": 5.3982343,
+        "lng": 100.3986391
+      },
+      "distanceKm": 0.07420296725569296
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Ara Jaya",
+        "lat": 5.4380561,
+        "lng": 100.5137564
+      },
+      "stop": {
+        "id": "node/7175191860",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.4375142,
+        "lng": 100.5129205
+      },
+      "distanceKm": 0.11041995355970322
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Chai Leng",
+        "lat": 5.3857278,
+        "lng": 100.3917272
+      },
+      "stop": {
+        "id": "node/12906395299",
+        "name": "Pangsapuri Taman Chai Leng",
+        "type": "bus",
+        "lat": 5.384123,
+        "lng": 100.39255
+      },
+      "distanceKm": 0.20034908120757644
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Machang Bubok",
+        "lat": 5.3322366,
+        "lng": 100.5037464
+      },
+      "stop": {
+        "id": "node/11017538002",
+        "name": "SK Machang Bubok I",
+        "type": "bus",
+        "lat": 5.3303384,
+        "lng": 100.5036676
+      },
+      "distanceKm": 0.2112504345337445
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tanjung Tokong",
+        "lat": 5.4553703,
+        "lng": 100.3075748
+      },
+      "stop": {
+        "id": "node/1712373176",
+        "name": "Masjid Karwa",
+        "type": "bus",
+        "lat": 5.4557803,
+        "lng": 100.3072864
+      },
+      "distanceKm": 0.055655559084856726
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tree Square, Tanjung Bungah",
+        "lat": 5.4632774,
+        "lng": 100.2880142
+      },
+      "stop": {
+        "id": "node/12645398908",
+        "name": "Pasar Mini",
+        "type": "bus",
+        "lat": 5.4621111,
+        "lng": 100.2899412
+      },
+      "distanceKm": 0.249630315136632
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Sains Malaysia (Cabin In The Woods)",
+        "lat": 5.3537477,
+        "lng": 100.3013622
+      },
+      "stop": {
+        "id": "node/1817092344",
+        "name": "USM",
+        "type": "bus",
+        "lat": 5.3529484,
+        "lng": 100.3020135
+      },
+      "distanceKm": 0.11444868871914259
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee DT - Metrioplace Batu Kawan",
+        "lat": 5.2654661,
+        "lng": 100.4513614
+      },
+      "stop": {
+        "id": "node/5748822088",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.2674922,
+        "lng": 100.4511324
+      },
+      "distanceKm": 0.22671444105162025
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Alamanda Putrajaya",
+        "lat": 2.9424517,
+        "lng": 101.7106958
+      },
+      "stop": {
+        "id": "node/11911562733",
+        "name": "Alamanda (Utara)",
+        "type": "bus",
+        "lat": 2.9413365,
+        "lng": 101.712095
+      },
+      "distanceKm": 0.1987957192414647
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - IOI City Mall",
+        "lat": 2.9692076,
+        "lng": 101.7123883
+      },
+      "stop": {
+        "id": "node/10199041361",
+        "name": "Terminal IOI City Mall",
+        "type": "bus",
+        "lat": 2.9696752,
+        "lng": 101.7106603
+      },
+      "distanceKm": 0.19880647308298832
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jabatan Peguam Negara, Putrajaya",
+        "lat": 2.9056487,
+        "lng": 101.6816023
+      },
+      "stop": {
+        "id": "node/11269420615",
+        "name": "Kementerian KLBW (Barat)",
+        "type": "bus",
+        "lat": 2.9048364,
+        "lng": 101.681133
+      },
+      "distanceKm": 0.10428092371856344
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Selera Putra, Souq Putrajaya",
+        "lat": 2.9344772,
+        "lng": 101.6897945
+      },
+      "stop": {
+        "id": "node/5645453821",
+        "name": "Putra Square",
+        "type": "bus",
+        "lat": 2.934596,
+        "lng": 101.6904566
+      },
+      "distanceKm": 0.07470287527111395
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Suasana PjH Presint 2",
+        "lat": 2.925546,
+        "lng": 101.6871191
+      },
+      "stop": {
+        "id": "node/11189661428",
+        "name": "Perbendaharaan 2 (Opp)",
+        "type": "bus",
+        "lat": 2.9249807,
+        "lng": 101.6874235
+      },
+      "distanceKm": 0.071371390993494
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Aeropod Commercial Square",
+        "lat": 5.9369471,
+        "lng": 116.05542
+      },
+      "stop": {
+        "id": "node/4210139552",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.9338606,
+        "lng": 116.0548309
+      },
+      "distanceKm": 0.34933280600427186
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Centrepoint Sabah Shopping Mall",
+        "lat": 5.9779224,
+        "lng": 116.0720685
+      },
+      "stop": {
+        "id": "node/1343196130",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.9779981,
+        "lng": 116.0722743
+      },
+      "distanceKm": 0.02426617430037816
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - EG Mall Inanam",
+        "lat": 6.0059942,
+        "lng": 116.1452371
+      },
+      "stop": {
+        "id": "node/12067439372",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 6.0070858,
+        "lng": 116.1448956
+      },
+      "distanceKm": 0.1271194778676485
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Garden City, Tawau",
+        "lat": 4.2518857,
+        "lng": 117.8970205
+      },
+      "stop": {
+        "id": "node/11929835961",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.2520065,
+        "lng": 117.8972032
+      },
+      "distanceKm": 0.0243078419709569
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Imago Shopping Mall",
+        "lat": 5.9775971,
+        "lng": 116.0720548
+      },
+      "stop": {
+        "id": "node/1343196130",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.9779981,
+        "lng": 116.0722743
+      },
+      "distanceKm": 0.050768576071948804
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Karamunsing Shopping Complex",
+        "lat": 5.9708107,
+        "lng": 116.0751329
+      },
+      "stop": {
+        "id": "node/4945492522",
+        "name": "Karamunsing",
+        "type": "bus",
+        "lat": 5.9698461,
+        "lng": 116.0745385
+      },
+      "distanceKm": 0.12579985421650247
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kingfisher Plaza",
+        "lat": 6.0161682,
+        "lng": 116.1224676
+      },
+      "stop": {
+        "id": "node/12087291714",
+        "name": "Taman Kingfisher",
+        "type": "bus",
+        "lat": 6.0186536,
+        "lng": 116.1215832
+      },
+      "distanceKm": 0.29315801612742065
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Shell, Kota Kinabalu",
+        "lat": 5.9772231,
+        "lng": 116.0747608
+      },
+      "stop": {
+        "id": "node/4210148103",
+        "name": "Bandaran Berjaya Wisma Budaya KK22",
+        "type": "bus",
+        "lat": 5.9764498,
+        "lng": 116.0752623
+      },
+      "distanceKm": 0.1023215857516815
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Suria Sabah Shopping Mall",
+        "lat": 5.9869486,
+        "lng": 116.0772755
+      },
+      "stop": {
+        "id": "node/4723902487",
+        "name": "Suria Sabah",
+        "type": "bus",
+        "lat": 5.987527,
+        "lng": 116.078065
+      },
+      "distanceKm": 0.10844072412068471
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - T2@Apas, Tawau",
+        "lat": 4.2521936,
+        "lng": 117.9118558
+      },
+      "stop": {
+        "id": "node/11940411299",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.252138,
+        "lng": 117.9140609
+      },
+      "distanceKm": 0.2445991477656061
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Aeon Mall Kuching Central",
+        "lat": 1.5280456,
+        "lng": 110.33724
+      },
+      "stop": {
+        "id": "node/4227736050",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.5269098,
+        "lng": 110.3411585
+      },
+      "distanceKm": 0.45350320855282383
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Boulevard Shopping Mall Kuching",
+        "lat": 1.5095957,
+        "lng": 110.3359457
+      },
+      "stop": {
+        "id": "node/10963184456",
+        "name": "Boelevard Transit Point",
+        "type": "bus",
+        "lat": 1.509813,
+        "lng": 110.3356224
+      },
+      "distanceKm": 0.04330462512901583
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Boulevard Shopping Mall Miri",
+        "lat": 4.41514,
+        "lng": 114.012903
+      },
+      "stop": {
+        "id": "way/1233850548",
+        "name": "Pujut Corner Bus Terminal",
+        "type": "bus",
+        "lat": 4.4146008,
+        "lng": 114.0162689
+      },
+      "distanceKm": 0.37794641728106865
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Galacity Kuching",
+        "lat": 1.5121159,
+        "lng": 110.3525815
+      },
+      "stop": {
+        "id": "node/3579940093",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.510188,
+        "lng": 110.3509954
+      },
+      "distanceKm": 0.2775591543756959
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Miri Times Square",
+        "lat": 4.3931202,
+        "lng": 113.9861439
+      },
+      "stop": {
+        "id": "way/262797507",
+        "name": "Miri Public Bus Station",
+        "type": "bus",
+        "lat": 4.3901758,
+        "lng": 113.9873664
+      },
+      "distanceKm": 0.3543479719270658
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Merdeka Kuching",
+        "lat": 1.558561,
+        "lng": 110.3440205
+      },
+      "stop": {
+        "id": "node/4227733031",
+        "name": "Bus 1A to Bako National Park",
+        "type": "bus",
+        "lat": 1.5593671,
+        "lng": 110.3438277
+      },
+      "distanceKm": 0.09216050832234049
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Saradise Kuching",
+        "lat": 1.5051329,
+        "lng": 110.3594197
+      },
+      "stop": {
+        "id": "node/11464727296",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.50659,
+        "lng": 110.3611059
+      },
+      "distanceKm": 0.24775385735847702
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sentosa Parade, Kuching",
+        "lat": 1.4666172,
+        "lng": 110.327777
+      },
+      "stop": {
+        "id": "node/4227736018",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.4681056,
+        "lng": 110.330097
+      },
+      "distanceKm": 0.30642636780416627
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Hills Kuching",
+        "lat": 1.5557,
+        "lng": 110.3511749
+      },
+      "stop": {
+        "id": "node/4959506929",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.5580946,
+        "lng": 110.351802
+      },
+      "distanceKm": 0.2752399749955015
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee DT - Jalan Rock, Kuching",
+        "lat": 1.527917,
+        "lng": 110.3411257
+      },
+      "stop": {
+        "id": "node/4227736051",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 1.5269567,
+        "lng": 110.3414294
+      },
+      "distanceKm": 0.11198959075644402
+    },
+    {
+      "outlet": {
+        "name": "ZUS BUKIT TINGGI 2",
+        "lat": 2.9977915,
+        "lng": 101.443551
+      },
+      "stop": {
+        "id": "node/12633523271",
+        "name": "Botanic Avenue 1",
+        "type": "bus",
+        "lat": 2.998364,
+        "lng": 101.443862
+      },
+      "distanceKm": 0.07242304622484896
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - ?Cheras Trader Square",
+        "lat": 3.0354994,
+        "lng": 101.764128
+      },
+      "stop": {
+        "id": "node/13797649702",
+        "name": "Pusat Komersial C180",
+        "type": "bus",
+        "lat": 3.0344827,
+        "lng": 101.7661382
+      },
+      "distanceKm": 0.25020724588767634
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - 1 Utama Shopping Centre",
+        "lat": 3.1510155,
+        "lng": 101.6150932
+      },
+      "stop": {
+        "id": "node/9587339703",
+        "name": "One Utama New Wing",
+        "type": "bus",
+        "lat": 3.1506248,
+        "lng": 101.6146934
+      },
+      "distanceKm": 0.06211046803547839
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Bukit Raja",
+        "lat": 3.0606523,
+        "lng": 101.4724269
+      },
+      "stop": {
+        "id": "node/12704154490",
+        "name": "Klang Executive Club",
+        "type": "bus",
+        "lat": 3.0602016,
+        "lng": 101.4709735
+      },
+      "distanceKm": 0.16898266872051732
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Bukit Tinggi",
+        "lat": 2.9944746,
+        "lng": 101.4447314
+      },
+      "stop": {
+        "id": "node/2807845520",
+        "name": "AEON Bukit Tinggi",
+        "type": "bus",
+        "lat": 2.9946793,
+        "lng": 101.4455038
+      },
+      "distanceKm": 0.08873854142503583
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Cheras Selatan",
+        "lat": 3.0335617,
+        "lng": 101.7650425
+      },
+      "stop": {
+        "id": "node/10657547617",
+        "name": "AEON Cheras Selatan",
+        "type": "bus",
+        "lat": 3.032306,
+        "lng": 101.7655788
+      },
+      "distanceKm": 0.15179614468089234
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Shah Alam",
+        "lat": 3.0764767,
+        "lng": 101.5475599
+      },
+      "stop": {
+        "id": "node/12150362991",
+        "name": "AEON Mall Shah Alam",
+        "type": "bus",
+        "lat": 3.0762308,
+        "lng": 101.5493168
+      },
+      "distanceKm": 0.19698376227912395
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - AEON Mall Taman Equine Shopping Centre",
+        "lat": 2.995396,
+        "lng": 101.6750832
+      },
+      "stop": {
+        "id": "node/13144657159",
+        "name": "Equine Square",
+        "type": "bus",
+        "lat": 2.995299,
+        "lng": 101.6738977
+      },
+      "distanceKm": 0.13208261535914761
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Alam Avenue 2, Shah Alam Seksyen 16",
+        "lat": 3.0575829,
+        "lng": 101.490571
+      },
+      "stop": {
+        "id": "node/13510231695",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0572119,
+        "lng": 101.4907632
+      },
+      "distanceKm": 0.04644658166556223
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ampang Point",
+        "lat": 3.1577776,
+        "lng": 101.751394
+      },
+      "stop": {
+        "id": "node/7673037939",
+        "name": "Hab Ampang Point",
+        "type": "bus",
+        "lat": 3.1574039,
+        "lng": 101.7508162
+      },
+      "distanceKm": 0.07643319537972498
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Anggun City, Rawang",
+        "lat": 3.3174164,
+        "lng": 101.5360432
+      },
+      "stop": {
+        "id": "node/12848550219",
+        "name": "Anggun City",
+        "type": "bus",
+        "lat": 3.3170912,
+        "lng": 101.538745
+      },
+      "distanceKm": 0.30209507737241287
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Antara Gapi",
+        "lat": 3.4234383,
+        "lng": 101.6276952
+      },
+      "stop": {
+        "id": "node/9687186713",
+        "name": "Antara Gapi, Hulu Yam",
+        "type": "bus",
+        "lat": 3.4234697,
+        "lng": 101.6272827
+      },
+      "distanceKm": 0.04591898844423606
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Atria Shopping Gallery",
+        "lat": 3.1270653,
+        "lng": 101.6165142
+      },
+      "stop": {
+        "id": "node/11293730400",
+        "name": "Pos Damansara Jaya",
+        "type": "bus",
+        "lat": 3.1278552,
+        "lng": 101.615875
+      },
+      "distanceKm": 0.11292185709025246
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Atria Shopping Gallery",
+        "lat": 3.1265707,
+        "lng": 101.6162333
+      },
+      "stop": {
+        "id": "node/11293705940",
+        "name": "Atria",
+        "type": "bus",
+        "lat": 3.1266907,
+        "lng": 101.6175022
+      },
+      "distanceKm": 0.1415156846666128
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Baru Selayang",
+        "lat": 3.2565661,
+        "lng": 101.6563664
+      },
+      "stop": {
+        "id": "node/5781002253",
+        "name": "Dataran Bandar Baru Selayang",
+        "type": "bus",
+        "lat": 3.2558314,
+        "lng": 101.6569688
+      },
+      "distanceKm": 0.10557658542646077
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Bukit Raja",
+        "lat": 3.0844148,
+        "lng": 101.4425923
+      },
+      "stop": {
+        "id": "node/12714330512",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0852126,
+        "lng": 101.4457641
+      },
+      "distanceKm": 0.3631781174387932
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Country Homes Rawang",
+        "lat": 3.2109711,
+        "lng": 101.7485337
+      },
+      "stop": {
+        "id": "node/4206494089",
+        "name": "Melawati Mall",
+        "type": "bus",
+        "lat": 3.2089412,
+        "lng": 101.7487778
+      },
+      "distanceKm": 0.22733562754524064
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Kinrara 5, Puchong",
+        "lat": 3.0474434,
+        "lng": 101.646313
+      },
+      "stop": {
+        "id": "node/12944761589",
+        "name": "SMK Seksyen 4 BK (Opp)",
+        "type": "bus",
+        "lat": 3.0459305,
+        "lng": 101.6457106
+      },
+      "distanceKm": 0.18103705592367655
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Mahkota Cheras",
+        "lat": 3.0548041,
+        "lng": 101.7871487
+      },
+      "stop": {
+        "id": "node/9503818892",
+        "name": "Aeon Mahkota Cheras",
+        "type": "bus",
+        "lat": 3.0544419,
+        "lng": 101.7863055
+      },
+      "distanceKm": 0.10192130600103623
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Seri Coalfields",
+        "lat": 3.2467256,
+        "lng": 101.4745878
+      },
+      "stop": {
+        "id": "node/10799573899",
+        "name": "Komersial Seri Coalfields",
+        "type": "bus",
+        "lat": 3.2461384,
+        "lng": 101.472846
+      },
+      "distanceKm": 0.20409468746497386
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Seri Putra",
+        "lat": 2.8842787,
+        "lng": 101.7911616
+      },
+      "stop": {
+        "id": "node/13484488998",
+        "name": "Pusat Komersial Bandar Sri Putra",
+        "type": "bus",
+        "lat": 2.8870119,
+        "lng": 101.790966
+      },
+      "distanceKm": 0.30469326605203545
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Sungai Long",
+        "lat": 3.0406029,
+        "lng": 101.7928161
+      },
+      "stop": {
+        "id": "node/9465555078",
+        "name": "UTAR",
+        "type": "bus",
+        "lat": 3.0407795,
+        "lng": 101.7942647
+      },
+      "distanceKm": 0.16204442977597544
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Sunway",
+        "lat": 3.0722947,
+        "lng": 101.6094543
+      },
+      "stop": {
+        "id": "node/11862350523",
+        "name": "Sunway Metro/BRT Sunway Lagoon",
+        "type": "bus",
+        "lat": 3.0715912,
+        "lng": 101.6106439
+      },
+      "distanceKm": 0.1535132965695029
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Tasik Puteri",
+        "lat": 3.2833812,
+        "lng": 101.4734427
+      },
+      "stop": {
+        "id": "node/10599838404",
+        "name": "SK Tasik Puteri 2 (Opp)",
+        "type": "bus",
+        "lat": 3.2815355,
+        "lng": 101.4745127
+      },
+      "distanceKm": 0.23712836040136026
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bandar Teknologi Kajang",
+        "lat": 2.9706728,
+        "lng": 101.8269388
+      },
+      "stop": {
+        "id": "node/5244574919",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.9685773,
+        "lng": 101.8252931
+      },
+      "distanceKm": 0.2961248417491009
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Banting",
+        "lat": 2.8132004,
+        "lng": 101.5024502
+      },
+      "stop": {
+        "id": "node/11017984287",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.8135319,
+        "lng": 101.5026147
+      },
+      "distanceKm": 0.041140215768173574
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Batang Kali",
+        "lat": 3.4619768,
+        "lng": 101.6576058
+      },
+      "stop": {
+        "id": "node/9703301715",
+        "name": "Perpustakaan Desa Sungai Masin, Jalan Batang Kali",
+        "type": "bus",
+        "lat": 3.4649592,
+        "lng": 101.6580716
+      },
+      "distanceKm": 0.33563351075777176
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - BMC Mall",
+        "lat": 3.0548041,
+        "lng": 101.7871487
+      },
+      "stop": {
+        "id": "node/9503818892",
+        "name": "Aeon Mahkota Cheras",
+        "type": "bus",
+        "lat": 3.0544419,
+        "lng": 101.7863055
+      },
+      "distanceKm": 0.10192130600103623
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bukit Sentosa",
+        "lat": 3.4033932,
+        "lng": 101.5604552
+      },
+      "stop": {
+        "id": "node/9665197326",
+        "name": "Bunga Kertas 1D, Jalan Bukit Sentosa 1",
+        "type": "bus",
+        "lat": 3.4025144,
+        "lng": 101.5610804
+      },
+      "distanceKm": 0.11985282719995922
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Bukit Tinggi 1",
+        "lat": 3.0086592,
+        "lng": 101.4345441
+      },
+      "stop": {
+        "id": "node/13992776474",
+        "name": "Giant Bukit Tinggi Klang",
+        "type": "bus",
+        "lat": 3.0069193,
+        "lng": 101.4345514
+      },
+      "distanceKm": 0.1934697510230557
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - CALTEX Sungai Choh",
+        "lat": 3.3434899,
+        "lng": 101.587386
+      },
+      "stop": {
+        "id": "node/9473475594",
+        "name": "Kampung Tanjung, Rawang",
+        "type": "bus",
+        "lat": 3.343368,
+        "lng": 101.5876243
+      },
+      "distanceKm": 0.02972324841129336
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Central I-City",
+        "lat": 3.062446,
+        "lng": 101.481751
+      },
+      "stop": {
+        "id": "node/12451133769",
+        "name": "i-City Mall",
+        "type": "bus",
+        "lat": 3.0630419,
+        "lng": 101.4812535
+      },
+      "distanceKm": 0.08626723568832638
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Centrepoint Bandar Utama",
+        "lat": 3.1375688,
+        "lng": 101.6098671
+      },
+      "stop": {
+        "id": "node/11293505534",
+        "name": "Centre Point Bandar Utama",
+        "type": "bus",
+        "lat": 3.1375769,
+        "lng": 101.609257
+      },
+      "distanceKm": 0.06774431967966708
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Centro Mall",
+        "lat": 3.0528328,
+        "lng": 101.4628554
+      },
+      "stop": {
+        "id": "node/7806480620",
+        "name": "Centro Klang",
+        "type": "bus",
+        "lat": 3.0535475,
+        "lng": 101.4631753
+      },
+      "distanceKm": 0.08704807162859926
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Citta Mall",
+        "lat": 3.1127129,
+        "lng": 101.5805532
+      },
+      "stop": {
+        "id": "node/9596306252",
+        "name": "Citta Mall",
+        "type": "bus",
+        "lat": 3.1117723,
+        "lng": 101.5795326
+      },
+      "distanceKm": 0.15420785626494674
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Cyberview 23A, Cyberjaya",
+        "lat": 2.9138771,
+        "lng": 101.657763
+      },
+      "stop": {
+        "id": "node/12722533505",
+        "name": "Bomba Cyberjaya (Barat)",
+        "type": "bus",
+        "lat": 2.9133196,
+        "lng": 101.6566586
+      },
+      "distanceKm": 0.13742155775064427
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Da Men Mall",
+        "lat": 3.0579292,
+        "lng": 101.5923719
+      },
+      "stop": {
+        "id": "node/11862350530",
+        "name": "Da Men Mall (Opp)",
+        "type": "bus",
+        "lat": 3.0580668,
+        "lng": 101.5918107
+      },
+      "distanceKm": 0.06416466632739747
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Damansara Damai",
+        "lat": 3.1969623,
+        "lng": 101.5937831
+      },
+      "stop": {
+        "id": "node/9576882968",
+        "name": "Apartment Lestari (Opp)",
+        "type": "bus",
+        "lat": 3.1971873,
+        "lng": 101.5940187
+      },
+      "distanceKm": 0.03619556485447311
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Damansara Perdana, Petaling Jaya",
+        "lat": 3.1661509,
+        "lng": 101.6065596
+      },
+      "stop": {
+        "id": "node/9568164304",
+        "name": "Komersial PJU 8",
+        "type": "bus",
+        "lat": 3.1667551,
+        "lng": 101.607084
+      },
+      "distanceKm": 0.08890129706484683
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Dataran Glomac, Kelana Jaya",
+        "lat": 3.1030599,
+        "lng": 101.6002404
+      },
+      "stop": {
+        "id": "node/11295030406",
+        "name": "Pangsapuri PKNS (Opp)",
+        "type": "bus",
+        "lat": 3.1025801,
+        "lng": 101.6004057
+      },
+      "distanceKm": 0.05642001156307553
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Denai Alam",
+        "lat": 3.1628887,
+        "lng": 101.5125098
+      },
+      "stop": {
+        "id": "node/9498654235",
+        "name": "E-Boulevard Denai Alam",
+        "type": "bus",
+        "lat": 3.1632854,
+        "lng": 101.5127036
+      },
+      "distanceKm": 0.04907904965934428
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - DPulze Shopping Centre, Cyberjaya",
+        "lat": 2.9216505,
+        "lng": 101.6508454
+      },
+      "stop": {
+        "id": "node/11364675763",
+        "name": "Cyberjaya Transport Terminal",
+        "type": "bus",
+        "lat": 2.9211881,
+        "lng": 101.6507758
+      },
+      "distanceKm": 0.05199422180170431
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ecohill, Semenyih",
+        "lat": 2.9252977,
+        "lng": 101.8550267
+      },
+      "stop": {
+        "id": "node/5431317063",
+        "name": "Setia Ecohill Mall",
+        "type": "bus",
+        "lat": 2.9254969,
+        "lng": 101.8574716
+      },
+      "distanceKm": 0.2724082204249227
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Edusentral, Setia Alam",
+        "lat": 3.1154528,
+        "lng": 101.4536825
+      },
+      "stop": {
+        "id": "node/13410862861",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1145506,
+        "lng": 101.4531173
+      },
+      "distanceKm": 0.11833107808806495
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Empire Shopping Gallery",
+        "lat": 3.0817791,
+        "lng": 101.5828112
+      },
+      "stop": {
+        "id": "node/11897192895",
+        "name": "Empire Gallery",
+        "type": "bus",
+        "lat": 3.0812308,
+        "lng": 101.5825639
+      },
+      "distanceKm": 0.06686629507161855
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Gateway@KLIA2 (Departure Hall, Level 3)",
+        "lat": 2.7483378,
+        "lng": 101.7134523
+      },
+      "stop": {
+        "id": "node/3018417116",
+        "name": "KLIA Terminal 1 (Satellite Building)",
+        "type": "rail",
+        "lat": 2.7474325,
+        "lng": 101.7128047
+      },
+      "distanceKm": 0.12372103144247583
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Giant Shah Alam Stadium",
+        "lat": 3.0840036,
+        "lng": 101.5493015
+      },
+      "stop": {
+        "id": "node/12065430888",
+        "name": "Giant Seksyen 13",
+        "type": "bus",
+        "lat": 3.0850459,
+        "lng": 101.5494066
+      },
+      "distanceKm": 0.11648449118455932
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - GM Klang",
+        "lat": 2.9911126,
+        "lng": 101.450272
+      },
+      "stop": {
+        "id": "node/2807845523",
+        "name": "GM Klang",
+        "type": "bus",
+        "lat": 2.9897031,
+        "lng": 101.4480687
+      },
+      "distanceKm": 0.29055745285409196
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - INTI International College Subang",
+        "lat": 3.07417,
+        "lng": 101.59126
+      },
+      "stop": {
+        "id": "node/11901718874",
+        "name": "INTI/Pos Malaysia SS15",
+        "type": "bus",
+        "lat": 3.073415,
+        "lng": 101.5909035
+      },
+      "distanceKm": 0.09281625217141573
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - IOI Boulevard",
+        "lat": 3.0461021,
+        "lng": 101.6209769
+      },
+      "stop": {
+        "id": "node/9655340020",
+        "name": "LRT IOI Puchong",
+        "type": "bus",
+        "lat": 3.0479776,
+        "lng": 101.6207748
+      },
+      "distanceKm": 0.20974998359553504
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Ioi Rio City",
+        "lat": 3.0204427,
+        "lng": 101.623967
+      },
+      "stop": {
+        "id": "node/9540281231",
+        "name": "Pangsapuri Sri Camelia",
+        "type": "bus",
+        "lat": 3.023355,
+        "lng": 101.6237025
+      },
+      "distanceKm": 0.325162126382161
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jade Hills Kajang",
+        "lat": 2.9923724,
+        "lng": 101.7607739
+      },
+      "stop": {
+        "id": "node/13472737817",
+        "name": "Jade Square",
+        "type": "bus",
+        "lat": 2.9920848,
+        "lng": 101.7604844
+      },
+      "distanceKm": 0.04534458160068522
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Berangan, Port Klang",
+        "lat": 3.0045575,
+        "lng": 101.3983188
+      },
+      "stop": {
+        "id": "node/11989516180",
+        "name": "KW6 Klang",
+        "type": "bus",
+        "lat": 3.0040335,
+        "lng": 101.4018619
+      },
+      "distanceKm": 0.39772437740814154
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Kebun Nenas, Klang",
+        "lat": 2.9948776,
+        "lng": 101.4932047
+      },
+      "stop": {
+        "id": "node/14064326301",
+        "name": "Pangsapuri Sri Ayu",
+        "type": "bus",
+        "lat": 2.9943417,
+        "lng": 101.4926291
+      },
+      "distanceKm": 0.08738534265492437
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jalan Seri Mas 1, Hulu Langat",
+        "lat": 3.0975572,
+        "lng": 101.7996779
+      },
+      "stop": {
+        "id": "node/5471957923",
+        "name": "Taman Lagenda Suria",
+        "type": "bus",
+        "lat": 3.0975806,
+        "lng": 101.7999354
+      },
+      "distanceKm": 0.02870901409531913
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jaya One Mall",
+        "lat": 3.1176917,
+        "lng": 101.6352659
+      },
+      "stop": {
+        "id": "node/10949184819",
+        "name": "Jaya One Mall",
+        "type": "bus",
+        "lat": 3.1186863,
+        "lng": 101.6353821
+      },
+      "distanceKm": 0.11134447485728703
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jaya Shopping Centre",
+        "lat": 3.1091816,
+        "lng": 101.6371799
+      },
+      "stop": {
+        "id": "node/1694168933",
+        "name": "Digital Mall Seksyen 14",
+        "type": "bus",
+        "lat": 3.1105301,
+        "lng": 101.6363413
+      },
+      "distanceKm": 0.17650360081550037
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kidzania Kuala Lumpur",
+        "lat": 3.1580898,
+        "lng": 101.6138047
+      },
+      "stop": {
+        "id": "node/9585546843",
+        "name": "Petronas Sg Penchala",
+        "type": "bus",
+        "lat": 3.1581423,
+        "lng": 101.615709
+      },
+      "distanceKm": 0.21150749495720586
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kipmall Bangi",
+        "lat": 2.9535345,
+        "lng": 101.7571023
+      },
+      "stop": {
+        "id": "node/12905385828",
+        "name": "Giant Bangi Utama",
+        "type": "bus",
+        "lat": 2.9535438,
+        "lng": 101.7566079
+      },
+      "distanceKm": 0.054911483996172586
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KLIA 1 Departure Hall",
+        "lat": 2.7479521,
+        "lng": 101.7135809
+      },
+      "stop": {
+        "id": "node/3018417116",
+        "name": "KLIA Terminal 1 (Satellite Building)",
+        "type": "rail",
+        "lat": 2.7474325,
+        "lng": 101.7128047
+      },
+      "distanceKm": 0.10378043930966871
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kompleks PKNS Shah Alam",
+        "lat": 3.0706525,
+        "lng": 101.5170109
+      },
+      "stop": {
+        "id": "node/12998889021",
+        "name": "PKNS Complex Main Entrance",
+        "type": "bus",
+        "lat": 3.0698889,
+        "lng": 101.516949
+      },
+      "distanceKm": 0.08518616972593272
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kota Damansara",
+        "lat": 3.1533381,
+        "lng": 101.5935514
+      },
+      "stop": {
+        "id": "node/9591146236",
+        "name": "Dataran Sunway Timur",
+        "type": "bus",
+        "lat": 3.1517067,
+        "lng": 101.5956096
+      },
+      "distanceKm": 0.2917641615369488
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kota Kemuning",
+        "lat": 2.9996278,
+        "lng": 101.5323688
+      },
+      "stop": {
+        "id": "node/13506205241",
+        "name": "Gamuda Walk Mall",
+        "type": "bus",
+        "lat": 3.000621,
+        "lng": 101.5329316
+      },
+      "distanceKm": 0.12689491902866834
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kota Warisan",
+        "lat": 2.8211417,
+        "lng": 101.6940534
+      },
+      "stop": {
+        "id": "node/9876464864",
+        "name": "KIP Sentral Sepang, Sepang",
+        "type": "bus",
+        "lat": 2.8216937,
+        "lng": 101.6933059
+      },
+      "distanceKm": 0.10324414091078564
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KPJ Kajang Specialist Hospital",
+        "lat": 2.9998668,
+        "lng": 101.7857162
+      },
+      "stop": {
+        "id": "way/505751844",
+        "name": "Sungai Jernih",
+        "type": "rail",
+        "lat": 3.0008386,
+        "lng": 101.7841249
+      },
+      "distanceKm": 0.20712404598416057
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - KSL Esplanade Mall",
+        "lat": 2.9585421,
+        "lng": 101.4660763
+      },
+      "stop": {
+        "id": "node/11012862175",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.9579878,
+        "lng": 101.4675855
+      },
+      "distanceKm": 0.1785662654784015
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuala Kubu Baru",
+        "lat": 3.5631559,
+        "lng": 101.658961
+      },
+      "stop": {
+        "id": "node/9709071001",
+        "name": "Kuala Kubu Bharu Bus Terminal",
+        "type": "bus",
+        "lat": 3.5654787,
+        "lng": 101.660441
+      },
+      "distanceKm": 0.30608580396553653
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lebuh Turi, Klang",
+        "lat": 3.0267565,
+        "lng": 101.4286301
+      },
+      "stop": {
+        "id": "node/14006038019",
+        "name": "Gateway Klang",
+        "type": "bus",
+        "lat": 3.0282564,
+        "lng": 101.4288511
+      },
+      "distanceKm": 0.16857696465765298
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lorong Pandan Pertama 5, Ampang",
+        "lat": 3.1412463,
+        "lng": 101.747339
+      },
+      "stop": {
+        "id": "node/5215865808",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1412335,
+        "lng": 101.7457295
+      },
+      "distanceKm": 0.17870500038434536
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Lotus’s Klang",
+        "lat": 3.0060293,
+        "lng": 101.4408353
+      },
+      "stop": {
+        "id": "way/1042094228",
+        "name": "Klang Jaya",
+        "type": "rail",
+        "lat": 3.0054382,
+        "lng": 101.4418385
+      },
+      "distanceKm": 0.1293423240192013
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Main Place",
+        "lat": 3.0265832,
+        "lng": 101.5809875
+      },
+      "stop": {
+        "id": "way/407156832",
+        "name": "USJ21",
+        "type": "rail",
+        "lat": 3.0297333,
+        "lng": 101.5818089
+      },
+      "distanceKm": 0.3619552020321183
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Megah Rise Mall, PJ",
+        "lat": 3.1142917,
+        "lng": 101.6114609
+      },
+      "stop": {
+        "id": "node/11293916532",
+        "name": "Taman Megah",
+        "type": "bus",
+        "lat": 3.1122364,
+        "lng": 101.6103947
+      },
+      "distanceKm": 0.2573793278144311
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Menara Axis, Petaling Jaya",
+        "lat": 3.1031466,
+        "lng": 101.6389773
+      },
+      "stop": {
+        "id": "node/2825690428",
+        "name": "LRT Asia Jaya",
+        "type": "bus",
+        "lat": 3.1039698,
+        "lng": 101.6392313
+      },
+      "distanceKm": 0.0957817071173458
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Menara VSQ Petaling Jaya",
+        "lat": 3.1071963,
+        "lng": 101.6399437
+      },
+      "stop": {
+        "id": "node/2083111481",
+        "name": "SK Sri Petaling (Opp)",
+        "type": "bus",
+        "lat": 3.1086127,
+        "lng": 101.6391607
+      },
+      "distanceKm": 0.1798979904909877
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MKH Boulevard, Kajang",
+        "lat": 2.9902145,
+        "lng": 101.7922963
+      },
+      "stop": {
+        "id": "node/12055180803",
+        "name": "Pejabat Air Selangor",
+        "type": "bus",
+        "lat": 2.9924647,
+        "lng": 101.7930537
+      },
+      "distanceKm": 0.2639677762681426
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Monash University Malaysia",
+        "lat": 3.0647158,
+        "lng": 101.6011434
+      },
+      "stop": {
+        "id": "node/11264460154",
+        "name": "SunU-Monash",
+        "type": "bus",
+        "lat": 3.0653151,
+        "lng": 101.6015415
+      },
+      "distanceKm": 0.07996693559981786
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MRT Bandar Utama",
+        "lat": 3.1466959,
+        "lng": 101.6187457
+      },
+      "stop": {
+        "id": "way/457857875",
+        "name": "Bandar Utama",
+        "type": "rail",
+        "lat": 3.1466484,
+        "lng": 101.6188097
+      },
+      "distanceKm": 0.00885373369396441
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MSU Medical Centre",
+        "lat": 3.0767666,
+        "lng": 101.5528153
+      },
+      "stop": {
+        "id": "node/12150362995",
+        "name": "MSU Medical Centre",
+        "type": "bus",
+        "lat": 3.0764329,
+        "lng": 101.5526969
+      },
+      "distanceKm": 0.03936581026567127
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - MYDIN USJ Subang Jaya",
+        "lat": 3.0588655,
+        "lng": 101.5964512
+      },
+      "stop": {
+        "id": "node/4749100374",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0580947,
+        "lng": 101.5965354
+      },
+      "distanceKm": 0.08621745840316403
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Nadayu 801, Taman Subang Murni",
+        "lat": 3.163792,
+        "lng": 101.5469319
+      },
+      "stop": {
+        "id": "node/11892476666",
+        "name": "Komersial Bulan U5/J (Utara)",
+        "type": "bus",
+        "lat": 3.1620752,
+        "lng": 101.5478647
+      },
+      "distanceKm": 0.21718248384231698
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Olive Business Park, Seri Kembangan",
+        "lat": 3.0136117,
+        "lng": 101.6958128
+      },
+      "stop": {
+        "id": "node/12878505048",
+        "name": "Olive Hill Business Park",
+        "type": "bus",
+        "lat": 3.0139137,
+        "lng": 101.6972401
+      },
+      "distanceKm": 0.1620075381446259
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pasaraya CS Bangi Avenue",
+        "lat": 2.9026489,
+        "lng": 101.789343
+      },
+      "stop": {
+        "id": "way/234084121",
+        "name": "Bangi",
+        "type": "rail",
+        "lat": 2.9039959,
+        "lng": 101.7861047
+      },
+      "distanceKm": 0.38956476371135695
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Kapar, Klang",
+        "lat": 3.138639,
+        "lng": 101.370978
+      },
+      "stop": {
+        "id": "node/12704499534",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1383996,
+        "lng": 101.3705748
+      },
+      "distanceKm": 0.05208331474871332
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Meru",
+        "lat": 3.1311418,
+        "lng": 101.4403017
+      },
+      "stop": {
+        "id": "node/11513514877",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1305166,
+        "lng": 101.440204
+      },
+      "distanceKm": 0.07036028516908718
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pekan Semenyih",
+        "lat": 2.9462041,
+        "lng": 101.846468
+      },
+      "stop": {
+        "id": "node/12055180861",
+        "name": "Kampung Sentosa",
+        "type": "bus",
+        "lat": 2.9457512,
+        "lng": 101.8478673
+      },
+      "distanceKm": 0.16334633016848418
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - PJ New Town",
+        "lat": 3.0987328,
+        "lng": 101.6449981
+      },
+      "stop": {
+        "id": "node/11294883857",
+        "name": "Dewan Sivik MBPJ",
+        "type": "bus",
+        "lat": 3.0981569,
+        "lng": 101.6457457
+      },
+      "distanceKm": 0.10483822339978696
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Plaza Shah Alam",
+        "lat": 3.0855276,
+        "lng": 101.5229119
+      },
+      "stop": {
+        "id": "node/14229533933",
+        "name": "Plaza Shah Alam",
+        "type": "bus",
+        "lat": 3.084971,
+        "lng": 101.5241291
+      },
+      "distanceKm": 0.14864759721351103
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Prima Sri Gombak",
+        "lat": 3.2394653,
+        "lng": 101.7005417
+      },
+      "stop": {
+        "id": "node/9512567515",
+        "name": "Dewan Beringin Gombak (Opp)",
+        "type": "bus",
+        "lat": 3.2398024,
+        "lng": 101.6996846
+      },
+      "distanceKm": 0.1022697599937768
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Puchong Ioi Mall",
+        "lat": 3.0463629,
+        "lng": 101.6183392
+      },
+      "stop": {
+        "id": "node/9655340018",
+        "name": "IOI Mall Puchong",
+        "type": "bus",
+        "lat": 3.043541,
+        "lng": 101.6187049
+      },
+      "distanceKm": 0.31639751405179717
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Puchong Utama",
+        "lat": 2.9909118,
+        "lng": 101.6175559
+      },
+      "stop": {
+        "id": "node/11476649370",
+        "name": "Komersial Bandar Bukit Puchong",
+        "type": "bus",
+        "lat": 2.9892999,
+        "lng": 101.6179911
+      },
+      "distanceKm": 0.1856357685603611
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Puncak Jalil",
+        "lat": 3.0227574,
+        "lng": 101.6757448
+      },
+      "stop": {
+        "id": "node/12881193765",
+        "name": "Komersial PUJ 3 (Utara)",
+        "type": "bus",
+        "lat": 3.022966,
+        "lng": 101.6753847
+      },
+      "distanceKm": 0.04622625504889714
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Putra Heights",
+        "lat": 2.9963935,
+        "lng": 101.5731791
+      },
+      "stop": {
+        "id": "node/8141632633",
+        "name": "Putra Point Comercial Centre (Utara)",
+        "type": "bus",
+        "lat": 2.9966413,
+        "lng": 101.5714853
+      },
+      "distanceKm": 0.19009205321917744
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Quayside Mall",
+        "lat": 2.9565691,
+        "lng": 101.5532428
+      },
+      "stop": {
+        "id": "node/13175253029",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.9578145,
+        "lng": 101.5536328
+      },
+      "distanceKm": 0.14509622888965507
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Rawang Reef",
+        "lat": 3.3036228,
+        "lng": 101.5964651
+      },
+      "stop": {
+        "id": "node/9473463242",
+        "name": "Lotus Rawang",
+        "type": "bus",
+        "lat": 3.302417,
+        "lng": 101.596916
+      },
+      "distanceKm": 0.14311739673198676
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sabak Bernam",
+        "lat": 3.7650089,
+        "lng": 100.9829264
+      },
+      "stop": {
+        "id": "way/1300186229",
+        "name": "Hentian Bas dan Teksi Pekan Sabak",
+        "type": "bus",
+        "lat": 3.7681272,
+        "lng": 100.9816654
+      },
+      "distanceKm": 0.3739036490938381
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Saujana Utama",
+        "lat": 3.2007843,
+        "lng": 101.485243
+      },
+      "stop": {
+        "id": "node/9676155843",
+        "name": "Saujana Utama Mall",
+        "type": "bus",
+        "lat": 3.2023467,
+        "lng": 101.4841426
+      },
+      "distanceKm": 0.21238513572392295
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - SB Mall Sungai Buloh",
+        "lat": 3.2088633,
+        "lng": 101.5641155
+      },
+      "stop": {
+        "id": "node/2385924971",
+        "name": "Kuarters Depot Pertahanan",
+        "type": "bus",
+        "lat": 3.2077862,
+        "lng": 101.5634725
+      },
+      "distanceKm": 0.1394287893184523
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sekinchan",
+        "lat": 3.5075594,
+        "lng": 101.1030257
+      },
+      "stop": {
+        "id": "way/1451029833",
+        "name": "Sekinchan Bus & Taxi Station",
+        "type": "bus",
+        "lat": 3.5093251,
+        "lng": 101.103329
+      },
+      "distanceKm": 0.19920169626622194
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seksyen 3, Bandar Baru Bangi",
+        "lat": 2.937407,
+        "lng": 101.773778
+      },
+      "stop": {
+        "id": "node/7128259919",
+        "name": "Bandar Baru Bangi Seksyen 2 (Selatan)",
+        "type": "bus",
+        "lat": 2.9381257,
+        "lng": 101.769591
+      },
+      "distanceKm": 0.4717791248493546
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seksyen 7, Bandar Baru Bangi",
+        "lat": 2.9711765,
+        "lng": 101.7734408
+      },
+      "stop": {
+        "id": "node/7687136721",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.9701305,
+        "lng": 101.7728524
+      },
+      "distanceKm": 0.13340614305100235
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setia Alam TP2",
+        "lat": 3.1246929,
+        "lng": 101.4679317
+      },
+      "stop": {
+        "id": "node/13306032143",
+        "name": "Komersial Taipan 2",
+        "type": "bus",
+        "lat": 3.1250563,
+        "lng": 101.4685061
+      },
+      "distanceKm": 0.07549918420008625
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setia City Mall",
+        "lat": 3.1102367,
+        "lng": 101.4586015
+      },
+      "stop": {
+        "id": "node/13410862863",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.1096269,
+        "lng": 101.4571589
+      },
+      "distanceKm": 0.1739347985870328
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Setia Prima, Setia Alam",
+        "lat": 3.0995352,
+        "lng": 101.4445848
+      },
+      "stop": {
+        "id": "node/13410862851",
+        "name": "Western Park",
+        "type": "bus",
+        "lat": 3.1010463,
+        "lng": 101.444656
+      },
+      "distanceKm": 0.16821252370289985
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Seventeen Mall",
+        "lat": 3.1292717,
+        "lng": 101.6350583
+      },
+      "stop": {
+        "id": "node/11293602848",
+        "name": "Seventeen Mall",
+        "type": "bus",
+        "lat": 3.128108,
+        "lng": 101.6353161
+      },
+      "distanceKm": 0.1325255335999466
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shaftsbury Square",
+        "lat": 2.9233793,
+        "lng": 101.6619565
+      },
+      "stop": {
+        "id": "node/11708434201",
+        "name": "Century Square",
+        "type": "bus",
+        "lat": 2.9236719,
+        "lng": 101.6613118
+      },
+      "distanceKm": 0.07864018160062876
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shah Alam Seksyen 13",
+        "lat": 3.0894837,
+        "lng": 101.5447957
+      },
+      "stop": {
+        "id": "node/12150362987",
+        "name": "Pusat Komersial Seksyen 13",
+        "type": "bus",
+        "lat": 3.0889027,
+        "lng": 101.5450357
+      },
+      "distanceKm": 0.06988437211881075
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shah Alam Seksyen 14 (Vista Alam)",
+        "lat": 3.0706694,
+        "lng": 101.5252759
+      },
+      "stop": {
+        "id": "node/10563210424",
+        "name": "Pusat Dagangan Shah Alam",
+        "type": "bus",
+        "lat": 3.0710642,
+        "lng": 101.5255475
+      },
+      "distanceKm": 0.0532601529123045
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shah Alam Seksyen 18",
+        "lat": 3.0449326,
+        "lng": 101.5178988
+      },
+      "stop": {
+        "id": "node/8377458908",
+        "name": "99 Speedmart Seksyen 18",
+        "type": "bus",
+        "lat": 3.0449355,
+        "lng": 101.5181155
+      },
+      "distanceKm": 0.0240640822114626
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shah Alam Seksyen 20",
+        "lat": 3.0551536,
+        "lng": 101.5417454
+      },
+      "stop": {
+        "id": "node/13997508578",
+        "name": "Seksyen 20 (Timur)",
+        "type": "bus",
+        "lat": 3.0551382,
+        "lng": 101.5426328
+      },
+      "distanceKm": 0.09854901061011413
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Shah Alam Seksyen 7",
+        "lat": 3.068231,
+        "lng": 101.4904362
+      },
+      "stop": {
+        "id": "node/1802411849",
+        "name": "UITM Shah Alam (Barat)",
+        "type": "bus",
+        "lat": 3.0683953,
+        "lng": 101.4911756
+      },
+      "distanceKm": 0.08410780632272039
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - SHELL Cyberjaya Autoville",
+        "lat": 2.9186012,
+        "lng": 101.6308891
+      },
+      "stop": {
+        "id": "node/10844097611",
+        "name": "Hospital Cyberjaya",
+        "type": "bus",
+        "lat": 2.9200826,
+        "lng": 101.6319529
+      },
+      "distanceKm": 0.20270688706705084
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Skypark Terminal",
+        "lat": 3.1334142,
+        "lng": 101.5533361
+      },
+      "stop": {
+        "id": "node/9596203092",
+        "name": "Subang Skypark Terminal",
+        "type": "bus",
+        "lat": 3.1333388,
+        "lng": 101.5540012
+      },
+      "distanceKm": 0.07431960682387333
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Spectrum Shopping Mall",
+        "lat": 3.1456372,
+        "lng": 101.7645605
+      },
+      "stop": {
+        "id": "node/5466018823",
+        "name": "Spectrum Ampang Mall",
+        "type": "bus",
+        "lat": 3.1453835,
+        "lng": 101.7652178
+      },
+      "distanceKm": 0.07824095153601549
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - SS2",
+        "lat": 3.2428416,
+        "lng": 101.6767489
+      },
+      "stop": {
+        "id": "node/9516006770",
+        "name": "SMK Taman Selayang (Opp)",
+        "type": "bus",
+        "lat": 3.2434537,
+        "lng": 101.6740375
+      },
+      "distanceKm": 0.3086100343313077
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Starling Mall",
+        "lat": 3.1348231,
+        "lng": 101.6228083
+      },
+      "stop": {
+        "id": "node/11300278762",
+        "name": "Jejantas LDP SS 21 Utara",
+        "type": "bus",
+        "lat": 3.1351062,
+        "lng": 101.6244928
+      },
+      "distanceKm": 0.189658239250234
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Subang Bestari",
+        "lat": 3.1789137,
+        "lng": 101.5478142
+      },
+      "stop": {
+        "id": "node/10940261512",
+        "name": "Komersial Subang Bestari",
+        "type": "bus",
+        "lat": 3.1782143,
+        "lng": 101.5483718
+      },
+      "distanceKm": 0.0994011876724173
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Subang Parade",
+        "lat": 3.0737188,
+        "lng": 101.5861775
+      },
+      "stop": {
+        "id": "node/11897192886",
+        "name": "LRT SS15",
+        "type": "bus",
+        "lat": 3.0751943,
+        "lng": 101.585986
+      },
+      "distanceKm": 0.16544022767905361
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Subang Perdana",
+        "lat": 3.148099,
+        "lng": 101.5454878
+      },
+      "stop": {
+        "id": "node/9498022874",
+        "name": "Komersial Subang Perdana",
+        "type": "bus",
+        "lat": 3.1498116,
+        "lng": 101.5435787
+      },
+      "distanceKm": 0.28494258569641956
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Gandaria, Bangi",
+        "lat": 2.9612955,
+        "lng": 101.7533353
+      },
+      "stop": {
+        "id": "node/6964083971",
+        "name": "Komersial Medan PB",
+        "type": "bus",
+        "lat": 2.9612839,
+        "lng": 101.7518607
+      },
+      "distanceKm": 0.16375416683809127
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Pinnacle",
+        "lat": 3.0698376,
+        "lng": 101.6101481
+      },
+      "stop": {
+        "id": "way/428126746",
+        "name": "Sunway Lagoon",
+        "type": "bus",
+        "lat": 3.070636,
+        "lng": 101.6107012
+      },
+      "distanceKm": 0.10794986414964824
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Sunway Pyramid",
+        "lat": 3.0726918,
+        "lng": 101.6077785
+      },
+      "stop": {
+        "id": "node/11296034985",
+        "name": "Masjid Al-Husna",
+        "type": "bus",
+        "lat": 3.0742433,
+        "lng": 101.6088484
+      },
+      "distanceKm": 0.20946443317285002
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taipan USJ",
+        "lat": 3.0481309,
+        "lng": 101.5837666
+      },
+      "stop": {
+        "id": "node/11919243503",
+        "name": "USJ 10 Taipan (Barat)",
+        "type": "bus",
+        "lat": 3.0485399,
+        "lng": 101.5830021
+      },
+      "distanceKm": 0.09630330818368493
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Bendahara, Kuala Selangor",
+        "lat": 3.3205437,
+        "lng": 101.2684895
+      },
+      "stop": {
+        "id": "node/10905216683",
+        "name": "Medan Niaga Kuala Selangor",
+        "type": "bus",
+        "lat": 3.3191566,
+        "lng": 101.2690303
+      },
+      "distanceKm": 0.16550983855354842
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Kosas",
+        "lat": 3.1460891,
+        "lng": 101.7714589
+      },
+      "stop": {
+        "id": "node/5733269923",
+        "name": "Astaria Apartment",
+        "type": "bus",
+        "lat": 3.1466248,
+        "lng": 101.7718999
+      },
+      "distanceKm": 0.0771078576195783
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Segar Perdana, Cheras",
+        "lat": 3.0917339,
+        "lng": 101.7622548
+      },
+      "stop": {
+        "id": "node/10755521089",
+        "name": "Perdana Square",
+        "type": "bus",
+        "lat": 3.0922008,
+        "lng": 101.762075
+      },
+      "distanceKm": 0.055622987253105764
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Sri Manja",
+        "lat": 3.0741539,
+        "lng": 101.6480496
+      },
+      "stop": {
+        "id": "node/11344929289",
+        "name": "Sri Manja Square",
+        "type": "bus",
+        "lat": 3.0731088,
+        "lng": 101.6473079
+      },
+      "distanceKm": 0.14243246726209874
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Sri Muda",
+        "lat": 3.0327538,
+        "lng": 101.5365242
+      },
+      "stop": {
+        "id": "way/1458632387",
+        "name": "Bus Station",
+        "type": "bus",
+        "lat": 3.0327562,
+        "lng": 101.5359486
+      },
+      "distanceKm": 0.0639147165231544
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Taman Sri Serdang, Seri Kembangan",
+        "lat": 3.0094347,
+        "lng": 101.7147695
+      },
+      "stop": {
+        "id": "node/13029841105",
+        "name": "Komersial Taman Sri Serdang",
+        "type": "bus",
+        "lat": 3.0097233,
+        "lng": 101.7153722
+      },
+      "distanceKm": 0.07422092173793295
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Teluk Pulai",
+        "lat": 3.0427382,
+        "lng": 101.4266007
+      },
+      "stop": {
+        "id": "node/14006038007",
+        "name": "Komersial Teluk Pulai",
+        "type": "bus",
+        "lat": 3.042464,
+        "lng": 101.4269698
+      },
+      "distanceKm": 0.051081530015876606
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Curve",
+        "lat": 3.1576564,
+        "lng": 101.6121825
+      },
+      "stop": {
+        "id": "node/9583024791",
+        "name": "Lotus Mutiara Damansara (Opp)",
+        "type": "bus",
+        "lat": 3.1598414,
+        "lng": 101.6119431
+      },
+      "distanceKm": 0.24441047922846956
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Glenz @Glenmarie",
+        "lat": 3.0817081,
+        "lng": 101.5625773
+      },
+      "stop": {
+        "id": "node/13990063820",
+        "name": "LRT Kerjaya Entrance A",
+        "type": "bus",
+        "lat": 3.0824859,
+        "lng": 101.5624074
+      },
+      "distanceKm": 0.08852089776437948
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - The Mines Shopping Mall",
+        "lat": 3.0283052,
+        "lng": 101.7191593
+      },
+      "stop": {
+        "id": "node/10782102251",
+        "name": "The Mines",
+        "type": "bus",
+        "lat": 3.0270515,
+        "lng": 101.718971
+      },
+      "distanceKm": 0.1409643685498785
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Tropicana Gardens Mall",
+        "lat": 3.1492774,
+        "lng": 101.5940962
+      },
+      "stop": {
+        "id": "way/457131687",
+        "name": "Surian",
+        "type": "rail",
+        "lat": 3.1495987,
+        "lng": 101.5937078
+      },
+      "distanceKm": 0.05599996679298005
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - TTDI Jaya, Shah Alam",
+        "lat": 3.0974704,
+        "lng": 101.5558755
+      },
+      "stop": {
+        "id": "node/13904788424",
+        "name": "Kompleks SMS (Opp)",
+        "type": "bus",
+        "lat": 3.0980536,
+        "lng": 101.5567867
+      },
+      "distanceKm": 0.12017198443656553
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Malaya Centre for Continuing Education",
+        "lat": 2.9293813,
+        "lng": 101.6551695
+      },
+      "stop": {
+        "id": "node/12265707794",
+        "name": "Kolej UNIKOP (Barat)",
+        "type": "bus",
+        "lat": 2.9292952,
+        "lng": 101.6554723
+      },
+      "distanceKm": 0.03496220180763989
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - University of Nottingham",
+        "lat": 2.9438373,
+        "lng": 101.8760735
+      },
+      "stop": {
+        "id": "node/2417446150",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 2.941899,
+        "lng": 101.8760005
+      },
+      "distanceKm": 0.21568152455690298
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - UOA Business Park, Shah Alam",
+        "lat": 3.0848318,
+        "lng": 101.5840178
+      },
+      "stop": {
+        "id": "node/12150363000",
+        "name": "UOA Business Park",
+        "type": "bus",
+        "lat": 3.0862184,
+        "lng": 101.5858544
+      },
+      "distanceKm": 0.2556512892143394
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Uptown Damansara, Petaling Jaya",
+        "lat": 3.1349377,
+        "lng": 101.6216263
+      },
+      "stop": {
+        "id": "node/8223678483",
+        "name": "Komersial SS 21/1A",
+        "type": "bus",
+        "lat": 3.1352212,
+        "lng": 101.6209861
+      },
+      "distanceKm": 0.07775717435694814
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Vista Bangi, Jalan Reko",
+        "lat": 2.945283,
+        "lng": 101.7853726
+      },
+      "stop": {
+        "id": "node/10223844002",
+        "name": "Taman Industri Sungai Tangkas",
+        "type": "bus",
+        "lat": 2.9453697,
+        "lng": 101.7856921
+      },
+      "distanceKm": 0.03676630048300095
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Xiamen University Malaysia",
+        "lat": 2.8313663,
+        "lng": 101.7040987
+      },
+      "stop": {
+        "id": "node/11012030792",
+        "name": "Universiti Xiamen",
+        "type": "bus",
+        "lat": 2.8321804,
+        "lng": 101.7078324
+      },
+      "distanceKm": 0.4244275478860338
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - You City III Cheras",
+        "lat": 3.072873,
+        "lng": 101.7629743
+      },
+      "stop": {
+        "id": "node/12066169314",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 3.0739974,
+        "lng": 101.7623378
+      },
+      "distanceKm": 0.1436199024409294
+    },
+    {
+      "outlet": {
+        "name": "ZUS, Coffee Meets Pastry - 1 Utama Shopping Centre",
+        "lat": 3.1493926,
+        "lng": 101.6169165
+      },
+      "stop": {
+        "id": "node/1919586996",
+        "name": "Bandar Utama (Opp)",
+        "type": "bus",
+        "lat": 3.1500061,
+        "lng": 101.6173707
+      },
+      "distanceKm": 0.08483357398785232
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Dataran Austin",
+        "lat": 5.3569932,
+        "lng": 103.0965891
+      },
+      "stop": {
+        "id": "node/7953994038",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.3580507,
+        "lng": 103.0954757
+      },
+      "distanceKm": 0.17035550742463273
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Jerteh",
+        "lat": 5.7363601,
+        "lng": 102.4939223
+      },
+      "stop": {
+        "id": "way/700315052",
+        "name": "Jerteh Temporary Bus Station",
+        "type": "bus",
+        "lat": 5.7367323,
+        "lng": 102.4954336
+      },
+      "distanceKm": 0.17225314676419654
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Kuala Berang",
+        "lat": 5.0732367,
+        "lng": 103.0105434
+      },
+      "stop": {
+        "id": "way/1011427214",
+        "name": "KB Sentral",
+        "type": "bus",
+        "lat": 5.0707331,
+        "lng": 103.010845
+      },
+      "distanceKm": 0.28038467343408463
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Paya Bunga Square",
+        "lat": 5.3310129,
+        "lng": 103.1366461
+      },
+      "stop": {
+        "id": "way/1395006468",
+        "name": "Terminal Bas MBKT",
+        "type": "bus",
+        "lat": 5.3320037,
+        "lng": 103.1372432
+      },
+      "distanceKm": 0.12848355382801505
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Pusat Niaga Paka, Terengganu",
+        "lat": 4.6361008,
+        "lng": 103.4370343
+      },
+      "stop": {
+        "id": "node/4008781544",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 4.636745,
+        "lng": 103.4362452
+      },
+      "distanceKm": 0.11304778256131613
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Malaysia Terengganu (Kompleks Siswa)",
+        "lat": 5.4052863,
+        "lng": 103.0876935
+      },
+      "stop": {
+        "id": "node/4212300989",
+        "name": "Bus stop",
+        "type": "bus",
+        "lat": 5.4049871,
+        "lng": 103.0862164
+      },
+      "distanceKm": 0.16686595978523677
+    },
+    {
+      "outlet": {
+        "name": "ZUS Coffee - Universiti Sultan Zainal Abidin (Laman Selera)",
+        "lat": 5.3975616,
+        "lng": 103.0780128
+      },
+      "stop": {
+        "id": "node/10813009492",
+        "name": "DROP-POINT",
+        "type": "bus",
+        "lat": 5.3990205,
+        "lng": 103.077741
+      },
+      "distanceKm": 0.1649890895677825
+    }
+  ]
+}
