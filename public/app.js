@@ -128,7 +128,8 @@ async function spinReel(names) {
   for (let i = 0; i <= last; i++) {
     reel.textContent = names[i]
     // Names are blurred while the reel is fast and sharpen as it slows, landing crisp on the pick.
-    reel.style.filter = `blur(${(6 * (1 - i / last) ** 1.5).toFixed(2)}px)`
+    const progress = last === 0 ? 1 : i / last
+    reel.style.filter = `blur(${(6 * (1 - progress) ** 1.5).toFixed(2)}px)`
     playTick()
     // Ease out: each name lingers a little longer than the last.
     await sleep(45 + i * i * 1.6)
