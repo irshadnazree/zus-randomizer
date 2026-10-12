@@ -2,9 +2,10 @@
   "name": "zus-randomizer",
   "private": true,
   "type": "module",
+  "packageManager": "pnpm@11.9.0",
   "scripts": {
     "dev": "wrangler dev",
-    "build": "npm run build:css && npm run build:vendor",
+    "build": "pnpm run build:css && pnpm run build:vendor",
     "build:css": "tailwindcss -i ./src/style.css -o ./public/style.css --minify",
     "build:vendor": "mkdir -p public/vendor && cp node_modules/canvas-confetti/dist/confetti.browser.js public/vendor/confetti.js",
     "deploy": "wrangler deploy --minify",
@@ -21,9 +22,5 @@
     "tailwindcss": "^4.3.3",
     "typescript": "^5.9.3",
     "wrangler": "^4.149.0"
-  },
-  "allowScripts": {
-    "esbuild@0.28.2": true,
-    "workerd@1.20261006.1": true
   }
 }

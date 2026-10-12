@@ -16,10 +16,13 @@ Built with [Hono](https://hono.dev) (JSX, server-rendered) on Cloudflare Workers
 
 ## Development
 
+Use Node.js 22 (see `.node-version`) and pnpm 11.9.0.
+
 ```sh
-npm install
-npm run dev        # builds CSS + vendor assets, then starts wrangler dev
-npm run typecheck
+pnpm install
+pnpm run dev        # Wrangler builds CSS + vendor assets before starting
+pnpm run typecheck
+pnpm run build
 ```
 
 ## API
@@ -36,7 +39,7 @@ npm run typecheck
 Outlets live in `src/data/outlets.json`. Refresh them with:
 
 ```sh
-npm run fetch-outlets
+pnpm run fetch-outlets
 ```
 
 ## Deployment
