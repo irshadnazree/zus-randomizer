@@ -1,0 +1,151 @@
+{
+  "note": "Collection evidence for the initial grouped snapshot. Fetch scripts refresh outlet rows; these source notes describe the recorded collection and its limitations.",
+  "chains": {
+    "zus-coffee": {
+      "source": "https://zuscoffee.com/our-stores/",
+      "scope": "Existing 601-outlet snapshot preserved without refreshing or changing rows.",
+      "coordinateCount": 598
+    },
+    "luckin-coffee": {
+      "chainId": "luckin-coffee",
+      "checkedAt": "2026-10-12T16:19:55.668Z",
+      "website": "https://www.luckincoffee.com.my/",
+      "locator": "https://in.luckincoffee.com/?tenant=LKMY",
+      "endpoint": "https://in.luckincoffee.com/api/capi/resource/locate/shop/inCityPage",
+      "scope": "All Cities, public Malaysia pickup outlet locator, active status=1",
+      "count": 159,
+      "coordinateCoverage": 159,
+      "pagination": {
+        "type": "offset",
+        "limit": 100,
+        "pages": 2,
+        "lastPageHasMore": false
+      },
+      "states": {
+        "Johor": 13,
+        "Kuala Lumpur": 55,
+        "Negeri Sembilan": 9,
+        "Pahang": 4,
+        "Putrajaya": 5,
+        "Selangor": 73
+      },
+      "coordinateSystem": "Official locationLatitude/locationLongitude copied without transformation; app uses Google Maps, Malaysia does not need China GCJ-02 conversion.",
+      "limitations": [
+        "Coverage includes only outlets visible in the public ordering locator. New or internal stores absent from the locator cannot be verified.",
+        "Temporarily closed outlets remain listed when their active status is 1.",
+        "The official marketing homepage says 83 Malaysia outlets as of 31 March 2026; the October live locator returns 159 and is the fresher outlet-level source.",
+        "Undocumented API transport may change; refresh script fails before writing on malformed responses."
+      ]
+    },
+    "coffee-bean-tea-leaf": {
+      "chainId": "coffee-bean-tea-leaf",
+      "collectedAt": "2026-10-13",
+      "source": "https://www.coffeebean.com.my/amlocator",
+      "sourceCount": 195,
+      "outletCount": 195,
+      "coordinateCount": 185,
+      "cityCount": 184,
+      "scope": "All 195 items from the official Malaysian web locator; advertised totalRecords matched item count.",
+      "coverageGaps": [
+        "No usable current official listing found for Sabah, Sarawak or Labuan.",
+        "coffeebeaneastmalaysia.com HTTP /defaultsite is an IONOS parking page; HTTPS fails.",
+        "Source addresses/coordinates may contain further inconsistencies. Pins are source-provided, not independently surveyed.",
+        "East Coast Mall 2 published address duplicates Kuantan City Mall; preserved without inventing a replacement."
+      ],
+      "sources": [
+        "https://www.coffeebean.com.my/amlocator",
+        "https://support.coffeebean.com.my/hc/en-my/articles/13837318139663-What-Is-The-MyCBTL-App-About",
+        "https://uhotelpenang.com/contact/",
+        "https://aeonmallmy.com/mall/aeon-mall-tebrau-city/contact",
+        "https://www.capitaland.com/en/find-a-property/global-property-listing/retail/east-coast-mall.html",
+        "https://zuscoffee.com/2022/08/20/raja-uda-butterworth-penang/"
+      ],
+      "zeroPins": [
+        "Seremban Gateway",
+        "Indera Mahkota Drive Thru",
+        "Petron Bandar Sri Sendayan",
+        "Sunway Pyramid Kiosk",
+        "Caltex Sungai Dua"
+      ],
+      "excludedQuestionablePins": [
+        {
+          "name": "East Coast Mall 2",
+          "observedPin": [
+            3.91702437,
+            103.32330174
+          ],
+          "reason": "About 10.9 km from official East Coast Mall venue pin (3.818921001,103.326396); published street text also contradicts outlet name."
+        },
+        {
+          "name": "U Hotel Penang",
+          "observedPin": [
+            5.44567087,
+            100.26987207
+          ],
+          "reason": "About 10.8 km from official hotel iframe pin (5.351406337,100.295558014)."
+        },
+        {
+          "name": "Aeon Tebrau City",
+          "observedPin": [
+            1.66353397,
+            103.79904095
+          ],
+          "reason": "About 12.7 km from official AEON mall iframe pin (1.549575561,103.794378714)."
+        },
+        {
+          "name": "Genting Premium Outlet Kiosk",
+          "observedPin": [
+            3.43065729,
+            101.79456988
+          ],
+          "reason": "About 3.2 km from sister outlet in the same explicitly named mall; uncertain, so null."
+        },
+        {
+          "name": "Raja Uda Butterworth",
+          "observedPin": [
+            5.5306171,
+            100.39131417
+          ],
+          "reason": "About 12.9 km from ZUS #17 on same named street vs CBTL #29. Uncertain misplaced pin, so null."
+        }
+      ],
+      "stateCorrections": [
+        {
+          "name": "Sentul Point",
+          "state": "Kuala Lumpur",
+          "reason": "Missing source region; address explicitly identifies Sentul."
+        },
+        {
+          "name": "Indera Mahkota Drive Thru",
+          "state": "Pahang",
+          "reason": "Missing source region; address explicitly identifies Kuala Kuantan."
+        },
+        {
+          "name": "Cheras Traders Square",
+          "state": "Selangor",
+          "reason": "Street address explicitly gives Balakong, Selangor while source region incorrectly gives Kuala Lumpur."
+        }
+      ]
+    },
+    "san-francisco-coffee": {
+      "chain": "san-francisco-coffee",
+      "source": "https://sfcoffee.com/our-stores/",
+      "count": 49,
+      "coordinateCoverage": 49,
+      "byState": {
+        "Johor": 2,
+        "Kuala Lumpur": 24,
+        "Negeri Sembilan": 1,
+        "Pulau Pinang": 3,
+        "Putrajaya": 1,
+        "Selangor": 18
+      },
+      "limitations": [
+        "All 49 stores currently present in the official locator are included; store operation status and any omissions in that locator cannot be independently guaranteed.",
+        "Official hidden marker coordinates are used. Exact copies of map viewport centers are corrected to the explicit destination pins in the same official direction URL.",
+        "Some map markers or destination pins identify the host building instead of an individual cafe entrance.",
+        "The official Toppen Mall directions link duplicates Southville City's link; its own hidden marker is used instead."
+      ]
+    }
+  }
+}

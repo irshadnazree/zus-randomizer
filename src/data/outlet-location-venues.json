@@ -1,0 +1,540 @@
+[
+  {
+    "aliases": [
+      "Gamuda Walk"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.gamudawalk.com/",
+    "detail": "The operator identifies a community mall; this cafe is a unit in that mall."
+  },
+  {
+    "aliases": [
+      "Arcoris"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.uemsunrise.com/storage/files/personaltyjul2013-v2.pdf",
+    "detail": "The developer describes an integrated retail/office/residential complex, including Arcoris Plaza."
+  },
+  {
+    "aliases": [
+      "St. Mary Place",
+      "St Mary Place"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.easternandoriental.com/st-mary-place.php",
+    "detail": "The owner identifies St Mary Place as a two-storey retail podium."
+  },
+  {
+    "aliases": [
+      "You City III",
+      "You City Retail"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://oskproperty.com.my/project/you-city-iii/",
+    "detail": "The developer identifies a managed retail mall within the integrated development."
+  },
+  {
+    "aliases": [
+      "PJ33"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.phb.com.my/services/property-investment/offices/pj33",
+    "detail": "The owner describes an office development with a two-storey retail podium."
+  },
+  {
+    "aliases": [
+      "The FLO"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "sourceUrl": "https://www.bandar-sri-damansara.com/livista/",
+    "detail": "The cafe is a ground-floor retail unit in the named FLO Hub retail amenity."
+  },
+  {
+    "aliases": [
+      "Wetex Parade",
+      "Segamat Central",
+      "Kulim Central",
+      "Mahkota Parade",
+      "Subang Parade",
+      "Central Square"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.hektarreit.com/pdf/reports/Hektar-REIT_Annual-Report-2019.pdf",
+    "detail": "Hektar REIT identifies this venue in its shopping-centre portfolio."
+  },
+  {
+    "aliases": [
+      "Aman Central"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.amancentral.com.my/layout/",
+    "detail": "The venue publishes a mall layout and retail tenant directory."
+  },
+  {
+    "aliases": [
+      "Avenue K"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.avenuek.com.my/",
+    "detail": "The venue identifies itself as Avenue K Shopping Mall."
+  },
+  {
+    "aliases": [
+      "Pavilion Bukit Jalil"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.pavilion-bukitjalil.com/about",
+    "detail": "The operator identifies this venue as a regional retail mall."
+  },
+  {
+    "aliases": [
+      "Pavilion Damansara Height"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://pavilion-dh.com/",
+    "detail": "The operator identifies this venue as Pavilion Damansara Heights Mall."
+  },
+  {
+    "aliases": [
+      "Pavilion Kuala Lumpur",
+      "Pavilion KL"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.pavilion-bukitjalil.com/pressrooms",
+    "detail": "The operator identifies Pavilion Kuala Lumpur among Pavilion REIT Malls."
+  },
+  {
+    "aliases": [
+      "Sungei Wang Plaza"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.sungeiwang.com/",
+    "detail": "The official venue describes its shopping, dining and entertainment complex."
+  },
+  {
+    "aliases": [
+      "Suria KLCC"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://klcc.com.my/our-portfolio/",
+    "detail": "KLCC identifies Suria KLCC as its retail shopping venue."
+  },
+  {
+    "aliases": [
+      "The Exchange TRX"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.theexchange.my/",
+    "detail": "The operator publishes a shopping and dining tenant directory for The Exchange TRX."
+  },
+  {
+    "aliases": [
+      "Sunway Pyramid"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.sunwaypyramid.com/about-us",
+    "detail": "The operator identifies this venue as a shopping and entertainment mall."
+  },
+  {
+    "aliases": [
+      "Central i-City"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://central-icity.com.my/",
+    "detail": "The operator identifies this venue as a shopping mall in Shah Alam."
+  },
+  {
+    "aliases": [
+      "Sunway Square"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.sunwaymalls.com/sunwaysquare/corporate.html",
+    "detail": "Sunway Malls identifies Sunway Square as a managed retail mall."
+  },
+  {
+    "aliases": [
+      "SkyAvenue",
+      "Sky Avenue Genting",
+      "First World Plaza"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://rwgenting.com/en/blog/2026/the-7-types-of-travellers-who-will-love-resorts-world-genting.html",
+    "detail": "Resorts World Genting identifies SkyAvenue and First World Plaza as malls."
+  },
+  {
+    "aliases": [
+      "Galleria @ Kotaraya",
+      "Galleria@Kotaraya"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://jcorp.com.my/wp-content/uploads/2023/08/AR2012-bm.pdf",
+    "detail": "Johor Corporation documents Galleria@Kotaraya as its refurbished retail complex."
+  },
+  {
+    "aliases": [
+      "Menara UOA Bangsar"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://uoa.com.my/property/details/menara-uoa-bangsar/",
+    "detail": "UOA identifies the host as an office development with a retail podium."
+  },
+  {
+    "aliases": [
+      "The Horizon",
+      "Horizon 2",
+      "Horizon II"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://uoa.com.my/wp-content/uploads/2022/06/UOA-Tower-Brochure.pdf",
+    "detail": "UOA describes The Horizon as boutique office blocks with private lobbies."
+  },
+  {
+    "aliases": [
+      "UOA Business Park"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://uoa.com.my/property/details/uoa-business-park/",
+    "detail": "The developer describes office blocks and their attached retail podium."
+  },
+  {
+    "aliases": [
+      "Menara IQ"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.about.hsbc.com.my/",
+    "detail": "HSBC identifies Menara IQ as its Malaysian headquarters."
+  },
+  {
+    "aliases": [
+      "Menara Worldwide"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://menaraworldwide.com/about-us-basic/",
+    "detail": "The building operator identifies a corporate Grade A office tower."
+  },
+  {
+    "aliases": [
+      "Atwater Corporate Office"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://paramountproperty.my/wp-content/uploads/2023/09/Atwater-office-tower-e-brochure-1.pdf",
+    "detail": "The developer identifies corporate office towers."
+  },
+  {
+    "aliases": [
+      "Menara Maxis",
+      "Maxis Tower",
+      "Menara 3 Petronas",
+      "KLCC Tower 3"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.klcc.com.my/downloads/2019report.pdf",
+    "detail": "KLCC identifies the host tower as an office property; the cafe address names the tower rather than the shopping mall."
+  },
+  {
+    "aliases": [
+      "Menara U,",
+      "Menara U Sek 13"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.hr-group.com.my/property-projects/completed-projects/menara-u-shah-alam",
+    "detail": "The developer explicitly identifies Menara U as residential, not an office tower."
+  },
+  {
+    "aliases": [
+      "MAHA Tower"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.mahatower.com.my/attractions",
+    "detail": "The operator identifies an observation attraction with retail premises, not an office tower."
+  },
+  {
+    "aliases": [
+      "Jetty Point"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://jettypoint.com/about-us/",
+    "detail": "The operator identifies an air-conditioned shopping complex attached to the ferry terminal."
+  },
+  {
+    "aliases": [
+      "Berjaya Times Square",
+      "Berjaya Time Square",
+      "Plaza Low Yat",
+      "Pertama Complex",
+      "Kompleks Pertama",
+      "Plaza Pelangi",
+      "Johore Bahru City Square",
+      "Johor Bahru City Square",
+      "Kompleks PKNS Shah Alam",
+      "Plaza Shah Alam",
+      "KOMTAR",
+      "Semua House",
+      "NU Sentral",
+      "The Starling",
+      "The Sphere",
+      "Nexus Bangsar",
+      "Sungai Mas Plaza"
+    ],
+    "locationType": "inside-building",
+    "detail": "The listing places the cafe in a named shopping/retail complex.",
+    "basis": "inferred"
+  },
+  {
+    "aliases": [
+      "Paya Bunga Square"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://napic2.jpph.gov.my/storage/app/media/3-penerbitan/Shahrul/Bahagian%20Pasaran%20Harta%20Tanah/East%20Coast%20Region%20Wilayah%20Timur/Q2%202025/East%20Coast%20Region%20H1%202025.pdf",
+    "detail": "The government property-market report identifies Paya Bunga Square as a shopping complex."
+  },
+  {
+    "aliases": [
+      "3 Damansara",
+      "Gurney Plaza",
+      "Plaza Gurney"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://capitalandmalls.com.my/",
+    "detail": "The operator lists this property in its shopping-mall portfolio."
+  },
+  {
+    "aliases": [
+      "The Curve"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://thecurve.com.my/about-us/",
+    "detail": "The operator identifies a pedestrianised shopping mall."
+  },
+  {
+    "aliases": [
+      "Tamarind Square"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://tamarindsq.com/directory/",
+    "detail": "The outlet is a unit in the managed mixed retail/office development, rather than a numbered street shop."
+  },
+  {
+    "aliases": [
+      "All Seasons Place"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://belleview.com.my/commercial-milestones/",
+    "detail": "The developer identifies a managed strip mall; this branch is a level-one retail unit."
+  },
+  {
+    "aliases": [
+      "The Hills,",
+      "The Hills Kuching"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://thehills.my/",
+    "detail": "The operator describes a community commercial hub in the former mall; the outlet is on the lower ground floor."
+  },
+  {
+    "aliases": [
+      "Plaza Shell"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.vinci-construction-projets.com/en/realisations/menara-hap-seng-tower/",
+    "detail": "The building contractor describes an office tower with a retail podium."
+  },
+  {
+    "aliases": [
+      "IKEA Batu Kawan Link Building"
+    ],
+    "locationType": "inside-building",
+    "sourceUrl": "https://www.klippa.my/",
+    "detail": "The outlet address places this unit in the IKEA-linked shopping building."
+  },
+  {
+    "aliases": [
+      "Hextar World"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.hextarworld.com.my/",
+    "detail": "The operator publishes the retail tenant directory for the host shopping complex."
+  },
+  {
+    "aliases": [
+      "Silverlakes Village"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.silverlakesvillageoutlet.com/getting-here/",
+    "detail": "The operator describes an outlet mall; this cafe is a unit in its North Village."
+  },
+  {
+    "aliases": [
+      "The Waterfront @ Parkcity"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.desaparkcity.com/thewaterfront.html",
+    "detail": "The developer lists Coffee Bean & Tea Leaf within The Waterfront retail centre."
+  },
+  {
+    "aliases": [
+      "Ativo Plaza"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://damansaraavenue.com.my/completed-ativo-plaza-2/",
+    "detail": "The developer describes a combined retail/office complex; this cafe is a level-one unit."
+  },
+  {
+    "aliases": [
+      "Permata Sapura",
+      "Sapura Lot 91"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.sapura-resources.com/annual_report/annual_reports/2024_sapuraresources.pdf",
+    "detail": "The owner describes an office tower with retail podium; the cafe is on the concourse."
+  },
+  {
+    "aliases": [
+      "PKT Logistic Batu Kawan",
+      "One Auto Hub"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "sourceUrl": "https://pktgroup.com/sustainability/environmental/",
+    "detail": "The cafe is listed in the logistics-company campus rather than at an independent street shop."
+  },
+  {
+    "aliases": [
+      "Cameron Centrum",
+      "Centrum Cameron Highlands"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "sourceUrl": "https://cameroncentrum.com.my/",
+    "detail": "The cafe is a unit in the managed retail precinct of this mixed-use centre."
+  },
+  {
+    "aliases": [
+      "Shaftsbury Square"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "sourceUrl": "https://www.shaftsburysquare.com.my/home",
+    "detail": "The cafe is listed on level P1 of the managed retail/office development."
+  },
+  {
+    "aliases": [
+      "Nadayu 801"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "sourceUrl": "https://villagegrocer.com.my/village-grocer-nadayu-801-subang-murni-opening/",
+    "detail": "The listing gives a retail unit at the Nadayu 801 shopping/grocery venue."
+  },
+  {
+    "aliases": [
+      "Sunway Pinnacle",
+      "The Pinnacle Annexe"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.sunwayreit.com/our-portfolio/sunway-pinnacle/",
+    "detail": "The owner identifies an office building; this cafe is in its ground-floor/annexe premises."
+  },
+  {
+    "aliases": [
+      "The Envictus"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.envictus-intl.com/contact/",
+    "detail": "The cafe address is in the building used as Envictus company offices."
+  },
+  {
+    "aliases": [
+      "The Spring Bintulu"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://www.thespring.com.my/bintulu",
+    "detail": "The operator identifies the host as The Spring Shopping Mall Bintulu."
+  },
+  {
+    "aliases": [
+      "ElementX"
+    ],
+    "locationType": "inside-building",
+    "basis": "official-venue",
+    "sourceUrl": "https://hattenland.com.sg/wp-content/uploads/2023/12/Hatten-Land-Limited-AR-FY2023.pdf",
+    "detail": "The developer identifies ElementX as a mall in Hatten City."
+  },
+  {
+    "aliases": [
+      "KWC",
+      "Kenanga Wholesale City",
+      "Gm Klang",
+      "Wholesale City Gm Klang",
+      "Alamanda Putrajaya",
+      "Centrepoint Bandar Utama",
+      "Freeport A’Famosa",
+      "Freeport A'Famosa",
+      "Bangsar Village II",
+      "KSL CITY",
+      "Straits Quay",
+      "Jaya One",
+      "Gurney Walk"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "detail": "The cafe is listed as a unit in a named shopping/retail complex."
+  },
+  {
+    "aliases": [
+      "Sunway Lagoon",
+      "Kidzania",
+      "Curve NX"
+    ],
+    "locationType": "inside-building",
+    "basis": "address",
+    "detail": "The cafe listing identifies a hosted attraction/theme-park venue rather than an independent street shop."
+  },
+  {
+    "aliases": [
+      "PJ33",
+      "Phileo Damansara",
+      "Quill 18",
+      "Symphony House",
+      "Technology Park Malaysia",
+      "Suasana PjH",
+      "Mercu 2",
+      "Low Yat Park",
+      "The Food Merchant @ Solaris"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "detail": "The listed unit is in a named office/retail building or company campus."
+  },
+  {
+    "aliases": [
+      "KL Traders Square",
+      "KL Trader Square",
+      "Plaza KLTS",
+      "Botani Village"
+    ],
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "The outlet is a separately addressed shoplot in a commercial retail district."
+  },
+  {
+    "aliases": [
+      "Emart",
+      "Gurney Walk",
+      "Plaza Arkadia",
+      "Bangsar New Village II"
+    ],
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "detail": "The cafe is listed as a unit in a named managed shopping/retail venue."
+  }
+]

@@ -17,6 +17,12 @@ export type Outlet = {
   state: string
   lat: number | null
   lng: number | null
+  locationType: 'inside-building' | 'standalone-shop'
+  locationTypeEvidence: {
+    basis: 'address' | 'official-venue' | 'inferred'
+    detail: string
+    sourceUrl?: string
+  }
   publicTransport?: PublicTransport
 }
 
@@ -26,7 +32,12 @@ const transportByOutlet = new Map(transitData.matches.map((match) => [
   { ...match.stop, distanceKm: match.distanceKm } as PublicTransport,
 ]))
 
-export const outlets: Outlet[] = data.map((outlet) => {
+// Keep chain datasets separate. The current ZUS app uses its own group below.
+export type CoffeeChain = keyof typeof data
+// JSON string values are checked by pnpm check-outlets before shipping.
+export const outletsByChain = data as Record<CoffeeChain, Outlet[]>
+
+export const outlets: Outlet[] = outletsByChain['zus-coffee'].map((outlet) => {
   const publicTransport = transportByOutlet.get(outletKey(outlet))
   return publicTransport ? { ...outlet, publicTransport } : outlet
 })

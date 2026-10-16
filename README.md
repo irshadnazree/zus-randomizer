@@ -65,11 +65,48 @@ Project commands use the Cloudflare `cf` CLI. Deployment settings live in `cloud
 
 ## Outlet data
 
-Outlets live in `src/data/outlets.json`. Refresh them with:
+Outlets live in `src/data/outlets.json`, grouped into separate arrays by coffee chain:
+
+- `zus-coffee` — ZUS Coffee
+- `luckin-coffee` — Luckin Coffee
+- `coffee-bean-tea-leaf` — The Coffee Bean & Tea Leaf
+- `san-francisco-coffee` — San Francisco Coffee
+
+Every outlet keeps the same `name`, `address`, `city`, `state`, `lat`, and `lng` fields. Unknown cities or coordinates are `null`; no coordinates are guessed. `src/outlets.ts` exports `outletsByChain` for access to each chain. The current ZUS randomizer, directory, and transit snapshot use the `zus-coffee` group.
+
+Each outlet also has a `locationType` with exactly two groups:
+
+- `standalone-shop`: street-facing shops/shoplots and separately accessed drive-through cafes. This includes row shops; it does not require a detached building.
+- `inside-building`: outlets hosted within malls/shopping centres, office buildings, airports, hospitals, hotels, universities, residential retail buildings and other facilities. Managed shopping venues can include open-air outlet centres.
+
+`locationTypeEvidence` records the basis (`address`, `official-venue`, or `inferred`), an explanation and, where applicable, a source URL. These are classifications of the saved listings, not a survey of every entrance. Address-only and ambiguous street-shop/drive-through cases are explicitly marked `inferred`.
+
+Refreshes apply the same classification rules automatically. Named venue evidence lives in `src/data/outlet-location-venues.json`; individual exceptions in `src/data/outlet-location-overrides.json` match the chain, full name and full address so an address change cannot silently inherit an old exception. A refresh with an unresolved location fails before replacing the saved chain.
+
+After reviewing venue evidence or exceptions, reclassify the saved snapshot without fetching new outlets:
+
+```sh
+pnpm run classify-outlets
+pnpm run check-outlets
+```
+
+Refresh one chain at a time; each command preserves the other groups:
 
 ```sh
 pnpm run fetch-outlets
+pnpm run fetch-outlets:luckin
+pnpm run fetch-outlets:cbtl
+pnpm run fetch-outlets:sf
 ```
+
+Refresh all chains sequentially and validate the dataset:
+
+```sh
+pnpm run fetch-outlets:all
+pnpm run check-outlets
+```
+
+Run refresh commands sequentially to avoid concurrent writers. The new-chain fetchers also accept `--output <path>` to save a standalone array for inspection without changing the shared dataset. Official sources and snapshot coverage are recorded in `src/data/outlet-sources.json`. These are saved listings, not a guarantee of current operating status.
 
 Nearby transport lives in `src/data/transit.json`, a local snapshot derived from [OpenStreetMap](https://www.openstreetmap.org/copyright) data (ODbL). Refresh it after updating outlets:
 

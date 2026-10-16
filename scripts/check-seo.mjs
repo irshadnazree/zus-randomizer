@@ -6,7 +6,7 @@ import { readFile } from 'node:fs/promises'
 import { pathToFileURL } from 'node:url'
 
 const site = 'https://kopi.ruxera.com'
-const outlets = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))
+const outlets = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))['zus-coffee']
 const states = [...new Set(outlets.map((outlet) => outlet.state))].sort()
 const statePath = (name) => `/outlets/${name.toLowerCase().replace(/\s+/g, '-')}`
 const paths = ['/', '/about', '/outlets', ...states.map(statePath)]

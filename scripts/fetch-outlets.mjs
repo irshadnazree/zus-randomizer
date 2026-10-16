@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-// Regenerates src/data/outlets.json from the ZUS Coffee website (zuscoffee.com).
+// Refreshes only the zus-coffee group in src/data/outlets.json.
 //
 // Source: the WordPress REST API behind https://zuscoffee.com/our-stores/.
 //   Each outlet is a WP post in a child category of "Store" (id 53), with the
@@ -10,14 +10,12 @@
 // Usage: node scripts/fetch-outlets.mjs [--no-coords]
 // Requires Node 20+. No dependencies.
 
-import { writeFile, mkdir } from 'node:fs/promises';
-import { dirname, resolve } from 'node:path';
-import { fileURLToPath } from 'node:url';
+import { outletDataPath, writeOutletChain } from './outlet-data.mjs';
 
 const BASE = 'https://zuscoffee.com/wp-json/wp/v2';
 const STORE_CATEGORY_ID = 53;
 const UA = 'Mozilla/5.0 (compatible; zus-randomizer-dataset/1.0)';
-const OUT = resolve(dirname(fileURLToPath(import.meta.url)), '../src/data/outlets.json');
+const OUT = outletDataPath;
 const WITH_COORDS = !process.argv.includes('--no-coords');
 const COORD_CONCURRENCY = 3;
 const DELAY_MS = 150;
@@ -298,8 +296,7 @@ async function main() {
   }
   out.sort((a, b) => a.state.localeCompare(b.state) || a.name.localeCompare(b.name));
 
-  await mkdir(dirname(OUT), { recursive: true });
-  await writeFile(OUT, JSON.stringify(out, null, 2) + '\n');
+  await writeOutletChain('zus-coffee', out);
 
   const perState = {};
   for (const o of out) perState[o.state] = (perState[o.state] ?? 0) + 1;

@@ -3,7 +3,9 @@
 import { readFile, writeFile } from 'node:fs/promises'
 import { fileURLToPath } from 'node:url'
 
-const outlets = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))
+const outletsByChain = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))
+// The current randomizer and transport snapshot cover ZUS Coffee.
+const outlets = outletsByChain['zus-coffee']
 const maxDistanceKm = 0.5
 const query = `[out:json][timeout:90];
 area["ISO3166-1"="MY"]["admin_level"="2"]->.my;

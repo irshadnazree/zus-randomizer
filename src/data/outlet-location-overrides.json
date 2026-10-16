@@ -1,0 +1,67 @@
+[
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Guar Chempedak",
+    "address": "No 9, Kompleks Perniagaan Guar Utama, 08800 Guar Chempedak",
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "A separately numbered shop in the Guar Utama business district; treated as a street shoplot, not a shopping-centre unit."
+  },
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Jitra",
+    "address": "Lot 1521-A1, Pantai Halban, Bandar Darulaman Jaya, 06000 Jitra, Kedah Darul Aman",
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "An individually addressed retail land/lot number in Pantai Halban, without a named host building."
+  },
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Found8 KL Sentral",
+    "address": "5, Jalan Stesen Sentral, East Wing, Level 3 Kuala Lumpur Sentral 50470 Kuala Lumpur",
+    "locationType": "inside-building",
+    "basis": "address",
+    "detail": "The listing places the cafe in the east wing on level 3 at Found8/KL Sentral, rather than a street shoplot."
+  },
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Jalan Balik Pulau, Penang",
+    "address": "47, Mukim 6, Balik Pulau VLGE Area, 11000 Balik Pulau Penang",
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "A numbered locality/street-addressed shop with no identified mall, office or institutional host."
+  },
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Karpal Singh Drive, Penang",
+    "address": "Lot 9, Maritime, Karpal Singh Dr, 11600 Jelutong, Penang",
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "A separately numbered retail shop along Karpal Singh Drive; treated as a street-facing shoplot rather than a mall interior."
+  },
+  {
+    "chain": "zus-coffee",
+    "name": "ZUS Coffee - Selera Putra, Souq Putrajaya",
+    "address": "Lot G-005, Selera Putra, Souq Putrajaya, Presint 1, 62000 Putrajaya",
+    "locationType": "inside-building",
+    "basis": "address",
+    "detail": "The address places the cafe within the Selera Putra/Souq food-court and shopping venue.",
+    "sourceUrl": "https://www.ppj.gov.my/storage/putrajaya/195/195.pdf"
+  },
+  {
+    "chain": "coffee-bean-tea-leaf",
+    "name": "The Coffee Bean & Tea Leaf - Solaria Square",
+    "address": "Lot G-1, Solaria Square, Medan Rajawali, Kampung Perlis Bayan Lepas Penang 11900",
+    "locationType": "inside-building",
+    "basis": "inferred",
+    "detail": "The cafe is identified by a ground-floor retail unit within the named Solaria Square development."
+  },
+  {
+    "chain": "san-francisco-coffee",
+    "name": "San Francisco Coffee - Ayer@8",
+    "address": "Unit A2-G-3A, Ayer @8, Presint 8, 62250 Wilayah Persekutuan Putrajaya",
+    "locationType": "standalone-shop",
+    "basis": "inferred",
+    "detail": "A separately addressed ground-floor retail shoplot at the Ayer@8 waterfront commercial precinct; treated as independently accessed retail."
+  }
+]

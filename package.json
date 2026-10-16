@@ -13,7 +13,14 @@
     "typecheck": "pnpm run cf-typegen && tsc --noEmit",
     "cf-typegen": "cf workers types",
     "fetch-outlets": "node scripts/fetch-outlets.mjs",
-    "fetch-transit": "node scripts/fetch-transit.mjs"
+    "fetch-transit": "node scripts/fetch-transit.mjs",
+    "fetch-outlets:luckin": "node scripts/fetch-luckin-outlets.mjs",
+    "fetch-outlets:cbtl": "node scripts/fetch-cbtl-outlets.mjs",
+    "fetch-outlets:sf": "node scripts/fetch-sf-outlets.mjs",
+    "fetch-outlets:all": "pnpm fetch-outlets && pnpm fetch-outlets:luckin && pnpm fetch-outlets:cbtl && pnpm fetch-outlets:sf",
+    "check-outlets": "node scripts/check-outlets.mjs",
+    "classify-outlets": "node scripts/classify-outlets.mjs",
+    "test:locations": "node --test scripts/outlet-locations.test.mjs"
   },
   "dependencies": {
     "hono": "^4.13.13"
