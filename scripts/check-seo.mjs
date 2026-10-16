@@ -4,6 +4,7 @@
 import assert from 'node:assert/strict'
 import { readFile } from 'node:fs/promises'
 import { pathToFileURL } from 'node:url'
+import { dirname, resolve } from 'node:path'
 
 const site = 'https://kopi.ruxera.com'
 const outlets = JSON.parse(await readFile(new URL('../src/data/outlets.json', import.meta.url), 'utf8'))['zus-coffee']
@@ -13,7 +14,15 @@ const paths = ['/', '/about', '/outlets', ...states.map(statePath)]
 const useWorker = process.argv[2] === '--worker'
 const worker = useWorker ? (await import(pathToFileURL(process.argv[3]).href)).default : null
 const base = useWorker ? site : process.argv[2] || 'http://localhost:8787'
-const request = (path) => worker ? worker.request(`${base}${path}`) : fetch(`${base}${path}`, { redirect: 'manual' })
+const assetsRoot = useWorker ? resolve(dirname(process.argv[3]), '../assets') : null
+const env = useWorker ? { ASSETS: {
+  async fetch(request) {
+    const path = new URL(request.url).pathname
+    assert.equal(path, '/index.html', 'SSR reads the Vite HTML template')
+    return new Response(await readFile(resolve(assetsRoot, 'index.html'), 'utf8'))
+  },
+} } : undefined
+const request = (path) => worker ? worker.request(`${base}${path}`, {}, env) : fetch(`${base}${path}`, { redirect: 'manual' })
 const titles = new Set()
 
 for (const path of paths) {
@@ -55,7 +64,7 @@ for (const path of paths) {
     for (const question of faq.mainEntity) {
       assert.ok(html.includes(question.name), `Visible question: ${question.name}`)
       // FAQ copy is plain text; apostrophes may be encoded by the JSX renderer.
-      const decoded = html.replace(/&#39;/g, "'").replace(/&amp;/g, '&').replace(/&quot;/g, '"')
+      const decoded = html.replace(/&#(?:39|x27);/g, "'").replace(/&amp;/g, '&').replace(/&quot;/g, '"')
       assert.ok(decoded.includes(question.acceptedAnswer.text), `Visible answer: ${question.name}`)
     }
     for (const id of ['how-it-works', 'browse-states', 'faq']) {
@@ -74,7 +83,7 @@ for (const path of paths) {
       const state = states.find((name) => statePath(name) === path)
       const expected = outlets.filter((outlet) => outlet.state === state)
       assert.equal(list.numberOfItems, expected.length)
-      const visible = html.replace(/&amp;/g, '&').replace(/&#39;/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
+      const visible = html.replace(/&amp;/g, '&').replace(/&#(?:39|x27);/g, "'").replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>')
       expected.forEach((outlet, index) => {
         assert.equal(list.itemListElement[index].item.name, outlet.name)
         assert.equal(list.itemListElement[index].item.address.streetAddress, outlet.address)

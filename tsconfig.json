@@ -6,10 +6,10 @@
     "strict": true,
     "skipLibCheck": true,
     "resolveJsonModule": true,
-    "lib": ["ESNext"],
-    "types": ["./.cloudflare/types/index.d.ts"],
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["./.cloudflare/types/index.d.ts", "vite/client", "node"],
     "jsx": "react-jsx",
-    "jsxImportSource": "hono/jsx"
+    "jsxImportSource": "react"
   },
-  "include": ["src", "cloudflare.config.ts", "wrangler.config.ts", ".cloudflare/types"]
+  "include": ["src", "cloudflare.config.ts", "vite.config.ts", ".cloudflare/types"]
 }

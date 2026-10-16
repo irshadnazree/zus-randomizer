@@ -2,3 +2,5 @@ allowBuilds:
   '@parcel/watcher': true
   esbuild: true
   workerd: true
+minimumReleaseAgeExclude:
+  - '@cloudflare/vite-plugin@2.0.0-beta.v.0'

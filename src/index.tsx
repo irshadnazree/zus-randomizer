@@ -5,10 +5,14 @@ import { Directory, NotFound } from './directory'
 import { Page } from './page'
 import { distanceKm, filterOutlets, hasCoordinates, outlets, pick, states } from './outlets'
 import { SITE_URL, statePath } from './seo'
+import { renderPage, type PageDocument } from './render'
 
 type Env = { Bindings: Cloudflare.Env }
 
 const app = new Hono<Env>()
+
+const page = async (c: Context<Env>, document: PageDocument, status: 200 | 404 = 200) =>
+  c.html(await renderPage(document, c.req.raw, c.env.ASSETS), status)
 
 // Normalize trailing slashes without sending local development requests to production.
 app.use('*', async (c, next) => {
@@ -25,15 +29,15 @@ app.use('*', async (c, next) => {
 
 app.get('/', (c) => {
   const selectedState = states.find((state) => state.name === c.req.query('state'))?.name
-  return c.html(<Page states={states} total={outlets.length} hasCoordinates={hasCoordinates} selectedState={selectedState} />)
+  return page(c, Page({ states, total: outlets.length, hasCoordinates, selectedState }))
 })
 
-app.get('/about', (c) => c.html(<About />))
+app.get('/about', (c) => page(c, About()))
 
-app.get('/outlets', (c) => c.html(<Directory />))
+app.get('/outlets', (c) => page(c, Directory({})))
 app.get('/outlets/:state', (c) => {
   const state = states.find((region) => statePath(region.name) === c.req.path)
-  return state ? c.html(<Directory state={state.name} />) : c.html(<NotFound />, 404)
+  return state ? page(c, Directory({ state: state.name })) : page(c, NotFound(), 404)
 })
 
 app.get('/robots.txt', (c) => {
@@ -116,7 +120,7 @@ app.get('/api/random', async (c) => {
 
 app.notFound((c) => {
   c.header('X-Robots-Tag', 'noindex')
-  return c.html(<NotFound />, 404)
+  return page(c, NotFound(), 404)
 })
 
 export default app

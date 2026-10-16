@@ -4,7 +4,7 @@ Can't decide which ZUS Coffee to go to? Spin and let fate pick one for you.
 
 Live at **https://kopi.ruxera.com**
 
-Built with [Hono](https://hono.dev) (JSX, server-rendered) on Cloudflare Workers and styled with [Tailwind CSS](https://tailwindcss.com) v4.
+Built with [React](https://react.dev) and [Vite](https://vite.dev), with [Hono](https://hono.dev) APIs on Cloudflare Workers and [Tailwind CSS](https://tailwindcss.com) v4. React server-renders the pages; the randomizer hydrates in the browser.
 
 ## Features
 
@@ -31,7 +31,9 @@ Verify the running server without starting another one:
 
 ```sh
 pnpm run typecheck
+pnpm test
 pnpm run build
+pnpm run test:seo
 pnpm exec cf deploy --prebuilt --dry-run
 node scripts/check-seo.mjs http://localhost:8787
 ```
@@ -44,12 +46,16 @@ Use Node.js 22 (see `.node-version`) and pnpm 11.9.0.
 
 ```sh
 pnpm install
-pnpm run dev        # cf builds CSS + vendor assets before starting
+pnpm run dev        # cf starts Vite + the Workers runtime on port 8787
 pnpm run typecheck
 pnpm run build
 ```
 
-Project commands use the Cloudflare `cf` CLI. Deployment settings live in `cloudflare.config.ts`; the existing Wrangler bundler is retained internally, with asset generation, minification, and the public asset directory configured in `wrangler.config.ts`. Builds write the deployable Worker and assets to `.cloudflare/output/v0/`.
+Project commands use the Cloudflare `cf` CLI. Deployment settings and the `ASSETS` binding live in `cloudflare.config.ts`; `vite.config.ts` integrates React Fast Refresh, Tailwind, and Cloudflare’s Vite plugin. The Cloudflare plugin is pinned to a beta compatible with the existing beta `cf` configuration format. Builds write the deployable Worker and fingerprinted assets to `.cloudflare/output/v0/`.
+
+`index.html` is the Vite entry template. Hono renders React page content and metadata into it, fetching the transformed template through `ASSETS` in both development and production. The randomizer uses React state and hydrates from safely serialized server props. About and directory content remains readable without JavaScript, and the full outlet dataset stays on the Worker.
+
+`pnpm test` covers hydration, filters, location handling, sound preferences, errors, and the single-outlet spin. After a build, `pnpm run test:seo` checks the built Worker and HTML template directly without starting a server. To check the already running server and its static asset binding, use `node scripts/check-seo.mjs http://localhost:8787`.
 
 `pnpm run cf-typegen` generates runtime and binding types in `.cloudflare/types/index.d.ts`. Typecheck regenerates these types automatically, and generated Cloudflare files are ignored by Git.
 

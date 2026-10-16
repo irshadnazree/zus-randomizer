@@ -40,7 +40,8 @@ async function photon(q: string): Promise<Place | null> {
 export async function geocode(query: string, ctx: { waitUntil(promise: Promise<unknown>): void }): Promise<Place | null> {
   const q = query.trim().toLowerCase().replace(/\s+/g, ' ').slice(0, 120)
   const cacheKey = new Request(`https://kopi.ruxera.com/__geocode/v2?q=${encodeURIComponent(q)}`)
-  const cache = caches.default
+  // Workers adds a default cache alongside the browser CacheStorage API.
+  const cache = (caches as CacheStorage & { readonly default: Cache }).default
   const cached = await cache.match(cacheKey)
   if (cached) return cached.json()
 
